@@ -42,7 +42,6 @@
 * **[Physics](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#physics)**
 * **[Other FFlags](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#other-fflags)**
 * **[Links](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#links)**
-* **[FastFlag Community Server](https://discord.gg/YreqZ7aYmg)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
