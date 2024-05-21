@@ -35,13 +35,13 @@
 [Watch a Video Tutorial](https://www.youtube.com/watch?v=5XjhPF5ydJM)
 
  # List Navigation
-* **[Rendering](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#rendering)**
-* **[Graphical](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#graphical-settings)**
-* **[UI](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#user-interface)**
-* **[Textures](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#textures)**
-* **[Physics](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#physics)**
-* **[Other FFlags](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#other-fflags)**
-* **[Links](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#links)**
+* **[Rendering](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#rendering)**
+* **[Graphical](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#graphical-settings)**
+* **[UI](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#user-interface)**
+* **[Textures](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#textures)**
+* **[Physics](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#physics)**
+* **[Other FFlags](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#other-fflags)**
+* **[Links](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#links)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
@@ -64,7 +64,7 @@
 
 ### Semi Fullbright 2
 ##### soon or maybe never
-![image](https://github.com/collectivists/FastFlags/assets/166893422/567b07ac-fc90-4c8d-9f38-e71c00f144d1)
+![image](https://github.com/collectivists/rbxflags/assets/166893422/567b07ac-fc90-4c8d-9f38-e71c00f144d1)
 
 
 <h1 align="center">Rendering API</h1>
@@ -227,7 +227,7 @@ High
 ```
 
 ### Low Render Distance
-###### [FRM](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#frm-levels)
+###### [FRM](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#frm-levels)
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
@@ -254,7 +254,7 @@ High
 }
 ```
 ### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/collectivists/FastFlags/tree/main?tab=readme-ov-file#frm-levels) ]***
+###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#frm-levels) ]***
 ```json
 {
     "DFIntRenderClampRoughnessMax": "-640000000",
