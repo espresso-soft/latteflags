@@ -1346,7 +1346,7 @@ High
   </a>
 </h1>
 
-<h4 align="center">FastFlags 2024®<sup>eal</sup></h3>
+<h4 align="center">COLLECTIVISTS 2024®<sup>eal</sup></h3>
 
 <p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
 
