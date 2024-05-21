@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate FastFlags List</h1>
 
-#### Version: 5.16.24++
-* **161 Currently Listed**
+#### Version: 5.21.24++
+* **162 Currently Listed**
 * **Community Presets**
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
@@ -1128,6 +1128,12 @@ High
 ```json
 {
     "FFlagDebugEnableOctreeValidation": "True"
+}
+```
+### Limit Videos Playing
+```json
+{
+    "DFIntVideoMaxNumberOfVideosPlaying": "0"
 }
 ```
 ### Self Explanatory 1
