@@ -27,3 +27,9 @@ By continuing to read this document, you agree that you have read and agree with
 As stated in this repository's Terms and Conditions, by using the information in this repository you relieve it's creator(s) of any liability caused by your use, including legal and financial liability.
 
 By accessing this repository, you agree that you have read and agree with this repository's Terms and Conditions. If you do not agree, cease accessing this rentry immediately.
+
+<h3 align="center">
+  <img src="assets/ICON-DARK.gif" width="86" alt="COLLECTIVISTS">
+</h3>
+
+<h4 align="center">COLLECTIVISTS 2024®</h3>
