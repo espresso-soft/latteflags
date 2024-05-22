@@ -1,4 +1,4 @@
-<h3 align="center">✧ <a href="https://www.last.fm/user/fastvariable">last.fm</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://rentry.org/uffl">og rentry</a></h3>
+<h3 align="center">♡ ~ <a href="https://www.last.fm/user/fastvariable">last.fm</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://rentry.org/uffl">og rentry</a> ~ ♡</h3>
 
 <h3 align="center">
   <img src="assets/asap.gif" width="256" alt="LIVE.LOVE.A$AP">
