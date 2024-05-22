@@ -6,7 +6,7 @@
 
 #### Version: 5.21.24++
 * **162 Currently Listed**
-* **Community Presets**
+* **`Semi Fullbright`, `Disable Shadows`, `Enable CPULightCulling`, `Favorite Item In-game`, `Octree Validation`, `Remove VR Toggle`, `Break Collectible Icon`, `Pin Buttons on Chrome UI`, `Disable Camera & Selfview`, `Force Disable Camera`, `Disable Avatar Chat`, `Audio Occlusion`, `Break Top Bar Menu`, `Limit Videos Playing`**
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
 ## Bloxstrap How to Use:
@@ -50,25 +50,6 @@
 <img src="assets/bitdancer.png" width="888"/>
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
-
-<h1 align="center">TESTING</h1>
-
-### Semi Fullbright
-```json
-{
-    "FFlagFastGPULightCulling3": "True",
-    "FIntRenderShadowIntensity": "0",
-    "DFIntCullFactorPixelThresholdShadowMapHighQuality ": "2147483647",
-    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
-    "FFlagNewLightAttenuation": "True",
-    "FIntRenderShadowmapBias": "-1",
-    "DFFlagDebugPauseVoxelizer": "True"
-}
-```
-
-### Semi Fullbright 2
-##### soon or maybe never
-![image](https://github.com/collectivists/rbxflags/assets/166893422/567b07ac-fc90-4c8d-9f38-e71c00f144d1)
 
 
 <h1 align="center">Rendering API</h1>
@@ -130,6 +111,18 @@
 
 <h1 align="center">Graphical Settings <sup>& more</sup></h1>
 
+### Semi Fullbright
+```json
+{
+    "FFlagFastGPULightCulling3": "True",
+    "FIntRenderShadowIntensity": "0",
+    "DFIntCullFactorPixelThresholdShadowMapHighQuality ": "2147483647",
+    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
+    "FFlagNewLightAttenuation": "True",
+    "FIntRenderShadowmapBias": "-1",
+    "DFFlagDebugPauseVoxelizer": "True"
+}
+```
 ### Draws a circle under avatars
 ```json
 {
@@ -770,7 +763,7 @@ High
 }
 ```
 ### Change DataSender Rate
-###### a.k.a dos not let you load games
+###### a.k.a does not let you load games
 ```json
 {
     "DFIntDataSenderRate": "-1"
