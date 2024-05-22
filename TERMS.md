@@ -1,7 +1,5 @@
 <h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate FastFlags List</h1>
 
-<h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
-
 <h2 align="center">Repository Intent</h2>
 
 * This list exists purely for the purposes of learning more about the inner workings of our favourite games.
