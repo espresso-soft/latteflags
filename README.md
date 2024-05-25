@@ -6,9 +6,9 @@
 
 <h1 align="center">rbxflags</h1>
 
-#### Version: 5.21.24++
+#### Version: 5.25.24++
 * **162 Currently Listed**
-* **`Semi Fullbright`, `Disable Shadows`, `Enable CPULightCulling`, `Favorite Item In-game`, `Octree Validation`, `Remove VR Toggle`, `Break Collectible Icon`, `Pin Buttons on Chrome UI`, `Disable Camera & Selfview`, `Force Disable Camera`, `Disable Avatar Chat`, `Audio Occlusion`, `Break Top Bar Menu`, `Limit Videos Playing`**
+* ** `Revert New "Builder" Font`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
 ## Bloxstrap How to Use:
@@ -431,7 +431,8 @@ High
 ### Revert New "Builder" Font
 ```json
 {
-    "FFlagEnableNewFontNameMappingABTest2": "False"
+    "FFlagEnableNewFontNameMappingABTest2": "False",
+    "FFlagUIBloxDevUseNewFontNameMapping": "False"
 }
 ```
 ### FPS Unlocker in Roblox Menu Settings
