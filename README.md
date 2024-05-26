@@ -8,7 +8,7 @@
 
 #### Version: 5.25.24++
 * **162 Currently Listed**
-* ** `Revert New "Builder" Font`
+* `Revert New "Builder" Font`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
 ## Bloxstrap How to Use:
