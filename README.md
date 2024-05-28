@@ -6,7 +6,7 @@
 
 <h1 align="center">rbxflags</h1>
 
-###### "has nothing better to do so he sits on his computer waiting until i send a new flag lol" i do not give a f%$k about fastflags, is fo da community 🙏🏽🙏🏽
+###### "has nothing better to do so he sits on his computer waiting until i send a new flag lol" i do not give a f%$k about fastflags, is not fo my own use is fo da community 🙏🏽🙏🏽
 
 #### Version: 5.28.24++
 * **163 Currently Listed**
