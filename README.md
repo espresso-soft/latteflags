@@ -806,6 +806,13 @@ High
     "DFIntPhysicsSenderMaxBandwidthBpsScaling": "0"
 }
 ```
+### Invisible 4 [GATEKEPT UNTIL LEAKED]
+```
+{
+    "?": "-1",
+    "?": "2147483647"
+}
+```
 ### Clientsided Invisible
 ```json
 {
