@@ -4,9 +4,7 @@
   <img src="assets/asap.gif" width="256" alt="LIVE.LOVE.A$AP">
 </h3>
 
-<h1 align="center">rbxflags</h1>
-
-###### "has nothing better to do so he sits on his computer waiting until i send a new flag lol" i do not give a f%$k about fastflags, is not fo my own use is fo da community 🙏🏽🙏🏽
+<h1 align="center">plagiarizing simulator</h1>
 
 #### Version: 5.28.24++
 * **163 Currently Listed**
