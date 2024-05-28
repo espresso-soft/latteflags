@@ -6,9 +6,9 @@
 
 <h1 align="center">rbxflags</h1>
 
-#### Version: 5.25.24++
-* **162 Currently Listed**
-* `Revert New "Builder" Font`
+#### Version: 5.28.24++
+* **163 Currently Listed**
+* `Noclip 2`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
 ## Bloxstrap How to Use:
@@ -823,11 +823,18 @@ High
     "DFIntMaxMissedWorldStepsRemembered": "1000"
 }
 ```
-### Noclip
+### Noclip 1
 ###### Adjust the value so you don't fall through the ground
 ```json
 {
     "DFFlagAssemblyExtentsExpansionStudHundredth": "-50"
+}
+```
+### Noclip 2 — 30/01/2024
+###### Adjust the value so you don't fall through the ground
+```json
+{
+    "DFIntSimBroadPhasePairCountMax": "50"
 }
 ```
 ### Hip Height
