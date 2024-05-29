@@ -8,7 +8,7 @@
 
 #### Version: 5.28.24++
 * **163 Currently Listed**
-* `Noclip 2`
+* `Revert New "Builder" Font`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
 ## Bloxstrap How to Use:
@@ -431,8 +431,10 @@ High
 ### Revert New "Builder" Font
 ```json
 {
+    "FFlagUIBloxDevUseNewFontNameMapping": "False",
     "FFlagEnableNewFontNameMappingABTest2": "False",
-    "FFlagUIBloxDevUseNewFontNameMapping": "False"
+    "FFlagAddArialToLegacyContent": "False",
+    "FFlagAddGothamToLegacyContent": "False"
 }
 ```
 ### FPS Unlocker in Roblox Menu Settings
