@@ -6,9 +6,9 @@
 
 <h1 align="center">plagiarizing simulator</h1>
 
-#### Version: 5.28.24++
-* **163 Currently Listed**
-* `Revert New "Builder" Font`
+#### Version: 5.31.24++
+* **164 Currently Listed**
+* `No Decals`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
 ## Bloxstrap How to Use:
@@ -163,13 +163,6 @@
     "FIntRomarkStartWithGraphicQualityLevel": "1"
 }
 ```
-### Low Quallity Terrain Textures
-###### 4 for less quality 16, 32, 64 for higher quality
-```json
-{
-    "FIntTerrainArraySliceSize": "4"
-}
-```
 ### Disable Player Shadows
 ```json
 {
@@ -320,6 +313,13 @@ High
     "DFIntMaxFrameBufferSize": "4"
 }
 ```
+### Low Quallity Terrain Textures
+###### 4 for less quality 16, 32, 64 for higher quality
+```json
+{
+    "FIntTerrainArraySliceSize": "4"
+}
+```
 ### High Quality Textures 
 ###### *[1-3]*
 ```json
@@ -339,6 +339,13 @@ High
 ```json
 {
     "DFIntTextureCompositorActiveJobs": "0"
+}
+```
+### No Decals
+###### From: https://discord.gg/nKjV3mGq6R
+```json
+{
+    "FIntDebugTextureManagerSkipMips": "-1"
 }
 ```
 ### Remove Grass
