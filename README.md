@@ -850,7 +850,7 @@ High
 ###### Adjust the value so you don't fall through the ground
 ```json
 {
-    "DFIntSimBroadPhasePairCountMax": "190"
+    "DFIntSimBroadPhasePairCountMax": "40"
 }
 ```
 ### Hip Height
