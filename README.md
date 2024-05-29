@@ -846,11 +846,11 @@ High
     "DFFlagAssemblyExtentsExpansionStudHundredth": "-50"
 }
 ```
-### Noclip 2 — 30/01/2024
+### Noclip 2
 ###### Adjust the value so you don't fall through the ground
 ```json
 {
-    "DFIntSimBroadPhasePairCountMax": "50"
+    "DFIntSimBroadPhasePairCountMax": "190"
 }
 ```
 ### Hip Height
