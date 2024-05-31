@@ -7,7 +7,7 @@
 <h1 align="center">plagiarizing simulator</h1>
 
 #### Version: 5.31.24++
-* **164 Currently Listed**
+* **165 Currently Listed**
 * `No Decals`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
@@ -1156,6 +1156,13 @@ High
 ```json
 {
     "DFIntVideoMaxNumberOfVideosPlaying": "0"
+}
+```
+### Disable DSA Reporting In-game
+###### @kezcn
+```json
+{
+    "FFlagDSAIllegalContentReporting2": "False"
 }
 ```
 ### Self Explanatory 1
