@@ -6,7 +6,7 @@
 
 <h1 align="center">plagiarizing simulator</h1>
 
-#### Version: 5.31.24++
+#### Version: 6.1.24++
 * **165 Currently Listed**
 * `No Decals`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
@@ -52,6 +52,15 @@
 <img src="assets/bitdancer.png" width="888"/>
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
+
+<h1 align="center">Pride Month Exclusive</h1>
+
+### Become gay!
+```json
+{
+    "FFlagDebugDisplayUnthemedInstances": "True"
+}
+```
 
 
 <h1 align="center">Rendering API</h1>
