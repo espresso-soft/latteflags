@@ -1266,7 +1266,12 @@ High
   "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
   "DFIntDebugFRMQualityLevelOverride": "1",
   "DFFlagDebugPauseVoxelizer": "True",
-  "DFFlagDebugRenderForceTechnologyVoxel": "True"
+  "DFFlagDebugRenderForceTechnologyVoxel": "True",
+      "FFlagGlobalWindRendering": "False",
+    "FIntRenderShadowIntensity": "0",
+    "FIntRenderShadowmapBias": "1",
+    "FIntDebugForceMSAASamples": "-1",
+    "FIntFRMMinGrassDistance": "0"
 }
 ```
 
