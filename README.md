@@ -8,7 +8,7 @@
 
 #### Version: 6.1.24++
 * **167 Currently Listed**
-* `No Decals`
+* `Remove layared clothing related for searching in lua app catalog`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
 ## Bloxstrap How to Use:
@@ -357,7 +357,7 @@ High
     "FIntDebugTextureManagerSkipMips": "-1"
 }
 ```
-### Remove layared clothing related for searching lua app catalog
+### Remove layared clothing related for searching in lua app catalog
 ###### From: https://discord.gg/nKjV3mGq6R
 ```json
 {
