@@ -7,7 +7,7 @@
 <h1 align="center">plagiarizing simulator</h1>
 
 #### Version: 6.1.24++
-* **165 Currently Listed**
+* **167 Currently Listed**
 * `No Decals`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
@@ -355,6 +355,13 @@ High
 ```json
 {
     "FIntDebugTextureManagerSkipMips": "-1"
+}
+```
+### Remove layared clothing related for searching lua app catalog
+###### From: https://discord.gg/nKjV3mGq6R
+```json
+{
+    "FStringAXCategories": "ClassicShirts.ClassicTShirts.ClassicPants"
 }
 ```
 ### Remove Grass
