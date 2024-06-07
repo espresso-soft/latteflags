@@ -1253,6 +1253,29 @@ High
     "DFIntMegaReplicatorNetworkQualityProcessorUnit": "10"
 }
 ```
+### absolutely kill your game quality with fflags known to me
+##### @dynamitebumblemouth
+```json
+{
+    "FFlagDisablePostFx": "True",
+    "FIntDebugTextureManagerSkipMips": "-1",
+    "DFIntTextureCompositorActiveJobs": "0",
+    "DFIntCSGLevelOfDetailSwitchingDistance": "0",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
+    "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
+    "DFIntDebugFRMQualityLevelOverride": "1",
+    "DFFlagDebugPauseVoxelizer": "True",
+    "DFFlagDebugRenderForceTechnologyVoxel": "True",
+    "FFlagGlobalWindRendering": "False",
+    "FIntRenderShadowIntensity": "0",
+    "FIntRenderShadowmapBias": "1",
+    "FIntDebugForceMSAASamples": "-1",
+    "FIntFRMMinGrassDistance": "0",
+    "DFIntTextureQualityOverride": "1"
+}
+```
+
 ### RCOOL
 ```json
 {
