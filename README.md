@@ -4,7 +4,7 @@
 
 <h1 align="center">rbxflags</h1>
 
-#### Version: 6.8.24++
+#### Version: v10.00.00/6.8.24 
 * **156 Currently Listed**
 * Remove `Textures`
 
