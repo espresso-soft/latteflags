@@ -40,18 +40,18 @@
 [Watch a Video Tutorial](https://www.youtube.com/watch?v=5XjhPF5ydJM)
 
  # List Navigation
-* **[Rendering](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#rendering)**
-* **[Lightning Technologies](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file##lightning-technologies)**
-* **[Graphical](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* **[Audio](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#audio-related)**
-* **[Physics](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#abusive-visuals)**
-* **[lol](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#lol)**
-* **[Debug](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#debug)**
-* **[Links](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#links)**
+* **[Rendering](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#rendering)**
+* **[Lightning Technologies](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
+* **[Graphical](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
+* **[Quality of Life](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
+* **[UI](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
+* **[UI X](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
+* **[Audio](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
+* **[Physics](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
+* **[Abusive Visuals](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
+* **[lol](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#lol)**
+* **[Debug](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#debug)**
+* **[Links](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#links)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
@@ -210,7 +210,7 @@ High
 }
 ```
 ### Low Render Distance
-###### [FRM](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#frm-levels)
+###### [FRM](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#frm-levels)
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
@@ -237,7 +237,7 @@ High
 }
 ```
 ### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#frm-levels) ]***
+###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#frm-levels) ]***
 ```json
 {
     "DFIntRenderClampRoughnessMax": "-640000000",
