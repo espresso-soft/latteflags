@@ -333,7 +333,7 @@ High
 }
 ```
 ### No Decals
-###### @genocydr
+##### @genocydr
 ![image](https://github.com/collectivists/rbxflags/assets/166893422/6d772e5f-6ec8-4506-9da0-551949f7a4f8)
 ```json
 {
