@@ -47,10 +47,9 @@
 * **[UI](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#user-interfacevisuals)**
 * **[UI X](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#user-interfacevisuals-experimental)**
 * **[Audio](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#audio-related)**
-* **[Textures](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#textures)**
 * **[Physics](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#lol)**
-* **[lol](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#abusive-visuals)**
+* **[Abusive Visuals](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#abusive-visuals)**
+* **[lol](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#lol)**
 * **[Debug](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#debug)**
 * **[Links](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#links)**
 
