@@ -126,7 +126,7 @@
 
 <h1 align="center">Graphical Settings</h1>
 
-## HyperThreading
+### HyperThreading
 ```json
 {
     "FFlagDebugCheckRenderThreading": "True",
