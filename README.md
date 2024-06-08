@@ -1312,21 +1312,21 @@ High
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
 ### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
 
-<h4 align="center">⁺̣‧You've reached the bottom of the list! ‧⁺̣</h4>
+<h4 align="center">⁺ You've reached the bottom of the list! ⁺</h4>
 
 # List Information
 * *Creation Date: 9:46 PM 08/25/2023*
 
 <h3 align="center">
-  <a href="https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG">
-    <img src="https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5" width="128" alt="Listen on Spotify">
+  <a href="https://open.spotify.com/track/5fSZXFOZfPVW9gvnnG4ZVW">
+    <img src="https://c.tenor.com/oklTQytYrg0AAAAC/tenor.gif" width="256" alt="Listen on Spotify">
   </a>
 </h3>
 
-<h3 align="center">I Hate U - SZA</h3>
+<h3 align="center">Punk Monk - Playboi Carti</h3>
 
 <h1 align="center">
-  <a href="https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG">
+  <a href="https://open.spotify.com/track/5fSZXFOZfPVW9gvnnG4ZVW">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
   </a>
 </h1>
