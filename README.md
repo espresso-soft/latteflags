@@ -7,7 +7,7 @@
 <h1 align="center">plagiarizing simulator</h1>
 
 #### Version: 6.1.24++
-* **167 Currently Listed**
+* **168 Currently Listed**
 * `Remove layared clothing related for searching in lua app catalog`
 * **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
@@ -465,6 +465,14 @@ High
 {
     "FFlagGameBasicSettingsFramerateCap5": "True",
     "DFIntTaskSchedulerTargetFps": "0"
+}
+```
+### Unlimited FPS Unlocker
+###### From: https://discord.gg/nKjV3mGq6R
+```json
+{
+    "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
+    "DFIntTaskSchedulerTargetFps": "9999"
 }
 ```
 ### Revert spacing on errors
