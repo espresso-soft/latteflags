@@ -1,15 +1,12 @@
-<h3 align="center">♡</h3>
-
 <h3 align="center">
   <img src="assets/asap.gif" width="256" alt="LIVE.LOVE.A$AP">
 </h3>
 
-<h1 align="center">plagiarizing simulator</h1>
+<h1 align="center">rbxflags</h1>
 
-#### Version: 6.1.24++
-* **168 Currently Listed**
-* `Remove layared clothing related for searching in lua app catalog`
-* **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
+#### Version: v10.00.00/6.8.24 
+* **156 Currently Listed**
+* Remove `Textures`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -28,7 +25,7 @@
 3. **Create a new folder named `ClientSettings`. Inside this folder, place the file `ClientAppSettings.json`.**
 4. **Paste the JSON into `ClientAppSettings.json`. (You can utilize ChatGPT to format multiple JSONs for clarity if needed)**
 5. **Save and your good to go!**
-###### Do note that after roblox updates you have to paste in your fflags again.
+###### Do note that after roblox updates you have to do this process again
 
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
 
@@ -42,16 +39,22 @@
 
  # List Navigation
 * **[Rendering](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#rendering)**
+* **[Lightning Technologies](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file##lightning-technologies)**
 * **[Graphical](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#graphical-settings)**
-* **[UI](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#user-interface)**
+* **[Quality of Life](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#quality-of-life)**
+* **[UI](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#user-interfacevisuals)**
+* **[UI X](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#user-interfacevisuals-experimental)**
+* **[Audio](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#audio-related)**
 * **[Textures](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#textures)**
-* **[Physics](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#physics)**
-* **[Other FFlags](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#other-fflags)**
+* **[Physics](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#physics-abusive)**
+* **[Abusive Visuals](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#lol)**
+* **[lol](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#abusive-visuals)**
+* **[Debug](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#debug)**
 * **[Links](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#links)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
-<h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
+<h3 align="center">꧖ꦿꦸ</h3>
 
 <h1 align="center">Pride Month Exclusive</h1>
 
@@ -120,28 +123,9 @@
 }
 ```
 
-<h1 align="center">Graphical Settings <sup>& more</sup></h1>
+<h1 align="center">Graphical Settings</h1>
 
-### Semi Fullbright
-```json
-{
-    "FFlagFastGPULightCulling3": "True",
-    "FIntRenderShadowIntensity": "0",
-    "DFIntCullFactorPixelThresholdShadowMapHighQuality ": "2147483647",
-    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
-    "FFlagNewLightAttenuation": "True",
-    "FIntRenderShadowmapBias": "-1",
-    "DFFlagDebugPauseVoxelizer": "True"
-}
-```
-### Draws a circle under avatars
-```json
-{
-    "FFlagDebugAvatarChatVisualization": "True",
-    "FFlagEnableInGameMenuChromeABTest2": "False"
-}
-```
-### HyperThreading
+## HyperThreading
 ```json
 {
     "FFlagDebugCheckRenderThreading": "True",
@@ -166,7 +150,7 @@
     "FFlagDebugRenderingSetDeterministic": "True"
 }
 ```
-### Graphics Quality Level
+### Force Graphics Quality Level
 ```json
 {
     "FIntRomarkStartWithGraphicQualityLevel": "1"
@@ -198,7 +182,6 @@
     "DFIntDebugFRMQualityLevelOverride": "1"
 }
 ```
-
 <h4 align="center">FRM Levels</h4>
 
 ```
@@ -218,15 +201,13 @@ High
 9 = 18
 10 = 21
 ```
-
-### 21 Graphics Quality Slider
+### FRM 21 Graphics Quality Slider
 ```json
 {
     "FFlagCommitToGraphicsQualityFix": "True",
     "FFlagFixGraphicsQuality": "True"
 }
 ```
-
 ### Low Render Distance
 ###### [FRM](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#frm-levels)
 ```json
@@ -357,13 +338,6 @@ High
     "FIntDebugTextureManagerSkipMips": "-1"
 }
 ```
-### Remove layared clothing related for searching in lua app catalog
-###### From: https://discord.gg/nKjV3mGq6R
-```json
-{
-    "FStringAXCategories": "ClassicShirts.ClassicTShirts.ClassicPants"
-}
-```
 ### Remove Grass
 ```json
 {
@@ -387,79 +361,15 @@ High
     "FIntRenderShadowmapBias": "75"
 }
 ```
-### Enables Network Debug Tracker menu
-##### Instructions: CTRL+F8
+### Limits number of animations being played
 ```json
 {
-    "DFFlagDebugEnableInterpolationVisualizer": "True"
-}
-```
-### Humanoid Outline
-##### Draws an outline around every part and every humanoid
-```json
-{
-    "DFFlagDebugDrawBroadPhaseAABBs": "True"
-}
-```
-### fflag above but more complex
-##### Draws an outline around every body part
-```json
-{
-    "DFFlagDebugDrawBvhNodes": "True"
-}
-```
-### Buggy ZPlane Camera
-```json
-{
-    "FIntCameraFarZPlane": "1"
-}
-```
-### Xray
-###### too lazy to explain what it does, shout out to tyetonix
-```json
-{
-    "DFIntCullFactorPixelThresholdMainViewHighQuality": "10000",
-    "DFIntCullFactorPixelThresholdMainViewLowQuality": "10000",
-    "DFIntCullFactorPixelThresholdShadowMapHighQuality": "10000",
-    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "10000"
+    "DFIntMaxActiveAnimationTracks": "0"
 }
 ```
 
-<h1 align="center">User Interface</h1>
+<h1 align="center">Quality of Life</h1>
 
-### Remove VR Toggle
-```json
-{
-    "FFlagAlwaysShowVRToggleV3": "False"
-}
-```
-### Break Collectible Icon
-```json
-{
-    "FFlagDisplayCollectiblesIcon": "False"
-}
-```
-### Favorite Item in-game
-```json
-{
-    "FFlagEnableFavoriteButtonForUgc": "True"
-}
-```
-### Home Sidebar Text
-```json
-{
-    "FFlagEnableNavBarLabels3": "True"
-}
-```
-### Revert New "Builder" Font
-```json
-{
-    "FFlagUIBloxDevUseNewFontNameMapping": "False",
-    "FFlagEnableNewFontNameMappingABTest2": "False",
-    "FFlagAddArialToLegacyContent": "False",
-    "FFlagAddGothamToLegacyContent": "False"
-}
-```
 ### FPS Unlocker in Roblox Menu Settings
 ```json
 {
@@ -475,12 +385,6 @@ High
     "DFIntTaskSchedulerTargetFps": "9999"
 }
 ```
-### Revert spacing on errors
-```json
-{
-    "FFlagErrorPromptResizesHeight": "False"
-}
-```
 ### GUI Hiding Toggles
 ```json
 {
@@ -488,23 +392,180 @@ High
     "GuiHidingApiSupport2": "True"
 }
 ```
-### Darker Dark Theme
+### Hide guis
+###### ***Instructions: Replace "ID" with any group ID that you are in.***
+| Key combination   | Action                                                                    |
+| ----------------- | ------------------------------------------------------------------------- |
+| Ctrl + Shift + B  | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc)                |
+| Ctrl + Shift + C  | Toggles game-defined ScreenGuis                                           |
+| Ctrl + Shift + G  | Toggles Roblox CoreGuis                                                   |
+| Ctrl + Shift + N  | Toggles player names, and other BillboardGuis that show up above a player |
 ```json
 {
-    "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-    "FFlagUIBloxUseNewThemeColorPalettes": "True"
+    "DFIntCanHideGuiGroupId": "ID"
 }
 ```
-### Subscriptions Page
+### Remove layared clothing related for searching in lua app catalog
+###### From: https://discord.gg/nKjV3mGq6R
 ```json
 {
-    "FFlagLuaAppDevSubsEnabled": "True"
+    "FStringAXCategories": "ClassicShirts.ClassicTShirts.ClassicPants"
 }
 ```
-### No Transparency V4 Menu **(2023)**
+### Disable Fullscreen Title Bar
 ```json
 {
-    "FStringInGameMenuModernizationStickyBarForcedUserIds": "UserID"
+    "FIntFullscreenTitleBarTriggerDelayMillis": "3600000"
+}
+```
+### Stuttery Animation Fix
+```json
+{
+    "DFIntTimestepArbiterThresholdCFLThou": "300"
+}
+```
+### Disable In-game Advertisements
+```json
+{
+    "FFlagAdServiceEnabled": "False"
+}
+```
+### Disable Telemetry 
+```json
+{
+    "FFlagDebugDisableTelemetryEphemeralCounter": "True",
+    "FFlagDebugDisableTelemetryEphemeralStat": "True",
+    "FFlagDebugDisableTelemetryEventIngest": "True",
+    "FFlagDebugDisableTelemetryPoint": "True",
+    "FFlagDebugDisableTelemetryV2Counter": "True",
+    "FFlagDebugDisableTelemetryV2Event": "True",
+    "FFlagDebugDisableTelemetryV2Stat": "True"
+}
+```
+### Surf the web inside of Roblox
+###### Click the Beta badge or the 13+ badge to open the webview browser.
+```json
+{
+    "FFlagTopBarUseNewBadge": "True",
+    "FStringTopBarBadgeLearnMoreLink": "https://google.com/",
+    "FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/"
+}
+```
+### MTU 
+```json
+{
+    "DFIntConnectionMTUSize": "MTU_HERE"
+}
+```
+### No Internet Disconnect 
+###### *[You will still be kicked but the message wont show.]*
+```json
+{
+    "DFFlagDebugDisableTimeoutDisconnect": "True"
+}
+```
+### Quick Game Launch 
+###### *[BUGGY]*
+```json
+{
+    "FFlagEnableQuickGameLaunch": "True"
+}
+```
+### Disable In-Game Purchases
+```json
+{
+    "DFFlagOrder66": "True"
+}
+```
+### Disable Chat
+```json
+{
+    "FFlagDebugForceChatDisabled": "True"
+}
+```
+### Disable Dynamic Heads Animations
+###### https://roblox.fandom.com/wiki/Dynamic_Head
+```json
+{
+    "DFIntAnimationLodFacsDistanceMin": "0",
+    "DFIntAnimationLodFacsDistanceMax": "0",
+    "DFIntAnimationLodFacsVisibilityDenominator": "0"
+}
+```
+### Automatically unmutes your mic on join (VC)
+```json
+{
+    "FFlagDebugDefaultChannelStartMuted": "False"
+}
+```
+### opt-out Experience Language
+###### Removes the Experience Language option in settings
+```json
+{
+    "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
+}
+```
+### Lets you change the zoom out limit
+###### Only applies to games that has not changed the default zoom limit
+```json
+{
+    "FIntCameraMaxZoomDistance": "9999"
+}
+```
+### Exclusive Fullscreen
+```json
+{
+    "FFlagHandleAltEnterFullscreenManually": "False"
+}
+```
+
+<h1 align="center">User Interface/Visuals</h1>
+
+### Custom Disconnect Message
+```json
+{
+    "FFlagReconnectDisabled": "True",
+    "FStringReconnectDisabledReason": "You're stupid and I hate you"
+}
+```
+### Display FPS
+```json
+{
+    "FFlagDebugDisplayFPS": "True"
+}
+```
+### Verified Badge on everyone
+###### Clientsided
+```json
+{
+    "FFlagOverridePlayerVerifiedBadge": "True"
+}
+```
+### Applies cool colors to stuff
+```json
+{
+    "FFlagDebugDisplayUnthemedInstances": "True"
+}
+```
+### Revert spacing on errors
+```json
+{
+    "FFlagErrorPromptResizesHeight": "False"
+}
+```
+### Remove Disconnect Blur/Loading Blur
+```json
+{
+    "FIntRobloxGuiBlurIntensity": "0"
+}
+```
+### Revert New "Builder" Font
+```json
+{
+    "FFlagUIBloxDevUseNewFontNameMapping": "False",
+    "FFlagEnableNewFontNameMappingABTest2": "False",
+    "FFlagAddArialToLegacyContent": "False",
+    "FFlagAddGothamToLegacyContent": "False"
 }
 ```
 ### Revert Old Report Menu
@@ -516,10 +577,71 @@ High
     "FFlagEnableReportAbuseMenuLayerOnV3": "False"
 }
 ```
+### Disable New Chat Translation Settings
+```json
+{
+    "FFlagChatTranslationSettingEnabled3 ": "False"
+}
+```
+### New Camera Mode
+```json
+{
+    "FFlagNewCameraControls": "True"
+}
+```
 ### Custom MicroProfile Scale
 ```json
 {
     "DFIntMicroProfilerDpiScaleOverride":  "100"
+}
+```
+### Set Custom Font Size
+```json
+{
+    "FIntFontSizePadding": "1"
+}
+```
+### Adjust Scroll Speed
+```json
+{
+    "FIntScrollWheelDeltaAmount": "140"
+}
+```
+### Set Custom Kick Message Lenght
+```json
+{
+    "FIntMaxKickMessageLength": "1"
+}
+```
+### Darker Dark Theme
+```json
+{
+    "FFlagLuaAppUseUIBloxColorPalettes1": "True",
+    "FFlagUIBloxUseNewThemeColorPalettes": "True"
+}
+```
+### No Transparency V4 Menu **(2023)**
+```json
+{
+    "FStringInGameMenuModernizationStickyBarForcedUserIds": "UserID"
+}
+```
+### Subscriptions Page
+```json
+{
+    "FFlagLuaAppDevSubsEnabled": "True"
+}
+```
+### Overlay that shows what you type 
+```json
+{
+    "FFlagDebugTextBoxServiceShowOverlay": "True"
+}
+```
+### Ammount of lines to show at once for above
+```json
+{
+    "DFIntTextBoxServiceHistorySize": "1"
 }
 ```
 ### Hides gui
@@ -540,12 +662,6 @@ High
     "FFlagDebugDontRenderScreenGui": "True"
 }
 ```
-### Enable Audio Controller
-```json
-{
-    "FFlagTrackerLodControllerDebugUI": "True"
-}
-```
 ### Disable Autocomplete
 ```json
 {
@@ -557,34 +673,6 @@ High
 {
     "FStringNewInGameMenuForcedUserIds": "UserID",
     "FFlagEnableInGameMenuChrome": "True"
-}
-```
-### Chrome UI TopBar
-```json
-{
-    "FFlagEnableInGameMenuChrome": "True",
-    "FFlagEnableReportAbuseMenuRoactABTest2": "True",
-    "FFlagChromeBetaFeature": "True",
-    "FFlagEnableInGameMenuChromeABTest2": "True"
-}
-```
-### Pin Chat on Chrome UI
-```json
-{
-    "FFlagEnableChromePinnedChat": "True"
-}
-```
-### Pin Buttons on Chrome UI
-```json
-{
-    "FFlagEnableChromePinIntegrations": "True"
-}
-```
-### Chrome UI Topbar Removal
-```json
-{
-    "FFlagEnableInGameMenuChromeABTest2": "False",
-    "FFlagEnableReportAbuseMenuRoactABTest2": "False"
 }
 ```
 ### Disable Bubble Chat
@@ -628,112 +716,103 @@ High
     "FStringVoiceBetaBadgeLearnMoreLink": "null"
 }
 ```
-### Hide guis
-###### ***Instructions: Replace "ID" with any group ID that you are in.***
-| Key combination   | Action                                                                    |
-| ----------------- | ------------------------------------------------------------------------- |
-| Ctrl + Shift + B  | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc)                |
-| Ctrl + Shift + C  | Toggles game-defined ScreenGuis                                           |
-| Ctrl + Shift + G  | Toggles Roblox CoreGuis                                                   |
-| Ctrl + Shift + N  | Toggles player names, and other BillboardGuis that show up above a player |
+### VR Controller transparency
 ```json
 {
-    "DFIntCanHideGuiGroupId": "ID"
+    "FIntVRTouchControllerTransparency": "0"
 }
 ```
-### Disable Fullscreen Title Bar
+### Limit Videos Playing
 ```json
 {
-    "FIntFullscreenTitleBarTriggerDelayMillis": "3600000"
+    "DFIntVideoMaxNumberOfVideosPlaying": "0"
 }
 ```
-### Set Custom Font Size
+### Disable DSA Reporting In-game
+###### @kezcn
 ```json
 {
-    "FIntFontSizePadding": "1"
-}
-```
-### Set Custom Kick Message Lenght
-```json
-{
-    "FIntMaxKickMessageLength": "1"
+    "FFlagDSAIllegalContentReporting2": "False"
 }
 ```
 
-<h1 align="center">Textures</h1>
+<h1 align="center">User Interface/Visuals Experimental</h1>
 
-### Fix Textures
+### Chrome UI TopBar
 ```json
 {
-    "FFlagMSRefactor5": "False"
+    "FFlagEnableInGameMenuChrome": "True",
+    "FFlagEnableReportAbuseMenuRoactABTest2": "True",
+    "FFlagChromeBetaFeature": "True",
+    "FFlagEnableInGameMenuChromeABTest2": "True"
 }
 ```
-### No Textures
+### Pin Chat on Chrome UI
 ```json
 {
-    "FStringPartTexturePackTable2022": "{\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]}}",
-    "FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}",
-    "FStringTerrainMaterialTable2022": "",
-    "FStringTerrainMaterialTablePre2022": "",
-    "FFlagMSRefactor5": "False"
+    "FFlagEnableChromePinnedChat": "True"
 }
 ```
-### Trollface Textures
+### Pin Buttons on Chrome UI
 ```json
 {
-    "FStringPartTexturePackTable2022": "{\u0022foil\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[238,238,238,255]},\u0022asphalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[227,227,228,234]},\u0022basalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[160,160,158,238]},\u0022brick\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[229,214,205,227]},\u0022cobblestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[218,219,219,243]},\u0022concrete\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[225,225,224,255]},\u0022crackedlava\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[76,79,81,156]},\u0022diamondplate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[210,210,210,255]},\u0022fabric\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[221,221,221,255]},\u0022glacier\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[225,229,229,243]},\u0022glass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://9873284556\u0022,\u0022rbxassetid://9438453972\u0022],\u0022color\u0022:[254,254,254,7]},\u0022granite\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[210,206,200,255]},\u0022grass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[196,196,189,241]},\u0022ground\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[165,165,160,240]},\u0022ice\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[235,239,241,248]},\u0022leafygrass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[182,178,175,234]},\u0022limestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[250,248,243,250]},\u0022marble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[181,183,193,249]},\u0022metal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[226,226,226,255]},\u0022mud\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[193,192,193,252]},\u0022pavement\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[218,218,219,236]},\u0022pebble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[204,203,201,234]},\u0022plastic\u0022:{\u0022ids\u0022:[\u0022\u0022,\u0022rbxassetid://9475422736\u0022],\u0022color\u0022:[255,255,255,255]},\u0022rock\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[211,211,210,248]},\u0022corrodedmetal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[206,177,163,180]},\u0022salt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[249,249,249,255]},\u0022sand\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[218,216,210,240]},\u0022sandstone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[241,234,230,246]},\u0022slate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[235,234,235,254]},\u0022snow\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[239,240,240,255]},\u0022wood\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[217,209,208,255]},\u0022woodplanks\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[207,208,206,254]}}",
-    "FStringPartTexturePackTablePre2022": "{\u0022foil\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[238,238,238,255]},\u0022asphalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[227,227,228,234]},\u0022basalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[160,160,158,238]},\u0022brick\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[229,214,205,227]},\u0022cobblestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[218,219,219,243]},\u0022concrete\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[225,225,224,255]},\u0022crackedlava\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[76,79,81,156]},\u0022diamondplate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[210,210,210,255]},\u0022fabric\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[221,221,221,255]},\u0022glacier\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[225,229,229,243]},\u0022glass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://9873284556\u0022,\u0022rbxassetid://9438453972\u0022],\u0022color\u0022:[254,254,254,7]},\u0022granite\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[210,206,200,255]},\u0022grass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[196,196,189,241]},\u0022ground\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[165,165,160,240]},\u0022ice\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[235,239,241,248]},\u0022leafygrass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[182,178,175,234]},\u0022limestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[250,248,243,250]},\u0022marble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[181,183,193,249]},\u0022metal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[226,226,226,255]},\u0022mud\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[193,192,193,252]},\u0022pavement\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[218,218,219,236]},\u0022pebble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[204,203,201,234]},\u0022plastic\u0022:{\u0022ids\u0022:[\u0022\u0022,\u0022rbxassetid://9475422736\u0022],\u0022color\u0022:[255,255,255,255]},\u0022rock\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[211,211,210,248]},\u0022corrodedmetal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[206,177,163,180]},\u0022salt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[249,249,249,255]},\u0022sand\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[218,216,210,240]},\u0022sandstone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[241,234,230,246]},\u0022slate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[235,234,235,254]},\u0022snow\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[239,240,240,255]},\u0022wood\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[217,209,208,255]},\u0022woodplanks\u0022:{\u0022ids\u0022:[\u0022rbxassetid://15482832278\u0022,\u0022rbxassetid://14983259444\u0022],\u0022color\u0022:[207,208,206,254]}}",
-    "FFlagMSRefactor5": "False"
+    "FFlagEnableChromePinIntegrations": "True"
+}
+```
+### Chrome UI Topbar Removal
+```json
+{
+    "FFlagEnableInGameMenuChromeABTest2": "False",
+    "FFlagEnableReportAbuseMenuRoactABTest2": "False"
 }
 ```
 
-### Black Textures
-```json
-{
-    "FStringPartTexturePackTable2022": "{\u0022foil\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022asphalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022basalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022brick\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022cobblestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022concrete\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022crackedlava\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022diamondplate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022fabric\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022glacier\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022glass\u0022:{\u0022ids\u0022:[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\u0022color\u0022:[55, 55, 55, 255]},\u0022granite\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022grass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022ground\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022ice\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022leafygrass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022limestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022marble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022metal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022mud\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022pavement\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022pebble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022plastic\u0022:{\u0022ids\u0022:[\u0022\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022rock\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022corrodedmetal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022salt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022sand\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022sandstone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022slate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022snow\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022wood\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022woodplanks\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]}}",
-    "FStringPartTexturePackTablePre2022": "{\u0022foil\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022brick\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022cobblestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022concrete\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022diamondplate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022fabric\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022glass\u0022:{\u0022ids\u0022:[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\u0022color\u0022:[55, 55, 55, 255]},\u0022granite\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022grass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022ice\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022marble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022metal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022pebble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022corrodedmetal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022sand\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022slate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022wood\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022woodplanks\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022asphalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022basalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022crackedlava\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022glacier\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022ground\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022leafygrass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022limestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022mud\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022pavement\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022rock\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022salt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022sandstone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]},\u0022snow\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[55, 55, 55, 255]}}",
-    "FFlagMSRefactor5": "False"
-}
-```
-### White Textures
-```json
-{
-    "FStringPartTexturePackTable2022": "{\u0022foil\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022asphalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022basalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022brick\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022cobblestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022concrete\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022crackedlava\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022diamondplate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022fabric\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022glacier\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022glass\u0022:{\u0022ids\u0022:[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\u0022color\u0022:[255, 255, 255]},\u0022granite\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022grass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022ground\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022ice\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022leafygrass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022limestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022marble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022metal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022mud\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022pavement\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022pebble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022plastic\u0022:{\u0022ids\u0022:[\u0022\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022rock\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022corrodedmetal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022salt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022sand\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022sandstone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022slate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022snow\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022wood\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022woodplanks\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]}}",
-    "FStringPartTexturePackTablePre2022": "{\u0022foil\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022brick\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022cobblestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022concrete\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022diamondplate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022fabric\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022glass\u0022:{\u0022ids\u0022:[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\u0022color\u0022:[255, 255, 255]},\u0022granite\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022grass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022ice\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022marble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022metal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022pebble\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022corrodedmetal\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022sand\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022slate\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022wood\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022woodplanks\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022asphalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022basalt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022crackedlava\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022glacier\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022ground\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022leafygrass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022limestone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022mud\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022pavement\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022rock\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022salt\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022sandstone\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]},\u0022snow\u0022:{\u0022ids\u0022:[\u0022rbxassetid://0\u0022,\u0022rbxassetid://0\u0022],\u0022color\u0022:[255, 255, 255]}}",
-    "FFlagMSRefactor5" :"False"
-}
-```
-### Minecraft Textures
-````
-{
-    "FStringPartTexturePackTablePre2022": "{\"foil\":{\"ids\":[\"rbxassetid://9873266399\",\"rbxassetid://9438410239\"],\"color\":[238,238,238,255]},\"asphalt\":{\"ids\":[\"rbxassetid://9867974823\",\"rbxassetid://9844502433\"],\"color\":[227,227,228,234]},\"basalt\":{\"ids\":[\"rbxassetid://11545552824\",\"rbxassetid://11545440462\"],\"color\":[160,160,158,238]},\"brick\":{\"ids\":[\"rbxassetid://9924770651\",\"rbxassetid://9924770538\"],\"color\":[229,214,205,227]},\"cobblestone\":{\"ids\":[\"rbxassetid://9919719550\",\"rbxassetid://9438453972\"],\"color\":[218,219,219,243]},\"concrete\":{\"ids\":[\"rbxassetid://9924775913\",\"rbxassetid://9924775826\"],\"color\":[225,225,224,255]},\"crackedlava\":{\"ids\":[\"rbxassetid://9920485426\",\"rbxassetid://9438453972\"],\"color\":[76,79,81,156]},\"diamondplate\":{\"ids\":[\"rbxassetid://10237721036\",\"rbxassetid://9438453972\"],\"color\":[210,210,210,255]},\"fabric\":{\"ids\":[\"rbxassetid://9920517963\",\"rbxassetid://9438453972\"],\"color\":[221,221,221,255]},\"glacier\":{\"ids\":[\"rbxassetid://9920518995\",\"rbxassetid://9438453972\"],\"color\":[225,229,229,243]},\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]},\"granite\":{\"ids\":[\"rbxassetid://9920550720\",\"rbxassetid://9438453972\"],\"color\":[210,206,200,255]},\"grass\":{\"ids\":[\"rbxassetid://11152995545\",\"rbxassetid://9267183930\"],\"color\":[196,196,189,241]},\"ground\":{\"ids\":[\"rbxassetid://11546360009\",\"rbxassetid://11545533676\"],\"color\":[165,165,160,240]},\"ice\":{\"ids\":[\"rbxassetid://9920556429\",\"rbxassetid://9438453972\"],\"color\":[235,239,241,248]},\"leafygrass\":{\"ids\":[\"rbxassetid://11152995545\",\"rbxassetid://9267183930\"],\"color\":[182,178,175,234]},\"limestone\":{\"ids\":[\"rbxassetid://9920561624\",\"rbxassetid://9438453972\"],\"color\":[250,248,243,250]},\"marble\":{\"ids\":[\"rbxassetid://9873292869\",\"rbxassetid://9438453972\"],\"color\":[181,183,193,249]},\"metal\":{\"ids\":[\"rbxassetid://11546526557\",\"rbxassetid://11546431794\"],\"color\":[226,226,226,255]},\"mud\":{\"ids\":[\"rbxassetid://9920578676\",\"rbxassetid://9438453972\"],\"color\":[193,192,193,252]},\"pavement\":{\"ids\":[\"rbxassetid://11546539560\",\"rbxassetid://11546440685\"],\"color\":[218,218,219,236]},\"pebble\":{\"ids\":[\"rbxassetid://9920581197\",\"rbxassetid://9438453972\"],\"color\":[204,203,201,234]},\"plastic\":{\"ids\":[\"\",\"rbxassetid://9868015012\"],\"color\":[255,255,255,255]},\"rock\":{\"ids\":[\"rbxassetid://11546570730\",\"rbxassetid://11546456858\"],\"color\":[211,211,210,248]},\"corrodedmetal\":{\"ids\":[\"rbxassetid://11545623165\",\"rbxassetid://11545476330\"],\"color\":[206,177,163,180]},\"salt\":{\"ids\":[\"rbxassetid://9920590478\",\"rbxassetid://9438453972\"],\"color\":[249,249,249,255]},\"sand\":{\"ids\":[\"rbxassetid://11546588111\",\"rbxassetid://11546468464\"],\"color\":[218,216,210,240]},\"sandstone\":{\"ids\":[\"rbxassetid://9920596353\",\"rbxassetid://9438453972\"],\"color\":[241,234,230,246]},\"slate\":{\"ids\":[\"rbxassetid://9867974823\",\"rbxassetid://9844502433\"],\"color\":[235,234,235,254]},\"snow\":{\"ids\":[\"rbxassetid://11536062048\",\"rbxassetid://11108916253\"],\"color\":[239,240,240,255]},\"wood\":{\"ids\":[\"rbxassetid://9867974813\",\"rbxassetid://9844454989\"],\"color\":[217,209,208,255]},\"woodplanks\":{\"ids\":[\"rbxassetid://9867974813\",\"rbxassetid://9844454989\"],\"color\":[207,208,206,254]}}",
-    "FFlagMSRefactor5": "False"
-}
-````
+<h1 align="center">Audio Related</h1>
 
-<h1 align="center">Physics</h1>
+### Allows you to change voice chat distance 
+###### default: [Min 7 Max 80]
+```json
+{
+    "DFIntVoiceChatRollOffMinDistance": "7",
+    "DFIntVoiceChatRollOffMaxDistance": "80"
+}
+```
+### Sounds use physical velocity and become distorted
+###### <2017
+```json
+{
+    "FFlagSoundsUsePhysicalVelocity": "True"
+}
+```
+### Audio Occlusion
+```json
+{
+    "FFlagSoundsUsePhysicalVelocity": "True"
+}
+```
+### Limit audios that are being played
+```json
+{
+    "DFIntMaxLoadableAudioChannelCount": "1"
+}
+```
+### Mess with voice chat volume
+###### default 1000
+```json
+{
+    "DFIntVoiceChatVolumeThousandths": "100000"
+}
+```
+### No sounds
+```json
+{
+    "FFlagDebugRomarkMockingAudioDevices": "True"
+}
+```
 
-### omg i cant believe roblox is that dumb to do this...
-```json
-{
-    "FIntPhysicsGridHierarchyLowestLevelInitBinCount": "199999999",
-    "FIntPhysicsGridHierarchyLowestLevelInitBinCountWorldModel": "100000000",
-    "FIntPhysicsSolverCollisionPoolBucketSize": "2147483647",
-    "FIntPhysicsSolverCollisionPoolBucketSizeWorldModel": "2147483647"
-}
-```
-### Crash Roblox
-```json
-{
-    "DFIntTimestepArbiterThresholdCFLThou": "0"
-}
-```
-### Stuttery Animation Fix
-```json
-{
-    "DFIntTimestepArbiterThresholdCFLThou": "300"
-}
-```
+<h1 align="center">Physics (Abusive)</h1>
+
+
 ### Remap R6 to R15 Rigs/Weird Movement
 ```json
 {
@@ -839,13 +918,6 @@ High
     "DFIntPhysicsSenderMaxBandwidthBpsScaling": "0"
 }
 ```
-### Invisible 4 [GATEKEPT UNTIL LEAKED]
-```
-{
-    "?": "-1",
-    "?": "2147483647"
-}
-```
 ### Clientsided Invisible
 ```json
 {
@@ -891,60 +963,96 @@ High
 }
 ```
 
-<h1 align="center">other fflags</h1>
+<h1 align="center">Abusive Visuals</h1>
 
-### New Camera Mode
+### Semi Fullbright
 ```json
 {
-    "FFlagNewCameraControls": "True"
+    "FFlagFastGPULightCulling3": "True",
+    "FIntRenderShadowIntensity": "0",
+    "DFIntCullFactorPixelThresholdShadowMapHighQuality ": "2147483647",
+    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
+    "FFlagNewLightAttenuation": "True",
+    "FIntRenderShadowmapBias": "-1",
+    "DFFlagDebugPauseVoxelizer": "True"
 }
 ```
-### Disable In-game Advertisements
+### Draws a circle under avatars
 ```json
 {
-    "FFlagAdServiceEnabled": "False"
+    "FFlagDebugAvatarChatVisualization": "True",
+    "FFlagEnableInGameMenuChromeABTest2": "False"
 }
 ```
-### Disable Telemetry 
+### Humanoid Outline
+##### Draws an outline around every part and every humanoid
 ```json
 {
-    "FFlagDebugDisableTelemetryEphemeralCounter": "True",
-    "FFlagDebugDisableTelemetryEphemeralStat": "True",
-    "FFlagDebugDisableTelemetryEventIngest": "True",
-    "FFlagDebugDisableTelemetryPoint": "True",
-    "FFlagDebugDisableTelemetryV2Counter": "True",
-    "FFlagDebugDisableTelemetryV2Event": "True",
-    "FFlagDebugDisableTelemetryV2Stat": "True"
+    "DFFlagDebugDrawBroadPhaseAABBs": "True"
 }
 ```
-### Adjust Scroll Speed
+### fflag above but more complex
+##### Draws an outline around every body part
 ```json
 {
-    "FIntScrollWheelDeltaAmount": "140"
+    "DFFlagDebugDrawBvhNodes": "True"
 }
 ```
-### Surf the web inside of Roblox
-###### Click the Beta badge or the 13+ badge to open the webview browser.
+### Buggy ZPlane Camera
 ```json
 {
-    "FFlagTopBarUseNewBadge": "True",
-    "FStringTopBarBadgeLearnMoreLink": "https://google.com/",
-    "FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/"
+    "FIntCameraFarZPlane": "1"
 }
 ```
-### Sounds use physical velocity and become distorted
-###### <2017
+### Enables Network Debug Tracker menu <sup>It can be used for chams (Abusive)</sup>
+##### Instructions: CTRL+F8
 ```json
 {
-    "FFlagSoundsUsePhysicalVelocity": "True"
+    "DFFlagDebugEnableInterpolationVisualizer": "True"
 }
 ```
-### Audio Occlusion
+### Adds an UI in game, which highlights any part player touches (like ground, Meshes etc.). It's a non-functioning UI too. Also adds a blue circle to your humanoid.
 ```json
 {
-    "FFlagSoundsUsePhysicalVelocity": "True"
+    "FFlagDebugHumanoidRendering": "True"
 }
 ```
+### Xray
+```json
+{
+    "DFIntCullFactorPixelThresholdMainViewHighQuality": "10000",
+    "DFIntCullFactorPixelThresholdMainViewLowQuality": "10000",
+    "DFIntCullFactorPixelThresholdShadowMapHighQuality": "10000",
+    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "10000"
+}
+```
+
+<h1 align="center">lol</h1>
+
+### omg i cant believe roblox is that dumb to do this...
+```json
+{
+    "FIntPhysicsGridHierarchyLowestLevelInitBinCount": "199999999",
+    "FIntPhysicsGridHierarchyLowestLevelInitBinCountWorldModel": "100000000",
+    "FIntPhysicsSolverCollisionPoolBucketSize": "2147483647",
+    "FIntPhysicsSolverCollisionPoolBucketSizeWorldModel": "2147483647"
+}
+```
+### Crash Roblox
+```json
+{
+    "DFIntTimestepArbiterThresholdCFLThou": "0"
+}
+```
+### Increase Ping 
+```json
+{
+    "DFIntDataSenderMaxBandwidthBps": "150"
+}
+```
+
+<h1 align="center">Debug</h1>
+
 ### Shows the state of a flag
 ```json
 {
@@ -955,97 +1063,6 @@ High
 ```json
 {
     "FStringDebugShowFlagState": "DFIntTaskSchedulerTargetFps, ChannelName"
-}
-```
-### MTU 
-```json
-{
-    "DFIntConnectionMTUSize": "MTU_HERE"
-}
-```
-### Increase Ping 
-```json
-{
-    "DFIntDataSenderMaxBandwidthBps": "150"
-}
-```
-### No Internet Disconnect 
-###### *[You will still be kicked but the message wont show.]*
-```json
-{
-    "DFFlagDebugDisableTimeoutDisconnect": "True"
-}
-```
-### Quick Game Launch 
-###### *[BUGGY]*
-```json
-{
-    "FFlagEnableQuickGameLaunch": "True"
-}
-```
-### Allows you to change voice chat distance 
-###### default: [Min 7 Max 80]
-```json
-{
-    "DFIntVoiceChatRollOffMinDistance": "7",
-    "DFIntVoiceChatRollOffMaxDistance": "80"
-}
-```
-### Disable In-Game Purchases
-```json
-{
-    "DFFlagOrder66": "True"
-}
-```
-### Disable Chat
-```json
-{
-    "FFlagDebugForceChatDisabled": "True"
-}
-```
-### Limit audios that are being played
-```json
-{
-    "DFIntMaxLoadableAudioChannelCount": "1"
-}
-```
-### Adds an UI in game, which highlights any part player touches (like ground, Meshes etc.). It's a non-functioning UI too. Also adds a blue circle to your humanoid.
-```json
-{
-    "FFlagDebugHumanoidRendering": "True"
-}
-```
-### Custom Disconnect Message
-```json
-{
-    "FFlagReconnectDisabled": "True",
-    "FStringReconnectDisabledReason": "You're stupid and I hate you"
-}
-```
-### Display FPS
-```json
-{
-    "FFlagDebugDisplayFPS": "True"
-}
-```
-### Verified Badge
-###### Clientsided
-```json
-{
-    "FStringWhitelistVerifiedUserId": "UserID"
-}
-```
-### Verified Badge on everyone
-###### Clientsided
-```json
-{
-    "FFlagOverridePlayerVerifiedBadge": "True"
-}
-```
-### Applies cool colors to stuff
-```json
-{
-    "FFlagDebugDisplayUnthemedInstances": "True"
 }
 ```
 ### Show Outlined Chunks
@@ -1060,107 +1077,10 @@ High
     "DFFlagDebugEnableStreamingSolverVisualization": "True"
 }
 ```
-### Remove Disconnect Blur/Loading Blur
-```json
-{
-    "FIntRobloxGuiBlurIntensity": "0"
-}
-```
-### Disable Dynamic Heads Animations
-###### https://roblox.fandom.com/wiki/Dynamic_Head
-```json
-{
-    "DFIntAnimationLodFacsDistanceMin": "0",
-    "DFIntAnimationLodFacsDistanceMax": "0",
-    "DFIntAnimationLodFacsVisibilityDenominator": "0"
-}
-```
-### failsafehumanoid
-###### gray avatars
-```json
-{
-    "FFlagFailsafeHumanoid_3": "True"
-}
-```
-### Automatically unmutes your mic on join (VC)
-```json
-{
-    "FFlagDebugDefaultChannelStartMuted": "False"
-}
-```
-### Overlay that shows what you type 
-```json
-{
-    "FFlagDebugTextBoxServiceShowOverlay": "True"
-}
-```
-### Ammount of lines to show at once for above
-```json
-{
-    "DFIntTextBoxServiceHistorySize": "1"
-}
-```
-### opt-out Experience Language
-###### Removes the Experience Language option in settings
-```json
-{
-    "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
-}
-```
-### Disable New Chat Translation Settings
-```json
-{
-    "FFlagChatTranslationSettingEnabled3 ": "False"
-}
-```
-### Lets you change the zoom out limit
-###### Only applies to games that has not changed the default zoom limit
-```json
-{
-    "FIntCameraMaxZoomDistance": "9999"
-}
-```
-### Limits number of animations being played
-```json
-{
-    "DFIntMaxActiveAnimationTracks": "0"
-}
-```
 ### Prevents Remote Events from running
 ```json
 {
     "DFIntRemoteEventSingleInvocationSizeLimit": "1"
-}
-```
-### Mess with voice chat volume
-###### default 1000
-```json
-{
-    "DFIntVoiceChatVolumeThousandths": "100000"
-}
-```
-### Removes the head roll limit for face tracking
-```json
-{
-    "DFIntAvatarFaceChatHeadRollLimitDegrees": "360"
-}
-```
-### VR Controller transparency
-```json
-{
-    "FIntVRTouchControllerTransparency": "0"
-}
-```
-### No sounds
-```json
-{
-    "FFlagDebugRomarkMockingAudioDevices": "True"
-}
-```
-### Exclusive Fullscreen
-```json
-{
-    "FFlagHandleAltEnterFullscreenManually": "False"
 }
 ```
 ### logs stuff in dev console
@@ -1174,19 +1094,6 @@ High
 ```json
 {
     "FFlagDebugEnableOctreeValidation": "True"
-}
-```
-### Limit Videos Playing
-```json
-{
-    "DFIntVideoMaxNumberOfVideosPlaying": "0"
-}
-```
-### Disable DSA Reporting In-game
-###### @kezcn
-```json
-{
-    "FFlagDSAIllegalContentReporting2": "False"
 }
 ```
 ### Self Explanatory 1
@@ -1399,11 +1306,12 @@ High
 ### [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) *[Github Repo Link]*
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
+### [Bloxshade](https://github.com/Extravi/Bloxshade) *[Github Repo Link]*
 ### [RCOOL](https://github.com/jamesgarry1/RCOOL) *[Github Repo Link]*
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
 ### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
 
-<h4 align="center">‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧ You've reached the bottom of the list! ‧⁺̣˚̣̣*̣̩⋆̩·̩̩୨˚̣̣̣̣͙୧·̩̩⋆̩*̣̩˚̣̣⁺̣‧୨</h4>
+<h4 align="center">⁺̣‧You've reached the bottom of the list! ‧⁺̣</h4>
 
 # List Information
 * *Creation Date: 9:46 PM 08/25/2023*
@@ -1423,8 +1331,6 @@ High
 </h1>
 
 <h4 align="center"><a href="https://discord.com/invite/EJQASQuPJn">Roblox Glitching Community</a>, <a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a>, People</h4>
-
-<h4 align="center">"buddy u giv no credit!!!" 🤓 cry bout it boohoo</h3>
 
 <h4 align="center">COLLECTIVISTS 2024®<sup>eal</sup></h4>
 
