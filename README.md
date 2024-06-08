@@ -1,15 +1,12 @@
-<h3 align="center">♡</h3>
-
 <h3 align="center">
   <img src="assets/asap.gif" width="256" alt="LIVE.LOVE.A$AP">
 </h3>
 
-<h1 align="center">plagiarizing simulator</h1>
+<h1 align="center">rbxflags</h1>
 
 #### Version: 6.8.24++
-* **157 Currently Listed**
+* **156 Currently Listed**
 * Remove `Textures`
-* **Textures currently don't work because "FFlagMSRefactor5" was removed, Roblox always removes the useful features instead of harmful stuff.**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -42,19 +39,22 @@
 
  # List Navigation
 * **[Rendering](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#rendering)**
-* **[Rendering](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file##lightning-technologies)**
+* **[Lightning Technologies](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file##lightning-technologies)**
 * **[Graphical](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#qol)**
-* **[UI](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#user-interface)**
+* **[Quality of Life](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#quality-of-life)**
+* **[UI](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#user-interfacevisuals)**
+* **[UI X](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#user-interfacevisuals-experimental)**
+* **[Audio](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#audio-related)**
 * **[Textures](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#textures)**
-* **[Physics](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#physics)**
-* **[Abusive](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#Abusive)**
-* **[Other FFlags](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#other-fflags)**
+* **[Physics](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#physics-abusive)**
+* **[Abusive Visuals](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#lol)**
+* **[lol](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#abusive-visuals)**
+* **[Debug](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#debug)**
 * **[Links](https://github.com/collectivists/rbxflags/tree/main?tab=readme-ov-file#links)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
-<h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
+<h3 align="center">꧖ꦿꦸ</h3>
 
 <h1 align="center">Pride Month Exclusive</h1>
 
@@ -123,7 +123,7 @@
 }
 ```
 
-<h1 align="center">Graphical Settings <sup>& more</sup></h1>
+<h1 align="center">Graphical Settings</h1>
 
 ## HyperThreading
 ```json
@@ -1051,7 +1051,7 @@ High
 }
 ```
 
-<h1 align="center">debugging</h1>
+<h1 align="center">Debug</h1>
 
 ### Shows the state of a flag
 ```json
@@ -1306,6 +1306,7 @@ High
 ### [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) *[Github Repo Link]*
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
+### [Bloxshade](https://github.com/Extravi/Bloxshade) *[Github Repo Link]*
 ### [RCOOL](https://github.com/jamesgarry1/RCOOL) *[Github Repo Link]*
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
 ### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
