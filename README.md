@@ -7,8 +7,8 @@
 <h3 align="center">357965</h3>
 
 #### Version: 6.10.24++
-* **159 Currently Listed**
-* `Hide playerlist close button on Chrome UI` `Revert new invite menu` `shit chat bubble`
+* **158 Currently Listed**
+* `Hide playerlist close button on Chrome UI` `Revert new invite menu` ~~`shit chat bubble`~~
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -553,12 +553,6 @@ High
 ```json
 {
     "FFlagEnableNewInviteMenuIXP2": "False"
-}
-```
-### shit chat bubble
-```json
-{
-    "DFFlagFacialAnimationStreaming2": "True"
 }
 ```
 ### Revert spacing on errors
