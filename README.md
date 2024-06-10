@@ -6,9 +6,9 @@
 
 <h3 align="center">HNe7fzR9xg</h3>
 
-#### Version: v10.00.00/6.8.24++
-* **156 Currently Listed**
-* Remove `Textures`
+#### Version: 6.10.24++
+* **159 Currently Listed**
+* `Hide playerlist close button on Chrome UI` `Revert new invite menu` `shit chat bubble`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -549,6 +549,18 @@ High
     "FFlagDebugDisplayUnthemedInstances": "True"
 }
 ```
+### Revert new invite menu
+```json
+{
+    "FFlagEnableNewInviteMenuIXP2": "False"
+}
+```
+### shit chat bubble
+```json
+{
+    "DFFlagFacialAnimationStreaming2": "True"
+}
+```
 ### Revert spacing on errors
 ```json
 {
@@ -747,6 +759,12 @@ High
     "FFlagEnableReportAbuseMenuRoactABTest2": "True",
     "FFlagChromeBetaFeature": "True",
     "FFlagEnableInGameMenuChromeABTest2": "True"
+}
+```
+### Hide playerlist close button on Chrome UI
+```json
+{
+    "FFlagDisablePlayerListDisplayCloseBtn": "True"
 }
 ```
 ### Pin Chat on Chrome UI
