@@ -338,7 +338,7 @@ High
 }
 ```
 ### Texture Manager
-###### -1 Removes almost everything (1-8)
+###### -1 Removes almost everything, 1-4 Blurry, 5-7 low quality also removes studs, 8 Removes everything
 ```json
 {
     "FIntDebugTextureManagerSkipMips": "-1"
