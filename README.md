@@ -10,9 +10,9 @@
 
 <h3 align="center">357965</h3>
 
-#### Version: 6.10.24++ [B]
-* **158 Currently Listed**
-* Fix Typo
+#### Version: `6.10.24++` `[B]`
+* **157 Currently Listed**
+* Fix Typo, Dupe
 * `Hide playerlist close button on Chrome UI` `Revert new invite menu` ~~`shit chat bubble`~~
 
 ## Bloxstrap How to Use:
@@ -266,12 +266,6 @@ High
 ```json
 {
     "FFlagDebugSkyGray": "True"
-}
-```
-### Disable Player Shadows
-```json
-{
-    "FIntRenderShadowIntensity": "0"
 }
 ```
 ### Force LOD on Meshes
