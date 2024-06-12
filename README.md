@@ -10,8 +10,9 @@
 
 <h3 align="center">357965</h3>
 
-#### Version: 6.10.24++
+#### Version: 6.10.24++ [B]
 * **158 Currently Listed**
+* Fix Typo
 * `Hide playerlist close button on Chrome UI` `Revert new invite menu` ~~`shit chat bubble`~~
 
 ## Bloxstrap How to Use:
@@ -619,7 +620,7 @@ High
     "FIntScrollWheelDeltaAmount": "140"
 }
 ```
-### Set Custom Kick Message Lenght
+### Set Custom Kick Message Length
 ```json
 {
     "FIntMaxKickMessageLength": "1"
