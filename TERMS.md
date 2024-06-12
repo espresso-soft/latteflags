@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Ultimate FastFlags List</h1>
+<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> RBXFLAGS</h1>
 
 <h2 align="center">Repository Intent</h2>
 
