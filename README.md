@@ -1331,15 +1331,15 @@ High
 * *Creation Date: 9:46 PM 08/25/2023*
 
 <h3 align="center">
-  <a href="https://open.spotify.com/track/5fSZXFOZfPVW9gvnnG4ZVW">
-    <img src="https://c.tenor.com/oklTQytYrg0AAAAC/tenor.gif" width="256" alt="Listen on Spotify">
+  <a href="https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4">
+    <img src="https://i.scdn.co/image/ab67616d0000b27399068b5c52ec35ec2db977a7" width="256" alt="Listen on Spotify">
   </a>
 </h3>
 
-<h3 align="center">Punk Monk - Playboi Carti</h3>
+<h3 align="center">Nasty - Tinashe</h3>
 
 <h1 align="center">
-  <a href="https://open.spotify.com/track/5fSZXFOZfPVW9gvnnG4ZVW">
+  <a href="https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
   </a>
 </h1>
