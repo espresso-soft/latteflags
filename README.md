@@ -337,9 +337,8 @@ High
     "DFIntTextureCompositorActiveJobs": "0"
 }
 ```
-### No Decals — 5/28/2024
-##### @genocydr
-![image](https://github.com/collectivists/rbxflags/assets/166893422/6d772e5f-6ec8-4506-9da0-551949f7a4f8)
+### Texture Manager
+###### -1 Removes almost everything (1-8)
 ```json
 {
     "FIntDebugTextureManagerSkipMips": "-1"
