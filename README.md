@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="assets/asap.gif" width="256" alt="LIVE.LOVE.A$AP">
+  <img src="assets/newgens.gif" width="256" alt="NEWGENS...">
 </h3>
 
 <h1 align="center">rbxflags</h1>
