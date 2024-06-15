@@ -17,13 +17,11 @@
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
-2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Import Json`.**
+2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Add New` >>  `Import Json`.**
 3. **Paste in the JSON.**
 4. **Save and your good to go!**
 
-<img src="/assets/tutorial.gif" width="750"/>
-
-[Watch a Video Tutorial](https://www.youtube.com/watch?v=d7jzGM5kYO4)
+<img src="/assets/tutorial260.gif" width="750"/>
 
 ## Normal Roblox Bootstrapper  How to Use:
 ###### You can also do Roblox Studio
