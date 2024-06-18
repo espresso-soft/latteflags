@@ -11,8 +11,8 @@
 <h3 align="center">357965</h3>
 
 #### Version: `6.10.24++` `[B]`
-* **157 Currently Listed**
-* Fix Typo, Dupe
+* **158 Currently Listed**
+* `Ragdoll Death Type`
 * `Hide playerlist close button on Chrome UI` `Revert new invite menu` ~~`shit chat bubble`~~
 
 ## Bloxstrap How to Use:
@@ -59,6 +59,17 @@
 <img src="assets/bitdancer.png" width="888"/>
 
 <h3 align="center">꧖ꦿꦸ</h3>
+
+<h1 align="center">Uncategorized</h1>
+
+### Ragdoll Death Type
+#### Studio Only
+###### I tried `Ragdoll` to see if anything would happen lol this is how i found this (found this long time ago)
+```json
+{
+    "DFStringDefaultAvatarDeathType": "Ragdoll"
+}
+```
 
 <h1 align="center">Pride Month Exclusive</h1>
 
