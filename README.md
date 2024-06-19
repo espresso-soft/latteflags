@@ -11,9 +11,9 @@
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `6.19.24++` `[B]`
-* **158 Currently Listed**
-* `Ragdoll Death Type`, `Crash Roblox 2`
+#### Version: `6.19.24++`
+* **159 Currently Listed**
+* `Ragdoll Death Type`, `Crash Roblox 2`, `Tool Desync`
 * Add `FFlagEnableInGameMenuChromeABTest3` to Chrome Flags
 * `Hide playerlist close button on Chrome UI` `Revert new invite menu` ~~`shit chat bubble`~~
 
@@ -829,7 +829,7 @@ High
 
 <h1 align="center">Physics (Abusive)</h1>
 
-### wat is tis?
+### Tool Desync
 ```json
 {
     "DFIntSimBlockLargeLocalToolWeldManipulationsThreshold": "-1"
