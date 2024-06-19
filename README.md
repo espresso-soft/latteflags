@@ -43,11 +43,7 @@
 [Watch a Video Tutorial](https://www.youtube.com/watch?v=5XjhPF5ydJM)
 
 ## How to Fix 403 in <2.5.4 Bloxstrap
-![image](https://github.com/collectivists/rbxflags/assets/166893422/0d3bee43-b6dd-40b1-8baa-6d9fa786ea75)
-1. **`%localappdata%\Bloxstrap\Settings.json` or `%appdata%\Bloxstrap\Settings.json`**
-2. **Inside the contents of the file you will find `"Channel": "example"`**
-3. **Now change that to `"Channel": "LIVE"`**
-4. **Your configuration is complete!**
+https://gist.github.com/burgerboxer/c8bf0bb56dc848da9552aedb3467b117
 
 ###### Why does this happen?: Because the channel you are assigned to is a common channel.
 
