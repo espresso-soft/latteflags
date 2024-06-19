@@ -65,17 +65,6 @@ https://gist.github.com/burgerboxer/c8bf0bb56dc848da9552aedb3467b117.
 
 <h3 align="center">꧖ꦿꦸ</h3>
 
-<h1 align="center">Uncategorized</h1>
-
-### Ragdoll Death Type
-#### Studio Only
-###### I tried `Ragdoll` to see if anything would happen lol this is how i found this (found this long time ago)
-```json
-{
-    "DFStringDefaultAvatarDeathType": "Ragdoll"
-}
-```
-
 <h1 align="center">Pride Month Exclusive</h1>
 
 ### Become gay!
@@ -786,6 +775,14 @@ High
     "FFlagEnableChromePinIntegrations": "True"
 }
 ```
+### Ragdoll Death Type
+#### Studio Only
+###### I tried `Ragdoll` to see if anything would happen lol this is how i found this (found this long time ago)
+```json
+{
+    "DFStringDefaultAvatarDeathType": "Ragdoll"
+}
+```
 
 <h1 align="center">Audio Related</h1>
 
@@ -832,7 +829,12 @@ High
 
 <h1 align="center">Physics (Abusive)</h1>
 
-
+### wat is tis?
+```json
+{
+    "DFIntSimBlockLargeLocalToolWeldManipulationsThreshold": "-1"
+}
+```
 ### Remap R6 to R15 Rigs/Weird Movement
 ```json
 {
