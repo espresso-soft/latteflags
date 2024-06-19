@@ -1,14 +1,15 @@
+<h4 align="center"><a href="https://github.com/collectivists/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/collectivists/rbxflags/tree/poq">performance list</a> </h4>
+
 <h3 align="center">
   <img src="assets/newgens.gif" width="256" alt="NEWGENS...">
 </h3>
 
 <h1 align="center">rbxflags</h1>
 
+<h3 align="center"><a href="https://discord.gg/HNe7fzR9xg">Discord Server</a></h3>
+
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
-
-
-<h3 align="center">357965</h3>
 
 #### Version: `6.10.24++` `[B]`
 * **158 Currently Listed**
@@ -1210,15 +1211,15 @@ High
 * *Creation Date: 9:46 PM 08/25/2023*
 
 <h3 align="center">
-  <a href="https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4">
-    <img src="https://i.scdn.co/image/ab67616d0000b27399068b5c52ec35ec2db977a7" width="256" alt="Listen on Spotify">
+  <a href="https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf">
+    <img src="https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb" width="256" alt="Listen on Spotify">
   </a>
 </h3>
 
-<h3 align="center">Nasty - Tinashe</h3>
+<h3 align="center">ILoveUIHateU - Playboi Carti</h3>
 
 <h1 align="center">
-  <a href="https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4">
+  <a href="https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
   </a>
 </h1>
