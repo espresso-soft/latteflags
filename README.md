@@ -11,9 +11,10 @@
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `6.10.24++` `[B]`
+#### Version: `6.19.24++` `[B]`
 * **158 Currently Listed**
 * `Ragdoll Death Type`
+* `FFlagEnableInGameMenuChromeABTest3`
 * `Hide playerlist close button on Chrome UI` `Revert new invite menu` ~~`shit chat bubble`~~
 
 ## Bloxstrap How to Use:
@@ -760,10 +761,17 @@ High
 ### Chrome UI TopBar
 ```json
 {
-    "FFlagEnableInGameMenuChrome": "True",
     "FFlagEnableReportAbuseMenuRoactABTest2": "True",
-    "FFlagChromeBetaFeature": "True",
-    "FFlagEnableInGameMenuChromeABTest2": "True"
+    "FFlagEnableInGameMenuChromeABTest2": "True",
+    "FFlagEnableInGameMenuChromeABTest3": "True"
+}
+```
+### Chrome UI Topbar Removal
+```json
+{
+    "FFlagEnableInGameMenuChromeABTest2": "False",
+    "FFlagEnableReportAbuseMenuRoactABTest2": "False",
+    "FFlagEnableInGameMenuChromeABTest3": "False"
 }
 ```
 ### Hide playerlist close button on Chrome UI
@@ -782,13 +790,6 @@ High
 ```json
 {
     "FFlagEnableChromePinIntegrations": "True"
-}
-```
-### Chrome UI Topbar Removal
-```json
-{
-    "FFlagEnableInGameMenuChromeABTest2": "False",
-    "FFlagEnableReportAbuseMenuRoactABTest2": "False"
 }
 ```
 
