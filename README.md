@@ -13,8 +13,8 @@
 
 #### Version: `6.19.24++` `[B]`
 * **158 Currently Listed**
-* `Ragdoll Death Type`
-* `FFlagEnableInGameMenuChromeABTest3`
+* `Ragdoll Death Type`, `Crash Roblox 2`
+* Add `FFlagEnableInGameMenuChromeABTest3` to Chrome Flags
 * `Hide playerlist close button on Chrome UI` `Revert new invite menu` ~~`shit chat bubble`~~
 
 ## Bloxstrap How to Use:
@@ -713,12 +713,6 @@ High
     "FFlagSelfieViewEnabled": "True"
 }
 ```
-### Force Disable Camera
-```json
-{
-    "DFFlagVideoCaptureServiceEnabled": "True"
-}
-```
 ### Disable Avatar Chat
 ```json
 {
@@ -1064,10 +1058,16 @@ High
     "FIntPhysicsSolverCollisionPoolBucketSizeWorldModel": "2147483647"
 }
 ```
-### Crash Roblox
+### Crash Roblox 1
 ```json
 {
     "DFIntTimestepArbiterThresholdCFLThou": "0"
+}
+```
+### Crash Roblox 2
+```json
+{
+    "DFFlagVideoCaptureServiceEnabled": "False"
 }
 ```
 ### Increase Ping 
