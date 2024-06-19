@@ -43,9 +43,7 @@
 [Watch a Video Tutorial](https://www.youtube.com/watch?v=5XjhPF5ydJM)
 
 ## How to Fix 403 in <2.5.4 Bloxstrap
-https://gist.github.com/burgerboxer/c8bf0bb56dc848da9552aedb3467b117
-
-###### Why does this happen?: Because the channel you are assigned to is a common channel.
+https://gist.github.com/burgerboxer/c8bf0bb56dc848da9552aedb3467b117.
 
  # List Navigation
 * **[Rendering](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#rendering)**
