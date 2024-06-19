@@ -29,7 +29,7 @@
 2. **Identify the folder `version-xxxxxxxxxxxxxxxx` ~~containing `RobloxPlayerBeta.exe`~~ You can do this for Roblox Studio too.**
 3. **Create a new folder named `ClientSettings`. Inside this folder, place the file `ClientAppSettings.json`.**
 4. **Paste the JSON into `ClientAppSettings.json`. (You can utilize ChatGPT to format multiple JSONs for clarity if needed)**
-5. **Save and your good to go!**
+5. **Save and you're good to go!**
 ###### Do note that after roblox updates you have to do this process again
 
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
@@ -41,6 +41,14 @@
 4. **Your configuration is complete!**
 
 [Watch a Video Tutorial](https://www.youtube.com/watch?v=5XjhPF5ydJM)
+
+## How to Fix 403 in <2.5.4 Bloxstrap
+![image](https://github.com/collectivists/rbxflags/assets/166893422/0d3bee43-b6dd-40b1-8baa-6d9fa786ea75)
+1. **`%localappdata%\Bloxstrap\Settings.json` or `%appdata%\Bloxstrap\Settings.json`**
+2. **Inside the contents of the file you will find `"Channel": "example"`**
+3. **Now change that to `"Channel": "LIVE"`**
+4. **Your configuration is complete!**
+####### Why does this happen?: Because the channel you assigned to is a common channel.
 
  # List Navigation
 * **[Rendering](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#rendering)**
