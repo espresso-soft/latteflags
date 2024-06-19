@@ -48,7 +48,8 @@
 2. **Inside the contents of the file you will find `"Channel": "example"`**
 3. **Now change that to `"Channel": "LIVE"`**
 4. **Your configuration is complete!**
-####### Why does this happen?: Because the channel you assigned to is a common channel.
+
+###### Why does this happen?: Because the channel you assigned to is a common channel.
 
  # List Navigation
 * **[Rendering](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#rendering)**
