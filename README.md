@@ -1210,9 +1210,6 @@ High
 
 <h4 align="center">⁺ You've reached the bottom of the list! ⁺</h4>
 
-# List Information
-* *Creation Date: 9:46 PM 08/25/2023*
-
 <h3 align="center">
   <a href="https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf">
     <img src="https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb" width="256" alt="Listen on Spotify">
@@ -1227,7 +1224,7 @@ High
   </a>
 </h1>
 
-<h4 align="center"><a href="https://discord.com/invite/EJQASQuPJn">Roblox Glitching Community</a>, <a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a>, People</h4>
+<h4 align="center"><a href="https://discord.com/invite/EJQASQuPJn">Roblox Glitching Community</a> <a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></h4>
 
 <h4 align="center">COLLECTIVISTS 2024®<sup>eal</sup></h4>
 
