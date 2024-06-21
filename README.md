@@ -738,6 +738,13 @@ High
     "FFlagDSAIllegalContentReporting2": "False"
 }
 ```
+### Desktop App Dev Tools
+###### only works on web view windows like profiles
+```json
+{
+    "FFlagDebugEnableNewWebView2DevTool": "True"
+}
+```
 
 <h1 align="center">User Interface/Visuals Experimental</h1>
 
