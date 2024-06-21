@@ -739,7 +739,7 @@ High
 }
 ```
 ### Desktop App Dev Tools
-###### only works on web view windows like profiles
+###### only works on web view windows like profiles, ctrl + shift + I
 ```json
 {
     "FFlagDebugEnableNewWebView2DevTool": "True"
