@@ -369,6 +369,7 @@ High
 }
 ```
 ### Limits number of animations being played
+###### 0 removes most player animations, 1-5 removes the walk animation after jumping
 ```json
 {
     "DFIntMaxActiveAnimationTracks": "0"
