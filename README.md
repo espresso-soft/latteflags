@@ -11,11 +11,9 @@
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `6.19.24++`
-* **159 Currently Listed**
-* `Ragdoll Death Type`, `Crash Roblox 2`, `Tool Desync`
-* Add `FFlagEnableInGameMenuChromeABTest3` to Chrome Flags
-* `Hide playerlist close button on Chrome UI` `Revert new invite menu` ~~`shit chat bubble`~~
+#### Version: `6.22.24++`
+* **161 Currently Listed**
+* `Makes stuff slightly brighter`, `Desktop App Dev Tools`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -134,6 +132,12 @@ https://gist.github.com/burgerboxer/c8bf0bb56dc848da9552aedb3467b117.
 
 <h1 align="center">Graphical Settings</h1>
 
+### Makes stuff slightly brighter
+```json
+{
+    "FFlagRenderFixFog": "True"
+}
+```
 ### HyperThreading
 ```json
 {
