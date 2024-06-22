@@ -12,8 +12,8 @@
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 #### Version: `6.22.24++`
-* **161 Currently Listed**
-* `Makes stuff slightly brighter`, `Desktop App Dev Tools`
+* **162 Currently Listed**
+* `Makes stuff slightly brighter`, `Desktop App Dev Tools`, `V1 Menu`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -50,8 +50,8 @@ https://gist.github.com/burgerboxer/c8bf0bb56dc848da9552aedb3467b117.
 * **[Lightning Technologies](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
 * **[Graphical](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
 * **[Quality of Life](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
+* **[UI](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#-interfacevisuals)**
+* **[UI X](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#-interfacevisuals-experimental)**
 * **[Audio](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
 * **[Physics](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
 * **[Abusive Visuals](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
@@ -528,6 +528,18 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
+### V1 Menu
+```json
+{
+    "FFlagDisableNewIGMinDUA": "True",
+    "FFlagEnableInGameMenuControls": "False",
+    "FFlagEnableInGameMenuModernization": "False",
+    "FFlagEnableMenuControlsABTest": "False",
+    "FFlagEnableMenuModernizationABTest": "False",
+    "FFlagEnableMenuModernizationABTest2": "False",
+    "FFlagEnableV3MenuABTest3": "False"
+}
+```
 ### Custom Disconnect Message
 ```json
 {
