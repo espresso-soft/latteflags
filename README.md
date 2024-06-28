@@ -1012,7 +1012,7 @@ High
 }
 ```
 ### Network Ownership
-###### better network ownership of parts
+###### better [network ownership](https://create.roblox.com/docs/physics/network-ownership) of parts
 ###### this might get you banned in some games with anticheats (Limbobbia)
 ```json
 {
