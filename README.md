@@ -530,6 +530,18 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
+### V1 Menu
+```json
+{
+    "FFlagDisableNewIGMinDUA": "True",
+    "FFlagEnableInGameMenuControls": "False",
+    "FFlagEnableInGameMenuModernization": "False",
+    "FFlagEnableMenuControlsABTest": "False",
+    "FFlagEnableMenuModernizationABTest": "False",
+    "FFlagEnableMenuModernizationABTest2": "False",
+    "FFlagEnableV3MenuABTest3": "False"
+}
+```
 ### Custom Disconnect Message
 ```json
 {
