@@ -13,7 +13,7 @@
 
 #### Version: `6.22.24++`
 * **162 Currently Listed**
-* `Makes stuff slightly brighter`, `Desktop App Dev Tools`
+* `Makes stuff slightly brighter`, `Desktop App Dev Tools`, `Network Ownership` 
 * Remove `Revert New "Builder" Font`
 
 ## Bloxstrap How to Use:
@@ -1011,7 +1011,16 @@ High
     "DFIntUnstickForceAttackInTenths": "-4"
 }
 ```
-
+### Network Ownership
+###### better [network ownership](https://create.roblox.com/docs/physics/network-ownership) of parts
+###### this might get you banned in some games with anticheats (Limbobbia)
+```json
+{
+    "DFIntMinClientSimulationRadius": "2147000000",
+    "DFIntMinimalSimRadiusBuffer": "2147000000",
+    "DFIntMaxClientSimulationRadius": "2147000000"
+}
+```
 <h1 align="center">Abusive Visuals</h1>
 
 ### Semi Fullbright
