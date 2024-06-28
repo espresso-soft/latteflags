@@ -13,7 +13,7 @@
 
 #### Version: `6.22.24++`
 * **162 Currently Listed**
-* `Makes stuff slightly brighter`, `Desktop App Dev Tools`, `network ownership` 
+* `Makes stuff slightly brighter`, `Desktop App Dev Tools`, `Network Ownership` 
 * Remove `Revert New "Builder" Font`
 
 ## Bloxstrap How to Use:
