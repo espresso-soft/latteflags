@@ -13,7 +13,8 @@
 
 #### Version: `6.22.24++`
 * **162 Currently Listed**
-* `Makes stuff slightly brighter`, `Desktop App Dev Tools`, `V1 Menu`
+* `Makes stuff slightly brighter`, `Desktop App Dev Tools`
+* Remove `Revert New "Builder" Font`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -529,18 +530,6 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
-### V1 Menu
-```json
-{
-    "FFlagDisableNewIGMinDUA": "True",
-    "FFlagEnableInGameMenuControls": "False",
-    "FFlagEnableInGameMenuModernization": "False",
-    "FFlagEnableMenuControlsABTest": "False",
-    "FFlagEnableMenuModernizationABTest": "False",
-    "FFlagEnableMenuModernizationABTest2": "False",
-    "FFlagEnableV3MenuABTest3": "False"
-}
-```
 ### Custom Disconnect Message
 ```json
 {
@@ -585,6 +574,7 @@ High
     "FIntRobloxGuiBlurIntensity": "0"
 }
 ```
+<!-- No longer working in 631
 ### Revert New "Builder" Font
 ```json
 {
@@ -594,6 +584,7 @@ High
     "FFlagAddGothamToLegacyContent": "False"
 }
 ```
+-->
 ### Revert Old Report Menu
 ```json
 {
