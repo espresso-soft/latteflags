@@ -12,9 +12,9 @@
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 #### Version: `6.22.24++`
-* **161 Currently Listed**
+* **162 Currently Listed**
 * `Makes stuff slightly brighter`, `Desktop App Dev Tools`
-* Remove `Revert New "Builder" Font`, `V1 Menu`
+* Remove `Revert New "Builder" Font`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -529,20 +529,6 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
-<!-- No longer working in 631
-### V1 Menu
-```json
-{
-    "FFlagDisableNewIGMinDUA": "True",
-    "FFlagEnableInGameMenuControls": "False",
-    "FFlagEnableInGameMenuModernization": "False",
-    "FFlagEnableMenuControlsABTest": "False",
-    "FFlagEnableMenuModernizationABTest": "False",
-    "FFlagEnableMenuModernizationABTest2": "False",
-    "FFlagEnableV3MenuABTest3": "False"
-}
-```
--->
 ### Custom Disconnect Message
 ```json
 {
