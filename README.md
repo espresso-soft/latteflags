@@ -11,10 +11,9 @@
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `6.22.24++`
+#### Version: `7.1.24 [A]`
 * **162 Currently Listed**
-* `Makes stuff slightly brighter`, `Desktop App Dev Tools`, `Network Ownership` 
-* Remove `Revert New "Builder" Font`
+* `Disable Captures Keybind` `Disable Sidebar Text`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -379,6 +378,12 @@ High
 
 <h1 align="center">Quality of Life</h1>
 
+### Disable Captures Keybind
+```json
+{
+    "FFlagEnableCapturesHotkeyExperiment_v4": "False"
+}
+```
 ### FPS Unlocker in Roblox Menu Settings
 ```json
 {
@@ -530,6 +535,18 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
+### Revert "Charts" back to Discovery
+```json
+{
+    "FFlagLuaAppChartsPageRenameIXP": "False"
+}
+```
+### Disable Sidebar Text (Default: True)
+```json
+{
+    "FFlagEnableNavBarLabels3": "False"
+}
+```
 ### V1 Menu
 ```json
 {
