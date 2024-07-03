@@ -63,16 +63,6 @@ https://gist.github.com/burgerboxer/c8bf0bb56dc848da9552aedb3467b117.
 
 <h3 align="center">꧖ꦿꦸ</h3>
 
-<h1 align="center">Pride Month Exclusive</h1>
-
-### Become gay!
-```json
-{
-    "FFlagDebugDisplayUnthemedInstances": "True"
-}
-```
-
-
 <h1 align="center">Rendering API</h1>
 
 ### Metal
