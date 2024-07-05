@@ -11,9 +11,9 @@
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `7.1.24 [A]`
-* **163 Currently Listed**
-* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery`
+#### Version: `7.4.24 [A]`
+* **164 Currently Listed**
+* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -750,6 +750,12 @@ High
 ```json
 {
     "FIntVRTouchControllerTransparency": "0"
+}
+```
+### Disable VR Collision Fade
+```json
+{
+    "FFlagViewCollisionFadeToBlackInVR": "False"
 }
 ```
 ### Limit Videos Playing
