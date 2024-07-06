@@ -1007,7 +1007,7 @@ High
 ###### Adjust the value so you don't fall through the ground
 ```json
 {
-    "DFFlagAssemblyExtentsExpansionStudHundredth": "-50"
+    "DFIntAssemblyExtentsExpansionStudHundredth": "-50"
 }
 ```
 ### Noclip 2
