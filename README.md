@@ -12,7 +12,7 @@
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 #### Version: `7.6.24 [A]`
-* **165 Currently Listed**
+* **166 Currently Listed**
 * `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon` `Low Gravity`
 
 ## Bloxstrap How to Use:
