@@ -1040,6 +1040,16 @@ High
     "DFIntMaxClientSimulationRadius": "2147000000"
 }
 ```
+### Low Gravity
+###### 'FFlagDebugSimDefaultPrimalSolver' : True, # Enable the new simulation engine or whatever it is
+###### 'DFIntDebugSimPrimalLineSearch' : 1, # A poor man's gravity/flight [Default 100] (above 0 is low gravity | below 1 to -1 is will make gameplay weird when it comes to physics | below -1 is a poor mans fly (not really useable) 
+###### credit [@Amity](https://www.youtube.com/watch?v=5M411LL17B0)
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalLineSearch": "3"
+}
+```
 <h1 align="center">Abusive Visuals</h1>
 
 ### Semi Fullbright
