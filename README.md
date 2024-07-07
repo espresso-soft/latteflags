@@ -13,7 +13,7 @@
 
 #### Version: `7.6.24 [A]`
 * **165 Currently Listed**
-* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon`
+* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon` `Low Gravity`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
