@@ -1021,7 +1021,7 @@ High
 ###### I found this btw
 ```json
 {
-    "FFlagDebugSimDefaultPrimalSolver": "True"
+    "FFlagDebugSimDefaultPrimalSolver": "True",
     "DFIntDebugSimPrimalStiffness": "0"
 }
 ```
