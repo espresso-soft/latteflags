@@ -12,8 +12,8 @@
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 #### Version: `7.6.24 [A]`
-* **166 Currently Listed**
-* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon` `Low Gravity`
+* **167 Currently Listed**
+* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon` `Low Gravity` `Noclip 3`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -1015,6 +1015,14 @@ High
 ```json
 {
     "DFIntSimBroadPhasePairCountMax": "50"
+}
+```
+### Noclip 3
+###### @burgerboxer
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "0"
+    "DFIntDebugSimPrimalStiffness": "0"
 }
 ```
 ### Hip Height
