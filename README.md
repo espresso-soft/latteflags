@@ -1018,10 +1018,10 @@ High
 }
 ```
 ### Noclip 3
-###### @burgerboxer
+###### I found this btw
 ```json
 {
-    "FFlagDebugSimDefaultPrimalSolver": "0"
+    "FFlagDebugSimDefaultPrimalSolver": "True"
     "DFIntDebugSimPrimalStiffness": "0"
 }
 ```
