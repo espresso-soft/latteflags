@@ -12,8 +12,8 @@
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 #### Version: `7.9.24` `[A]`
-* **168 Currently Listed**
-* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon` `Low Gravity 1` `Low Gravity 2` `Noclip 3`
+* **169 Currently Listed**
+* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon` `Low Gravity 1` `Low Gravity 2` `Noclip 3` `Backwards SpeedHax`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -1071,6 +1071,21 @@ High
   "DFIntDebugSimPrimalToleranceInv": "1"
 }
 ```
+### Backwards SpeedHax
+#### Bugginess and Speed depends on the value of `DFIntDebugSimPrimalWarmstartForce` values i recommend are `745`, `515` and the value i put.
+###### I may have not found this first but i found this by myself btw
+```json
+{
+  "DFIntDebugSimPrimalNewtonIts": "1",
+  "DFIntDebugSimPrimalPreconditioner": "69",
+  "DFIntDebugSimPrimalPreconditionerMinExp": "69",
+  "DFIntDebugSimPrimalToleranceInv": "1",
+  "DFIntDebugSimPrimalWarmstartForce": "-885",
+  "DFIntDebugSimPrimalWarmstartVelocity": "-350"
+  "FFlagDebugSimDefaultPrimalSolver": "True"
+}
+```
+
 <h1 align="center">Abusive Visuals</h1>
 
 ### Semi Fullbright
