@@ -1,11 +1,17 @@
 <h1 align="center">Primal Solver Flags</h1>
 
 ### This list is missing
-* **Freeze**
 * **Drunk Walk**
 * **Air Spin**
 #### Reasons: I FORGOT THE VALUES
 
+### Freeze
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalLineSearch": "0"
+}
+```
 ### Noclip 3
 ###### I found this btw
 ```json
@@ -25,7 +31,6 @@
 }
 ```
 ###  Buggy Low Gravity 2
-###### I found this btw
 ```json
 {
   "DFIntDebugSimPrimalPreconditioner": "100",
@@ -53,7 +58,6 @@
 }
 ```
 ### Don't Touch The Wall!
-###### I found this btw
 ```json
 {
     "DFIntDebugSimPrimalNewtonIts": "-2147483647",
