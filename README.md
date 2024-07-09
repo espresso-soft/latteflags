@@ -11,9 +11,9 @@
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `7.6.24 [A]`
-* **167 Currently Listed**
-* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon` `Low Gravity` `Noclip 3`
+#### Version: `7.9.24` `[A]`
+* **168 Currently Listed**
+* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon` `Low Gravity 1` `Low Gravity 2` `Noclip 3`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -1048,7 +1048,7 @@ High
     "DFIntMaxClientSimulationRadius": "2147000000"
 }
 ```
-### Low Gravity
+### Low Gravity 1
 ###### 'FFlagDebugSimDefaultPrimalSolver' : True, # Enable the new simulation engine or whatever it is
 ###### 'DFIntDebugSimPrimalLineSearch' : 1, # A poor man's gravity/flight [Default 100] (above 0 is low gravity | below 1 to -1 is will make gameplay weird when it comes to physics | below -1 is a poor mans fly (not really useable) 
 ###### credit [@Amity](https://www.youtube.com/watch?v=5M411LL17B0)
@@ -1056,6 +1056,19 @@ High
 {
     "FFlagDebugSimDefaultPrimalSolver": "True",
     "DFIntDebugSimPrimalLineSearch": "3"
+}
+```
+### Low Gravity 2
+###### this is more buggy
+```json
+{
+  "DFIntDebugSimPrimalPreconditioner": "100",
+  "DFIntDebugSimPrimalPreconditionerMinExp": "100",
+  "DFIntDebugSimPrimalNewtonIts": "1",
+  "FFlagDebugSimDefaultPrimalSolver": "True",
+  "DFIntDebugSimPrimalWarmstartVelocity": "-150",
+  "DFIntDebugSimPrimalWarmstartForce": "-775",
+  "DFIntDebugSimPrimalToleranceInv": "1"
 }
 ```
 <h1 align="center">Abusive Visuals</h1>
