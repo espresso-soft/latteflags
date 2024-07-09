@@ -24,8 +24,8 @@
     "DFIntDebugSimPrimalLineSearch": "3"
 }
 ```
-### Low Gravity 2
-###### this is more buggy
+###  Buggy Low Gravity 2
+###### I found this btw
 ```json
 {
   "DFIntDebugSimPrimalPreconditioner": "100",
@@ -53,6 +53,7 @@
 }
 ```
 ### Don't Touch The Wall!
+###### I found this btw
 ```json
 {
     "DFIntDebugSimPrimalNewtonIts": "-2147483647",
