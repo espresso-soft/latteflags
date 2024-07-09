@@ -1073,7 +1073,7 @@ High
 ```
 ### Backwards SpeedHax
 #### Bugginess and Speed depends on the value of `DFIntDebugSimPrimalWarmstartForce` values i recommend are `775` and the value i put.
-##### Also for `DFIntDebugSimPrimalWarmstartVelocity` probably use value `150
+##### Also for `DFIntDebugSimPrimalWarmstartVelocity` probably use value `150` but its kinda hard to do it and control
 ###### I may have not found this first but i found this by myself btw
 ```json
 {
