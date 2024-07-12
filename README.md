@@ -11,9 +11,9 @@
 > [!CAUTION]
 > FastFlags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `7.9.24` `[A]`
-* **171 Currently Listed**
-* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon` `Low Gravity 1` `Low Gravity 2` `Noclip 3` `Backwards SpeedHax` `Don't Touch The Wall!` `Freeze`
+#### Version: `7.12.24` `[A]`
+* **172 Currently Listed**
+* `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon` `Low Gravity 1` `Low Gravity 2` `Noclip 3` `Backwards SpeedHax` `Don't Touch The Wall!` `Freeze` `Fix Reduced Motion Stuck`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -525,6 +525,14 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
+### Fix Reduced Motion Stuck
+###### @kezcn
+![image](https://github.com/user-attachments/assets/cfdc9732-084e-4c09-bc43-8039a3bf0d89)
+```json
+{
+    "FFlagFixReducedMotionStuckIGM2": "True"
+}
+```
 ### Revert "Charts" back to Discovery
 ```json
 {
