@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> RBXFLAGS</h1>
+<h1 align="center"><img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> rbxflags</h1>
 
 <h2 align="center">Repository Intent</h2>
 
@@ -27,7 +27,7 @@ As stated in this repository's Terms and Conditions, by using the information in
 By accessing this repository, you agree that you have read and agree with this repository's Terms and Conditions. If you do not agree, cease accessing this rentry immediately.
 
 <h3 align="center">
-  <img src="assets/ICON-DARK.gif" width="86" alt="COLLECTIVISTS">
+  <img src="https://avatars.githubusercontent.com/u/175521762" width="86" alt="luafv">
 </h3>
 
-<h4 align="center">COLLECTIVISTS 2024®</h3>
+<h4 align="center">luafv 2024®</h3>
