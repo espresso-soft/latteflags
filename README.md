@@ -1,4 +1,4 @@
-<h4 align="center"><a href="https://github.com/collectivists/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/collectivists/rbxflags/tree/poq">performance list</a> </h4>
+<h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/luafv/rbxflags/tree/poq">performance list</a> </h4>
 
 <h3 align="center">
   <img src="assets/newgens.gif" width="256" alt="NEWGENS...">
@@ -46,18 +46,18 @@
 https://gist.github.com/burgerboxer/c8bf0bb56dc848da9552aedb3467b117.
 
  # List Navigation
-* **[Rendering](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#rendering)**
-* **[Lightning Technologies](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
-* **[Graphical](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* **[Audio](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
-* **[Physics](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
-* **[lol](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#lol)**
-* **[Debug](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#debug)**
-* **[Links](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#links)**
+* **[Rendering](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#rendering)**
+* **[Lightning Technologies](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
+* **[Graphical](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
+* **[Quality of Life](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
+* **[UI](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
+* **[UI X](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
+* **[Audio](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
+* **[Physics](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
+* **[Abusive Visuals](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
+* **[lol](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#lol)**
+* **[Debug](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#debug)**
+* **[Links](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#links)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
@@ -212,7 +212,7 @@ High
 }
 ```
 ### Low Render Distance
-###### [FRM](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#frm-levels)
+###### [FRM](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#frm-levels)
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
@@ -239,7 +239,7 @@ High
 }
 ```
 ### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/collectivists/rbxflags/tree/master?tab=readme-ov-file#frm-levels) ]***
+###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#frm-levels) ]***
 ```json
 {
     "DFIntRenderClampRoughnessMax": "-640000000",
@@ -1337,7 +1337,7 @@ High
 
 <h3 align="center">
   <a href="https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq">
-    <img src="https://github.com/collectivists/rbxflags/assets/166893422/27e45931-0f07-455e-af22-8fce8cf04e85" width="256" alt="Listen on Spotify">
+    <img src="https://github.com/luafv/rbxflags/assets/166893422/27e45931-0f07-455e-af22-8fce8cf04e85" width="256" alt="Listen on Spotify">
   </a>
 </h3>
 
@@ -1351,7 +1351,7 @@ High
 
 <h4 align="center"><a href="https://discord.com/invite/EJQASQuPJn">Roblox Glitching Community</a> <a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></h4>
 
-<h4 align="center">COLLECTIVISTS 2024®<sup>eal</sup></h4>
+<h4 align="center">luafv 2024®<sup>eal</sup></h4>
 
 <p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
 
