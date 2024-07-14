@@ -1301,7 +1301,7 @@ High
 
 <h1 align="center">Community Presets</h1>
 
-<h4 align="center">We are not accepting performance FastFlags that aren't listed or known.</h4>
+<h4 align="center">We are not accepting performance Fast Flags that aren't listed or known.</h4>
 
 ### absolutely kill your game quality with fflags known to me
 ##### @dynamitebumblemouth
