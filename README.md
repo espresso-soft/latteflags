@@ -16,7 +16,7 @@
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 #### Version: `7.12.24` `[A]`
-* **172 Currently Listed**
+* **171 Currently Listed**
 * `Disable Captures Keybind` `Disable Sidebar Text` `Revert "Charts" back to Discovery` `Disable VR Collision Fade` `Break Collectible Icon` `Low Gravity 1` `Low Gravity 2` `Noclip 3` `Backwards SpeedHax` `Don't Touch The Wall!` `Freeze` `Fix Reduced Motion Stuck`
 
 ## Bloxstrap How to Use:
@@ -1145,13 +1145,6 @@ High
 ```json
 {
     "FIntCameraFarZPlane": "1"
-}
-```
-### Enables Network Debug Tracker menu <sup>It can be used for chams (Abusive)</sup>
-##### Instructions: CTRL+F8
-```json
-{
-    "DFFlagDebugEnableInterpolationVisualizer": "True"
 }
 ```
 ### Adds an UI in game, which highlights any part player touches (like ground, Meshes etc.). It's a non-functioning UI too. Also adds a blue circle to your humanoid.
