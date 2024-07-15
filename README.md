@@ -1147,13 +1147,6 @@ High
     "FIntCameraFarZPlane": "1"
 }
 ```
-### Enables Network Debug Tracker menu <sup>It can be used for chams (Abusive)</sup>
-##### Instructions: CTRL+F8
-```json
-{
-    "DFFlagDebugEnableInterpolationVisualizer": "True"
-}
-```
 ### Adds an UI in game, which highlights any part player touches (like ground, Meshes etc.). It's a non-functioning UI too. Also adds a blue circle to your humanoid.
 ```json
 {
