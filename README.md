@@ -1038,12 +1038,13 @@ High
 }
 ```
 ### Noclip 3 Improvement
-```{
-  "FFlagDebugSimDefaultPrimalSolver": "True",
-  "DFFlagDebugSimPrimalFeedback": "True",
-  "DFIntDebugSimPrimalStiffnessMax": "0",
-  "DFIntDebugSimPrimalStiffnessMin": "0",
-  "DFIntMaximumFreefallMoveTimeInTenths": "1000"
+```
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFFlagDebugSimPrimalFeedback": "True",
+    "DFIntDebugSimPrimalStiffnessMax": "0",
+    "DFIntDebugSimPrimalStiffnessMin": "0",
+    "DFIntMaximumFreefallMoveTimeInTenths": "1000"
 }
 ```
 ### Freeze
