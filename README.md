@@ -1001,7 +1001,7 @@ High
 ### Clientsided Invisible
 ```json
 {
-    "FIntParallelDynamicPartsFastClusterBatchSize": "-1",
+    "FIntParallelDynamicPartsFastClusterBatchSize": "-1"
 }
 ```
 ### Warp & Slowmotion
