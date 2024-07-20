@@ -628,7 +628,7 @@ High
 ### Disable New Chat Translation Settings
 ```json
 {
-    "FFlagChatTranslationSettingEnabled3 ": "False"
+    "FFlagChatTranslationSettingEnabled3": "False"
 }
 ```
 ### New Camera Mode
