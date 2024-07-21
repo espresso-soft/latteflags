@@ -1123,7 +1123,7 @@ High
 {
     "FFlagFastGPULightCulling3": "True",
     "FIntRenderShadowIntensity": "0",
-    "DFIntCullFactorPixelThresholdShadowMapHighQuality ": "2147483647",
+    "DFIntCullFactorPixelThresholdShadowMapHighQuality": "2147483647",
     "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
     "FFlagNewLightAttenuation": "True",
     "FIntRenderShadowmapBias": "-1",
