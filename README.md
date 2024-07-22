@@ -15,9 +15,9 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `7.20.24` `[A]`
+#### Version: `7.22.24`
 * **172 Currently Listed**
-* `Noclip 3 Improvement`
+* `Adjust Default Timeout Time`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -470,6 +470,14 @@ High
 ```json
 {
     "DFFlagDebugDisableTimeoutDisconnect": "True"
+}
+```
+### Adjust Default Timeout Time
+###### 1 second = 1000
+###### @dis_spencer
+```json
+{
+    "DFIntDefaultTimeoutTimeMs": "10000"
 }
 ```
 ### Quick Game Launch 
