@@ -49,6 +49,10 @@
 ## How to Fix 403 in <2.5.4 Bloxstrap
 https://gist.github.com/burgerboxer/c8bf0bb56dc848da9552aedb3467b117.
 
+## Wall of Shame 🤡
+1. **[not crediting people lol also a newgen, basically just a copy of ours but doesn't credit people](https://github.com/Dantezz025/Roblox-Fast-Flags).**
+2. https://github.com/dannwsx/fflags/ **copy and pasted our old rentry, he even has our old discord server link lmao ![image](https://github.com/user-attachments/assets/128f3e90-c3c8-4fbd-ac73-20a15b351d0b)**
+
  # List Navigation
 * **[Rendering](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#rendering)**
 * **[Lightning Technologies](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
@@ -1357,6 +1361,12 @@ High
 </h1>
 
 <h4 align="center"><a href="https://discord.com/invite/EJQASQuPJn">Roblox Glitching Community</a> <a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></h4>
+
+<h3 align="center">
+  <a href="https://discord.gg/HNe7fzR9xgF">
+    <img src="https://c.tenor.com/fWO4Tmw3BeYAAAAC/tenor.gif" width="465">
+  </a>
+</h3>
 
 <h4 align="center">luafv 2024®<sup>eal</sup></h4>
 
