@@ -1347,7 +1347,7 @@ High
   </a>
 </h1>
 
-<h4 align="center"><a href="https://discord.com/invite/EJQASQuPJn">Roblox Glitching Community</a> <a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></h4>
+<h4 align="center"><a href="https://discord.gg/YvbuWggPC6">Roblox Glitching Community</a> <a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></h4>
 
 <h3 align="center">
   <a href="https://discord.gg/HNe7fzR9xgF">
