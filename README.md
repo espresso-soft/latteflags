@@ -1030,21 +1030,12 @@ High
 }
 ```
 ### Noclip 3
-###### I found this btw
+###### @burgerboxer & @juicyleg
 ```json
 {
     "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntMaximumFreefallMoveTimeInTenths": "1000",
     "DFIntDebugSimPrimalStiffness": "0"
-}
-```
-### Noclip 3 Improvement
-```
-{
-    "FFlagDebugSimDefaultPrimalSolver": "True",
-    "DFFlagDebugSimPrimalFeedback": "True",
-    "DFIntDebugSimPrimalStiffnessMax": "0",
-    "DFIntDebugSimPrimalStiffnessMin": "0",
-    "DFIntMaximumFreefallMoveTimeInTenths": "1000"
 }
 ```
 ### Freeze
