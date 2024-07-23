@@ -1335,7 +1335,7 @@ High
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
 ### [Bloxshade](https://github.com/Extravi/Bloxshade) *[Github Repo Link]*
-### [RCOOL](https://github.com/jamesgarry1/RCOOL) *[Github Repo Link]*
+### [rbxperf](https://github.com/luafv/rbxperf) *[Github Repo Link]*
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
 ### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
 
