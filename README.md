@@ -23,6 +23,7 @@
 ###### Thoughts on our new formatting? (Trust me it works)
 ###### Open an issue if you need help with formatting!
 ###### You can use our Third-party list it has proper JSON formatting.
+###### Please use the lastest Bloxstrap Release.
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
