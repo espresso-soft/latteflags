@@ -1,5 +1,3 @@
-<h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
-
 <h3 align="center">
   <img src="assets/newgens.gif" width="256" alt="NEWGENS...">
 </h3>
@@ -15,7 +13,7 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `7.22.24`
+#### Version: `7.22.24` `CLEAN`
 * **172 Currently Listed**
 * `Adjust Default Timeout Time`
 
@@ -1355,7 +1353,7 @@ High
   </a>
 </h1>
 
-<h4 align="center"><a href="https://discord.gg/YvbuWggPC6">Roblox Glitching Community</a> <a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></h4>
+<h4 align="center"><a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></h4>
 
 <h3 align="center">
   <a href="https://discord.gg/HNe7fzR9xgF">
