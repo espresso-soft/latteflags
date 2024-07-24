@@ -18,6 +18,7 @@
 #### Version: `7.24.24`
 * **173 Currently Listed**
 * `Stop the Chinese from spying on you`
+* **Revert New Formatting because it can only be imported inside Bloxstrap**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
