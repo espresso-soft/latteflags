@@ -1342,15 +1342,15 @@ High
 <h4 align="center">⁺ You've reached the bottom of the list! ⁺</h4>
 
 <h3 align="center">
-  <a href="https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bbdceba2bf1867d4966d0347" width="256" alt="Listen on Spotify">
+  <a href="https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731882add8fd275c04e322027d" width="256" alt="Listen on Spotify">
   </a>
 </h3>
 
 <h3 align="center">Awkward - SZA</h3>
 
 <h1 align="center">
-  <a href="https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF">
+  <a href="https://open.spotify.com/track/2xZ0zfuDTv5LxLhEgD82PG">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
   </a>
 </h1>
