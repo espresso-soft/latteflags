@@ -17,7 +17,8 @@
 
 #### Version: `7.24.24`
 * **173 Currently Listed**
-* `Stop the Chinese from spying on you`
+* `Stop the Chinese from spying on you` `Low Gravity 2 Control on Parts Improvement`
+* Temporary Fix for `Enables Network Debug Tracker menu`
 * **Revert New Formatting because it can only be imported inside Bloxstrap**
 
 ## Bloxstrap How to Use:
@@ -1091,6 +1092,7 @@ High
 ###### this is more buggy
 ```json
 {
+  "FFlagDebugSimDefaultPrimalSolver": "True",
   "DFIntDebugSimPrimalPreconditioner": "100",
   "DFIntDebugSimPrimalPreconditionerMinExp": "100",
   "DFIntDebugSimPrimalNewtonIts": "1",
@@ -1098,6 +1100,18 @@ High
   "DFIntDebugSimPrimalWarmstartVelocity": "-150",
   "DFIntDebugSimPrimalWarmstartForce": "-775",
   "DFIntDebugSimPrimalToleranceInv": "1"
+}
+```
+### Low Gravity 2 Control on Parts Improvement
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalNewtonIts": "1",
+    "DFIntDebugSimPrimalPreconditioner": "15",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "10",
+    "DFIntDebugSimPrimalToleranceInv": "1",
+    "DFIntDebugSimPrimalWarmstartForce": "-150",
+    "DFIntDebugSimPrimalWarmstartVelocity": "100"
 }
 ```
 ### Backwards SpeedHax
@@ -1155,6 +1169,13 @@ High
 ```json
 {
     "FIntCameraFarZPlane": "1"
+}
+```
+### Enables Network Debug Tracker menu <sup>It can be used for chams (Abusive)</sup>
+##### Instructions: Downgrade to this build [v631](https://rdd.latte.to/?channel=common&binaryType=WindowsPlayer&version=version-3d25780cd0874f79) CTRL+F8
+```json
+{
+    "DFFlagDebugEnableInterpolationVisualizer": "True"
 }
 ```
 ### Adds an UI in game, which highlights any part player touches (like ground, Meshes etc.). It's a non-functioning UI too. Also adds a blue circle to your humanoid.
