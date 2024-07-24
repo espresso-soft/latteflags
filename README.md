@@ -15,9 +15,9 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `7.22.24`
-* **172 Currently Listed**
-* `Adjust Default Timeout Time`
+#### Version: `7.24.24`
+* **173 Currently Listed**
+* `Stop the Chinese from spying on you`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -1174,6 +1174,12 @@ High
 
 <h1 align="center">lol</h1>
 
+### Stop the Chinese from spying on you
+```json
+{
+    "FStringTencentAuthPath": "null"
+}
+```
 ### Don't Touch The Wall!
 ```json
 {
