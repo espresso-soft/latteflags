@@ -14,7 +14,7 @@
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 #### Version: `7.22.24` `CLEAN`
-* **172 Currently Listed**
+* **133 Currently Listed**
 * `Adjust Default Timeout Time`
 
 ## Bloxstrap How to Use:
@@ -48,18 +48,18 @@
 https://gist.github.com/burgerboxer/c8bf0bb56dc848da9552aedb3467b117.
 
  # List Navigation
-* **[Rendering](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#rendering)**
-* **[Lightning Technologies](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
-* **[Graphical](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* **[Audio](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
-* **[Physics](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
-* **[lol](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#lol)**
-* **[Debug](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#debug)**
-* **[Links](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#links)**
+* **[Rendering](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#rendering)**
+* **[Lightning Technologies](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file##lightning-technologies)**
+* **[Graphical](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#graphical-settings)**
+* **[Quality of Life](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#quality-of-life)**
+* **[UI](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#user-interfacevisuals)**
+* **[UI X](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#user-interfacevisuals-experimental)**
+* **[Audio](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#audio-related)**
+* **[Physics](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#physics-abusive)**
+* **[Abusive Visuals](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#abusive-visuals)**
+* **[lol](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#lol)**
+* **[Debug](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#debug)**
+* **[Links](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#links)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
@@ -214,7 +214,7 @@ High
 }
 ```
 ### Low Render Distance
-###### [FRM](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#frm-levels)
+###### [FRM](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#frm-levels)
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
@@ -241,7 +241,7 @@ High
 }
 ```
 ### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#frm-levels) ]***
+###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#frm-levels) ]***
 ```json
 {
     "DFIntRenderClampRoughnessMax": "-640000000",
@@ -888,285 +888,6 @@ High
 ```json
 {
     "FFlagDebugRomarkMockingAudioDevices": "True"
-}
-```
-
-<h1 align="center">Physics (Abusive)</h1>
-
-### Tool Desync
-```json
-{
-    "DFIntSimBlockLargeLocalToolWeldManipulationsThreshold": "-1"
-}
-```
-### Remap R6 to R15 Rigs/Weird Movement
-```json
-{
-    "FFlagRemapAnimationR6ToR15Rig": "True"
-}
-```
-### Weird Leg Movement
-```json
-{
-    "DFFlagAnimatorPostProcessIK": "True"
-}
-```
-### Adjust Hip Height Clamps
-###### https://www.roblox.com/bundles/63/Mage-Animation-Package
-```json
-{
-    "DFIntHipHeightClamp": "-48"
-}
-```
-### Random High Jumps
-###### https://youtu.be/2JkA4hWCAWw
-```json
-{
-    "FFlagSimAdaptiveTimesteppingDefault2": "True",
-    "DFFlagSimHumanoidTimestepModelUpdate": "True"
-}
-```
-### Drunk
-```json
-{
-    "FFlagSimAdaptiveTimesteppingDefault2": "True",
-    "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999",
-    "DFFlagSimHumanoidTimestepModelUpdate": "True"
-}
-```
-### No Animations
-###### **Stops the game from trying to replicate your animations in the server. You dont have animations in the server but you do for your client**
-```json
-{
-    "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1"
-}
-```
-### Stick unanchored parts to you
-##### - = up, + = down
-```json
-{
-    "DFIntSolidFloorPercentForceApplication": "-1000",
-    "DFIntNonSolidFloorPercentForceApplication": "-5000"
-}
-```
-### Max Raycast Distance
-###### Raycasting is the use of intersection tests to solve problems in ROBLOX. The most common use of raycasting is to determine the first object intersected by a ray. This is done by casting a virtual ray from a certain point in a direction and determining the first surface it intersected with.
-###### Break legs collision from 2 to -inf, kinda break camera on values over 3 noclip cam on 3
-```json
-{
-    "DFIntRaycastMaxDistance": "3"
-}
-```
-### Possible Super Jump
-```json
-{
-    "DFIntNewRunningBaseGravityReductionFactorHundredth": "1500"
-}
-```
-### Change DataSender Rate
-###### a.k.a does not let you load games
-```json
-{
-    "DFIntDataSenderRate": "-1"
-}
-```
-### Disable Touch Events
-```json
-{
-    "DFIntTouchSenderMaxBandwidthBps": "-1"
-}
-```
-### Fake Lag
-```json
-{
-    "DFIntS2PhysicsSenderRate": "1"
-}
-```
-### Invisible 1
-###### **Stops the physics on your character froms sending to the server so your character doesn't move for the server. You can move on your client.**
-```json
-{
-    "DFIntS2PhysicsSenderRate": "-30"
-}
-```
-### Invisible 2
-###### Locks your character's position on the server to (0, 0, 0), having the side effect of turning you invisible. This only affects the server and other clients, not you. server-sided things that rely on your position, like clicking to get tools, will not function. In some games these can be abusable. Here is a list of them: [Link](https://docs.google.com/document/d/1_kQr-tkc97lcg7ZvFfJdt8UzaziIfwuJPrzR6sTOLHo/)
-```json
-{
-    "DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "10"
-}
-```
-### Invisible 3
-###### Restricts the client from sending any physics-related information. This means other people can topple you over.
-```json
-{
-    "DFIntPhysicsSenderMaxBandwidthBps": "1",
-    "DFIntPhysicsSenderMaxBandwidthBpsScaling": "0"
-}
-```
-### Clientsided Invisible
-```json
-{
-    "FIntParallelDynamicPartsFastClusterBatchSize": "-1"
-}
-```
-### Warp & Slowmotion
-```json
-{
-    "DFIntMaxMissedWorldStepsRemembered": "1"
-}
-```
-```json
-{
-    "DFIntMaxMissedWorldStepsRemembered": "1000"
-}
-```
-### Noclip 1
-###### Adjust the value so you don't fall through the ground
-```json
-{
-    "DFIntAssemblyExtentsExpansionStudHundredth": "-50"
-}
-```
-### Noclip 2
-###### Adjust the value so you don't fall through the ground
-```json
-{
-    "DFIntSimBroadPhasePairCountMax": "50"
-}
-```
-### Noclip 3
-###### @burgerboxer & @juicyleg
-```json
-{
-    "FFlagDebugSimDefaultPrimalSolver": "True",
-    "DFIntMaximumFreefallMoveTimeInTenths": "1000",
-    "DFIntDebugSimPrimalStiffness": "0"
-}
-```
-### Freeze
-```json
-{
-    "FFlagDebugSimDefaultPrimalSolver": "True",
-    "DFIntDebugSimPrimalLineSearch": "0"
-}
-```
-### Hip Height
-###### Very controllable bounce, only works with negative values, 0 allows you to hover
-```json
-{
-    "DFIntMaxAltitudePDStickHipHeightPercent": "-200"
-}
-```
-### Wallglide
-```json
-{
-    "DFIntUnstickForceAttackInTenths": "-4"
-}
-```
-### Network Ownership
-###### better [network ownership](https://create.roblox.com/docs/physics/network-ownership) of parts
-###### this might get you banned in some games with anticheats (Limbobbia)
-```json
-{
-    "DFIntMinClientSimulationRadius": "2147000000",
-    "DFIntMinimalSimRadiusBuffer": "2147000000",
-    "DFIntMaxClientSimulationRadius": "2147000000"
-}
-```
-### Low Gravity 1
-###### 'FFlagDebugSimDefaultPrimalSolver' : True, # Enable the new simulation engine or whatever it is
-###### 'DFIntDebugSimPrimalLineSearch' : 1, # A poor man's gravity/flight [Default 100] (above 0 is low gravity | below 1 to -1 is will make gameplay weird when it comes to physics | below -1 is a poor mans fly (not really useable) 
-###### credit [@Amity](https://www.youtube.com/watch?v=5M411LL17B0)
-```json
-{
-    "FFlagDebugSimDefaultPrimalSolver": "True",
-    "DFIntDebugSimPrimalLineSearch": "3"
-}
-```
-### Low Gravity 2
-###### this is more buggy
-```json
-{
-  "DFIntDebugSimPrimalPreconditioner": "100",
-  "DFIntDebugSimPrimalPreconditionerMinExp": "100",
-  "DFIntDebugSimPrimalNewtonIts": "1",
-  "FFlagDebugSimDefaultPrimalSolver": "True",
-  "DFIntDebugSimPrimalWarmstartVelocity": "-150",
-  "DFIntDebugSimPrimalWarmstartForce": "-775",
-  "DFIntDebugSimPrimalToleranceInv": "1"
-}
-```
-### Backwards SpeedHax
-#### Bugginess and Speed depends on the value of `DFIntDebugSimPrimalWarmstartForce` values i recommend are `775` and the value i put.
-##### Also for `DFIntDebugSimPrimalWarmstartVelocity` probably use value `150` but its kinda hard to do it and control
-###### I may have not found this first but i found this by myself btw
-```json
-{
-  "DFIntDebugSimPrimalNewtonIts": "1",
-  "DFIntDebugSimPrimalPreconditioner": "69",
-  "DFIntDebugSimPrimalPreconditionerMinExp": "69",
-  "DFIntDebugSimPrimalToleranceInv": "1",
-  "DFIntDebugSimPrimalWarmstartForce": "-885",
-  "DFIntDebugSimPrimalWarmstartVelocity": "-350",
-  "FFlagDebugSimDefaultPrimalSolver": "True"
-}
-```
-
-<h1 align="center">Abusive Visuals</h1>
-
-### Semi Fullbright
-```json
-{
-    "FFlagFastGPULightCulling3": "True",
-    "FIntRenderShadowIntensity": "0",
-    "DFIntCullFactorPixelThresholdShadowMapHighQuality": "2147483647",
-    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
-    "FFlagNewLightAttenuation": "True",
-    "FIntRenderShadowmapBias": "-1",
-    "DFFlagDebugPauseVoxelizer": "True"
-}
-```
-### Draws a circle under avatars
-```json
-{
-    "FFlagDebugAvatarChatVisualization": "True",
-    "FFlagEnableInGameMenuChromeABTest2": "False"
-}
-```
-### Humanoid Outline
-##### Draws an outline around every part and every humanoid
-```json
-{
-    "DFFlagDebugDrawBroadPhaseAABBs": "True"
-}
-```
-### fflag above but more complex
-##### Draws an outline around every body part
-```json
-{
-    "DFFlagDebugDrawBvhNodes": "True"
-}
-```
-### Buggy ZPlane Camera
-```json
-{
-    "FIntCameraFarZPlane": "1"
-}
-```
-### Adds an UI in game, which highlights any part player touches (like ground, Meshes etc.). It's a non-functioning UI too. Also adds a blue circle to your humanoid.
-```json
-{
-    "FFlagDebugHumanoidRendering": "True"
-}
-```
-### Xray
-```json
-{
-    "DFIntCullFactorPixelThresholdMainViewHighQuality": "10000",
-    "DFIntCullFactorPixelThresholdMainViewLowQuality": "10000",
-    "DFIntCullFactorPixelThresholdShadowMapHighQuality": "10000",
-    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "10000"
 }
 ```
 
