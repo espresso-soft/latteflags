@@ -18,6 +18,10 @@
 #### Version: `7.24.24`
 * **173 Currently Listed**
 * `Stop the Chinese from spying on you`
+* **New Formatting**
+
+###### Thoughts on our new formatting? (Trust me it works)
+###### Open an issue if you encounter any issues with our new format
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
