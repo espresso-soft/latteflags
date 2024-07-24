@@ -495,7 +495,7 @@ High
 ```
 ### Custom MicroProfile Scale
 ```json
-"DFIntMicroProfilerDpiScaleOverride":  "100"
+"DFIntMicroProfilerDpiScaleOverride": "100"
 ```
 ### Set Custom Font Size
 ```json
@@ -532,7 +532,7 @@ High
 ```
 ### Hides gui
 ```json
-"FFlagDebugAdornsDisabled":  "True"
+"FFlagDebugAdornsDisabled": "True"
 ```
 ### Dont Render UI
 ```json
@@ -812,26 +812,26 @@ High
 ### Low Gravity 2
 ###### this is more buggy
 ```json
-  "DFIntDebugSimPrimalPreconditioner": "100",
-  "DFIntDebugSimPrimalPreconditionerMinExp": "100",
-  "DFIntDebugSimPrimalNewtonIts": "1",
-  "FFlagDebugSimDefaultPrimalSolver": "True",
-  "DFIntDebugSimPrimalWarmstartVelocity": "-150",
-  "DFIntDebugSimPrimalWarmstartForce": "-775",
-  "DFIntDebugSimPrimalToleranceInv": "1"
+"DFIntDebugSimPrimalPreconditioner": "100",
+"DFIntDebugSimPrimalPreconditionerMinExp": "100",
+"DFIntDebugSimPrimalNewtonIts": "1",
+"FFlagDebugSimDefaultPrimalSolver": "True",
+"DFIntDebugSimPrimalWarmstartVelocity": "-150",
+"DFIntDebugSimPrimalWarmstartForce": "-775",
+"DFIntDebugSimPrimalToleranceInv": "1"
 ```
 ### Backwards SpeedHax
 #### Bugginess and Speed depends on the value of `DFIntDebugSimPrimalWarmstartForce` values i recommend are `775` and the value i put.
 ##### Also for `DFIntDebugSimPrimalWarmstartVelocity` probably use value `150` but its kinda hard to do it and control
 ###### I may have not found this first but i found this by myself btw
 ```json
-  "DFIntDebugSimPrimalNewtonIts": "1",
-  "DFIntDebugSimPrimalPreconditioner": "69",
-  "DFIntDebugSimPrimalPreconditionerMinExp": "69",
-  "DFIntDebugSimPrimalToleranceInv": "1",
-  "DFIntDebugSimPrimalWarmstartForce": "-885",
-  "DFIntDebugSimPrimalWarmstartVelocity": "-350",
-  "FFlagDebugSimDefaultPrimalSolver": "True"
+"DFIntDebugSimPrimalNewtonIts": "1",
+"DFIntDebugSimPrimalPreconditioner": "69",
+"DFIntDebugSimPrimalPreconditionerMinExp": "69",
+"DFIntDebugSimPrimalToleranceInv": "1",
+"DFIntDebugSimPrimalWarmstartForce": "-885",
+"DFIntDebugSimPrimalWarmstartVelocity": "-350",
+"FFlagDebugSimDefaultPrimalSolver": "True"
 ```
 
 <h1 align="center">Abusive Visuals</h1>
