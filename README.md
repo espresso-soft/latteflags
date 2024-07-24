@@ -316,11 +316,11 @@ High
 ```
 ### Hide guis
 ###### ***Instructions: Replace "ID" with any group ID that you are in.***
-| Key combination   | Action|
+| Key combination   | Action                                                                    |
 | ----------------- | ------------------------------------------------------------------------- |
-| Ctrl + Shift + B  | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc)|
-| Ctrl + Shift + C  | Toggles game-defined ScreenGuis   |
-| Ctrl + Shift + G  | Toggles Roblox CoreGuis   |
+| Ctrl + Shift + B  | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc)                |
+| Ctrl + Shift + C  | Toggles game-defined ScreenGuis                                           |
+| Ctrl + Shift + G  | Toggles Roblox CoreGuis                                                   |
 | Ctrl + Shift + N  | Toggles player names, and other BillboardGuis that show up above a player |
 ```json
 "DFIntCanHideGuiGroupId": "ID"
