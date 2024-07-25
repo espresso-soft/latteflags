@@ -1361,7 +1361,56 @@ High
   </a>
 </h1>
 
-<h4 align="center"><a href="https://discord.gg/YvbuWggPC6">Roblox Glitching Community</a> <a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></h4>
+<div align="center">
+<table>
+  <tr>
+    <th>Label</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Flag</td>
+    <td>bool</td>
+    <td>A boolean variable that can be either true or false.</td>
+  </tr>
+  <tr>
+    <td>Int</td>
+    <td>int</td>
+    <td>An integer variable used to store whole numbers.</td>
+  </tr>
+  <tr>
+    <td>String</td>
+    <td>string</td>
+    <td>A variable used to store a sequence of characters.</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th>Prefix</th>
+    <th>Label</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>Fast</td>
+    <td>A regular fastvariable that is initialized once<br/>and does not change until a new session begins.</td>
+  </tr>
+  <tr>
+    <td>DF</td>
+    <td>Dynamic Fast</td>
+    <td>A fastvariable that can change at run-time, and<br/>automatically updates every 5 minutes.</td>
+  </tr>
+</table>
+</div>
+
+<h3 align="center">Tools</h3>
+<p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
+<p align="center"><a href="https://github.com/MaximumADHD/Roblox-FFlag-Tracker">Roblox FFlag Tracker</a></p>
+<h3 align="center">Sources</h3>
+<p align="center"><a href="https://discord.gg/YvbuWggPC6">Roblox Glitching Community</a></p>
+<p align="center"><a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></p>
+<p align="center">The people who found these fastflags</p>
 
 <h3 align="center">
   <a href="https://discord.gg/HNe7fzR9xgF">
@@ -1369,8 +1418,4 @@ High
   </a>
 </h3>
 
-<h4 align="center">luafv 2024®<sup>eal</sup></h4>
-
-<p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
-
-<p align="center"><a href="https://github.com/MaximumADHD/Roblox-FFlag-Tracker">Roblox FFlag Tracker</a></p>
+<h4 align="center">© 2024 luafv All Rights Reserved.></h4>
