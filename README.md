@@ -16,7 +16,8 @@
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 #### Version: `7.25.24`
-* **174 Currently Listed**
+* **169 Currently Listed**
+* **Flag Cleanup [Removed flags that don't work anymore]**
 * `Stop the Chinese from spying on you` `Low Gravity 2 Control on Parts Improvement` `Tool Fly`
 * Temporary Fix for `Enables Network Debug Tracker menu`
 * **Revert New Formatting because it can only be imported inside Bloxstrap**
@@ -224,13 +225,6 @@ High
     "DFIntDebugRestrictGCDistance": "1"
 }
 ```
-### Disable Wind
-```json
-{
-    "FFlagGlobalWindRendering": "False",
-    "FFlagGlobalWindActivated": "False"
-}
-```
 ### Limits light updates
 ```json
 {
@@ -347,7 +341,6 @@ High
     "FIntFRMMinGrassDistance": "0",
     "FIntFRMMaxGrassDistance": "0",
     "FIntRenderGrassDetailStrands": "0",
-    "FIntRenderGrassHeightScaler": "0"
 }
 ```
 ### Force MSAA 
@@ -615,26 +608,6 @@ High
     "FIntRobloxGuiBlurIntensity": "0"
 }
 ```
-<!-- No longer working in 631
-### Revert New "Builder" Font
-```json
-{
-    "FFlagUIBloxDevUseNewFontNameMapping": "False",
-    "FFlagEnableNewFontNameMappingABTest2": "False",
-    "FFlagAddArialToLegacyContent": "False",
-    "FFlagAddGothamToLegacyContent": "False"
-}
-```
--->
-### Revert Old Report Menu
-```json
-{
-    "FStringReportAbuseMenuRoactForcedUserIds": "null",
-    "FFlagEnableReportAbuseMenuRoactABTest2": "False",
-    "FFlagEnableReportAbuseMenuRoact2": "False",
-    "FFlagEnableReportAbuseMenuLayerOnV3": "False"
-}
-```
 ### Disable New Chat Translation Settings
 ```json
 {
@@ -745,12 +718,6 @@ High
     "FFlagEnableBubbleChatFromChatService": "False"
 }
 ```
-### Disable Selfview
-```json
-{
-    "FFlagCoreGuiTypeSelfViewPresent": "False"
-}
-```
 ### Disable Camera & Selfview
 ```json
 {
@@ -768,7 +735,6 @@ High
 {
     "FFlagVoiceBetaBadge": "False",
     "FFlagTopBarUseNewBadge": "False",
-    "FFlagEnableBetaBadgeLearnMore": "False",
     "FFlagBetaBadgeLearnMoreLinkFormview": "False",
     "FFlagControlBetaBadgeWithGuac": "False",
     "FStringVoiceBetaBadgeLearnMoreLink": "null"
@@ -835,12 +801,6 @@ High
 ```json
 {
     "FFlagEnableChromePinnedChat": "True"
-}
-```
-### Pin Buttons on Chrome UI
-```json
-{
-    "FFlagEnableChromePinIntegrations": "True"
 }
 ```
 ### Ragdoll Death Type
