@@ -1361,6 +1361,13 @@ High
   </a>
 </h1>
 
+<h3 align="center">Tools</h3>
+<p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
+<p align="center"><a href="https://github.com/MaximumADHD/Roblox-FFlag-Tracker">Roblox FFlag Tracker</a></p>
+<h3 align="center">Sources</h3>
+<p align="center"><a href="https://discord.gg/YvbuWggPC6">Roblox Glitching Community</a></p>
+<p align="center"><a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></p>
+<p align="center">The people who found these fastflags</p>
 <div align="center">
 <table>
   <tr>
@@ -1403,19 +1410,9 @@ High
   </tr>
 </table>
 </div>
-
-<h3 align="center">Tools</h3>
-<p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
-<p align="center"><a href="https://github.com/MaximumADHD/Roblox-FFlag-Tracker">Roblox FFlag Tracker</a></p>
-<h3 align="center">Sources</h3>
-<p align="center"><a href="https://discord.gg/YvbuWggPC6">Roblox Glitching Community</a></p>
-<p align="center"><a href="https://discord.gg/nKjV3mGq6R">Bloxstrap</a></p>
-<p align="center">The people who found these fastflags</p>
-
 <h3 align="center">
   <a href="https://discord.gg/HNe7fzR9xgF">
     <img src="https://c.tenor.com/fWO4Tmw3BeYAAAAC/tenor.gif" width="465">
   </a>
 </h3>
-
-<h4 align="center">© 2024 luafv All Rights Reserved.></h4>
+<h4 align="center">© 2024 luafv All Rights Reserved.</h4>
