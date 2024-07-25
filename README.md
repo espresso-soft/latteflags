@@ -15,9 +15,9 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `7.24.24`
-* **173 Currently Listed**
-* `Stop the Chinese from spying on you` `Low Gravity 2 Control on Parts Improvement`
+#### Version: `7.25.24`
+* **174 Currently Listed**
+* `Stop the Chinese from spying on you` `Low Gravity 2 Control on Parts Improvement` `Tool Fly`
 * Temporary Fix for `Enables Network Debug Tracker menu`
 * **Revert New Formatting because it can only be imported inside Bloxstrap**
 
@@ -1112,6 +1112,24 @@ High
     "DFIntDebugSimPrimalToleranceInv": "1",
     "DFIntDebugSimPrimalWarmstartForce": "-150",
     "DFIntDebugSimPrimalWarmstartVelocity": "100"
+}
+```
+### Tool Fly
+```json
+{
+    "DFIntMinimalSimRadiusBuffer": "2147000000",
+    "DFIntMinClientSimulationRadius": "2147000000",
+    "DFFlagSimHumanoidTimestepModelUpdate": "True",
+    "DFIntMaxClientSimulationRadius": "2147000000",
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "FFlagSimAdaptiveTimesteppingDefault2": "True",
+    "DFIntNonSolidFloorPercentForceApplication": "-12000",
+    "DFIntDebugSimPrimalPreconditioner": "100",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "100",
+    "DFIntDebugSimPrimalNewtonIts": "2",
+    "DFIntDebugSimPrimalWarmstartVelocity": "-150",
+    "DFIntDebugSimPrimalWarmstartForce": "-775",
+    "DFIntDebugSimPrimalToleranceInv": "1"
 }
 ```
 ### Backwards SpeedHax
