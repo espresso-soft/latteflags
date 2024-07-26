@@ -1149,13 +1149,7 @@ High
     "FIntCameraFarZPlane": "1"
 }
 ```
-### Enables Network Debug Tracker menu <sup>It can be used for chams (Abusive)</sup>
-##### Instructions: Downgrade to this build [v631](https://rdd.latte.to/?channel=common&binaryType=WindowsPlayer&version=version-3d25780cd0874f79) CTRL+F8
-```json
-{
-    "DFFlagDebugEnableInterpolationVisualizer": "True"
-}
-```
+
 ### Adds an UI in game, which highlights any part player touches (like ground, Meshes etc.). It's a non-functioning UI too. Also adds a blue circle to your humanoid.
 ```json
 {
