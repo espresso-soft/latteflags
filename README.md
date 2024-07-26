@@ -19,7 +19,6 @@
 * **169 Currently Listed**
 * **Flag Cleanup [Removed flags that don't work anymore]**
 * `Stop the Chinese from spying on you` `Low Gravity 2 Control on Parts Improvement` `Tool Fly`
-* Temporary Fix for `Enables Network Debug Tracker menu`
 * **Revert New Formatting because it can only be imported inside Bloxstrap**
 
 ## Bloxstrap How to Use:
