@@ -6,8 +6,6 @@
 
 <h1 align="center">rbxflags</h1>
 
-<h3 align="center"><a href="https://discord.gg/Q5JKyzuNRC">Join Discord Server NOW!</a></h3>
-
 <h3 align="center">
   <a href="https://bloxflip.com/a/bloxstrap">
     <img src="https://bloxflip.com/logotype.svg" width="200">
