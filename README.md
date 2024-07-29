@@ -999,7 +999,7 @@ High
 }
 ```
 ### Noclip 3
-###### @burgerboxer & @juicyleg
+###### @burgerboxer & @dis_spencer
 ```json
 {
     "FFlagDebugSimDefaultPrimalSolver": "True",
