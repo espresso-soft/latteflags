@@ -774,6 +774,21 @@ High
 
 <h1 align="center">User Interface/Visuals Experimental</h1>
 
+### Custom Accessory Positions [Doesn't work on experiences]
+```json
+{
+    "FFlagAccessoryAdjustmentEnabled": "True",
+    "FFlagEnableNonUAPAccessoryAdjustment": "True",
+    "FFlagHumanoidDescriptionFallback": "True",
+    "FFlagHumanoidDescriptionUseInstances4": "True"
+}
+```
+### Enable Better Haptics
+```json
+{
+    "FFlagEnableBetterHapticsResultHandling": "True"
+}
+```
 ### Chrome UI TopBar
 ```json
 {
