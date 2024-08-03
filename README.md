@@ -576,6 +576,14 @@ High
     "FFlagDebugDisplayFPS": "True"
 }
 ```
+### Verified Badge
+###### Clientsided
+###### when did i removed this lol
+```json
+{
+    "FStringWhitelistVerifiedUserId": "UserID"
+}
+```
 ### Verified Badge on everyone
 ###### Clientsided
 ```json
@@ -701,7 +709,7 @@ High
 ### Break Top Bar Menu
 ```json
 {
-    "FStringNewInGameMenuForcedUserIds": "UserID",
+    "FStringNewInGameMenuForceds": "UserID",
     "FFlagEnableInGameMenuChrome": "True"
 }
 ```
