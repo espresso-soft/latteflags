@@ -15,11 +15,9 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `7.25.24`
-* **169 Currently Listed**
-* **Flag Cleanup [Removed flags that don't work anymore]**
-* `Stop the Chinese from spying on you` `Low Gravity 2 Control on Parts Improvement` `Tool Fly`
-* **Revert New Formatting because it can only be imported inside Bloxstrap**
+#### Version: `8.4.24`
+* **173 Currently Listed**
+* `Vehicle Speed 1` `Vehicle Speed 2` `Enable Better Haptics`` ``Custom Accessory Positions`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -879,6 +877,25 @@ High
 
 <h1 align="center">Physics (Abusive)</h1>
 
+### Vehicle Speed 1
+```json
+{
+    "DFIntDebugSimPrimalWarmstartForce": "40",
+    "DFIntDebugSimPrimalWarmstartVelocity": "102",
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalLineSearch": "41"
+}
+```
+### Vehicle Speed 2
+###### prob the same mess w the values maybe youll get something different
+```json
+{
+    "DFIntDebugSimPrimalLineSearch": "50",
+    "DFIntDebugSimPrimalWarmstartVelocity": "103",
+    "DFIntDebugSimPrimalStiffness": "300",
+    "DFIntBulletContactBreakOrthogonalThresholdPercent": "10000"
+}
+```
 ### Tool Desync
 ```json
 {
