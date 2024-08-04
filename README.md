@@ -30,6 +30,13 @@
     "DFIntDebugSimPrimalLineSearch": "3"
 }
 ```
+### Void Unanchored Parts
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalLineSearch": "222"
+}
+```
 ###  Buggy Low Gravity 2
 ```json
 {
@@ -65,7 +72,25 @@
     "FFlagDebugSimDefaultPrimalSolver": "True"
 }
 ```
-
+### Vehicle Speed 1
+```json
+{
+    "DFIntDebugSimPrimalWarmstartForce": "40",
+    "DFIntDebugSimPrimalWarmstartVelocity": "102",
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalLineSearch": "41"
+}
+```
+### Vehicle Speed 2
+###### prob the same mess w the values maybe youll get something different
+```json
+{
+    "DFIntDebugSimPrimalLineSearch": "50",
+    "DFIntDebugSimPrimalWarmstartVelocity": "103",
+    "DFIntDebugSimPrimalStiffness": "300",
+    "DFIntBulletContactBreakOrthogonalThresholdPercent": "10000"
+}
+```
 ### Primal Solver Flags
 ###### Make an PR/Issue if you find anything!
 ```
