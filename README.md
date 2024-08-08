@@ -44,12 +44,9 @@
 3. **Include a Place ID after the semicolon. Examples: `True;4483381587`, `1;4483381587`.**
 4. **Your configuration is complete!**
 
-[Watch a Video Tutorial](https://www.youtube.com/watch?v=5XjhPF5ydJM)
+###### This is no method is no longer available on Bloxstrap because pizzaboxer a stupid Int Bool stupid ass check
 
-## How to Fix 403 in <2.5.4 Bloxstrap
-https://gist.github.com/burgerboxer/c8bf0bb56dc848da9552aedb3467b117.
-
- # List Navigation
+# List Navigation
 * **[Rendering](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#rendering)**
 * **[Lightning Technologies](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
 * **[Graphical](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
