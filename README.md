@@ -1,3 +1,6 @@
+<h4 align="center">LIST CURRENTLY TEMPORARILY DISCONTINUED, I WILL BE ACCEPTING PULL REQUESTS AS LONG AS THERE IS PROOF OF FLAG DOING SOMETHING</h4>
+<h5 align="center">ETA: 1 Week</h5>
+
 <h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
 
 <h3 align="center">
