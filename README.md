@@ -777,13 +777,14 @@ High
 
 <h1 align="center">User Interface/Visuals Experimental</h1>
 
-### Custom Accessory Positions [Doesn't work on experiences]
-```json
+### Custom Accessory Positions
+```
 {
-    "FFlagAccessoryAdjustmentEnabled": "True",
-    "FFlagEnableNonUAPAccessoryAdjustment": "True",
-    "FFlagHumanoidDescriptionFallback": "True",
-    "FFlagHumanoidDescriptionUseInstances4": "True"
+    "FFlagAXAccessoryAdjustment": "True",
+    "FFlagAXAccessoryAdjustmentIXPEnabled": "True",
+    "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "True",
+    "FFlagAXAvatarFetchResultCamelCase": "True",
+    "FFlagAccessoryAdjustmentEnabled3": "True"
 }
 ```
 ### Enable Better Haptics
