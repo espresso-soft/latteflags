@@ -1,6 +1,3 @@
-<h4 align="center">LIST CURRENTLY TEMPORARILY DISCONTINUED, I WILL BE ACCEPTING PULL REQUESTS AS LONG AS THERE IS PROOF OF FLAG DOING SOMETHING</h4>
-<h5 align="center">ETA: 1 Week</h5>
-
 <h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
 
 <h3 align="center">
@@ -18,9 +15,9 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `8.4.24`
+#### Version: `8.4.24` - `8.10.24`
 * **174 Currently Listed**
-* `Vehicle Speed 1` `Vehicle Speed 2` `Void Unanchored Parts` `Enable Better Haptics`` ``Custom Accessory Positions`
+* `Vehicle Speed 1` `Vehicle Speed 2` `Void Unanchored Parts` `Enable Better Haptics` `Remove Haptics Option` `Custom Accessory Positions`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -790,6 +787,12 @@ High
     "FFlagAccessoryAdjustmentEnabled3": "True"
 }
 ```
+### Disable Haptics Option
+```json
+{
+    "FFlagAddHapticsToggle": "False"
+}
+```
 ### Enable Better Haptics
 ```json
 {
@@ -1388,17 +1391,17 @@ High
 <h4 align="center">⁺ You've reached the bottom of the list! ⁺</h4>
 
 <h3 align="center">
-  <a href="https://open.spotify.com/track/76d2uYjE6NkCak2wyCAw5d">
-    <img src="https://i.scdn.co/image/ab67616d0000b273f70dcec206fbdbcc9816664a" width="256" alt="Listen on Spotify">
+  <a href="https://open.spotify.com/track/5v1yAVGillOAN3yqJ6pmPL">
+    <img src="https://i.scdn.co/image/ab67616d0000b273a2b4b9962756bbbbab374cc5" width="256" alt="Listen on Spotify">
   </a>
 </h3>
 
 
-<h3 align="center">Cockiness (Love It) - Rihanna</h3>
+<h3 align="center">Promotion - Y$, Future</h3>
 
 
 <h1 align="center">
-  <a href="https://open.spotify.com/track/76d2uYjE6NkCak2wyCAw5d">
+  <a href="https://open.spotify.com/track/5v1yAVGillOAN3yqJ6pmPL">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
   </a>
 </h1>
