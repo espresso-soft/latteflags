@@ -13,8 +13,8 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `8.4.24` - `8.10.24`
-* **176 Currently Listed**
+#### Version: `8.12.24` `Clean`
+* **130 Currently Listed**
 * **`Enable Better Haptics` `Remove Haptics Option` `Custom Accessory Positions`**
 
 ## Bloxstrap How to Use:
@@ -45,18 +45,18 @@
 ###### This is no method is no longer available on Bloxstrap because pizzaboxer a stupid Int Bool stupid ass check
 
 # List Navigation
-* **[Rendering](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#rendering)**
-* **[Lightning Technologies](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
-* **[Graphical](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* **[Audio](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
-* **[Physics](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
-* **[lol](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#lol)**
-* **[Debug](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#debug)**
-* **[Links](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#links)**
+* **[Rendering](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#rendering)**
+* **[Lightning Technologies](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file##lightning-technologies)**
+* **[Graphical](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#graphical-settings)**
+* **[Quality of Life](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#quality-of-life)**
+* **[UI](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#user-interfacevisuals)**
+* **[UI X](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#user-interfacevisuals-experimental)**
+* **[Audio](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#audio-related)**
+* **[Physics](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#physics-abusive)**
+* **[Abusive Visuals](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#abusive-visuals)**
+* **[lol](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#lol)**
+* **[Debug](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#debug)**
+* **[Links](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#links)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
@@ -211,7 +211,7 @@ High
 }
 ```
 ### Low Render Distance
-###### [FRM](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#frm-levels)
+###### [FRM](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#frm-levels)
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
@@ -231,7 +231,7 @@ High
 }
 ```
 ### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#frm-levels) ]***
+###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/luafv/rbxflags/tree/clean?tab=readme-ov-file#frm-levels) ]***
 ```json
 {
     "DFIntRenderClampRoughnessMax": "-640000000",
