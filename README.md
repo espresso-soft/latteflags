@@ -1,5 +1,3 @@
-lmao any newgen wanna maintain this?
-
 <h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
 
 <h3 align="center">
@@ -19,7 +17,7 @@ lmao any newgen wanna maintain this?
 
 #### Version: `8.4.24` - `8.10.24`
 * **176 Currently Listed**
-* `E e ei/Charlie the steak` `Vehicle Speed 1` `Vehicle Speed 2` `Void Unanchored Parts` `Enable Better Haptics` `Remove Haptics Option` `Custom Accessory Positions`
+* `Vehicle Speed 1` `Vehicle Speed 2` `Void Unanchored Parts` `Enable Better Haptics` `Remove Haptics Option` `Custom Accessory Positions`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -1218,10 +1216,6 @@ High
 ```
 
 <h1 align="center">lol</h1>
-
-### E e ei/Charlie the steak fflag
-###### the fflag is on vacation sorry for inconvenience lol
-
 
 ### Stop the Chinese from spying on you
 ```json
