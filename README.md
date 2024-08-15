@@ -15,10 +15,11 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `8.4.24` `CLEAN`
+
+#### Version: `8.14.24` `CLEAN`
 * **131 Currently Listed**
+* **Updated Links**
 * **Physics & Visual (Abusive) are now exclusive.**
-* `Enable Better Haptics` `Remove Haptics Option` `Custom Accessory Positions`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -1060,21 +1061,22 @@ High
 ### [rbxperf](https://github.com/luafv/rbxperf) *[Github Repo Link]*
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
 ### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
+### [rbxservers.xyz](https://rbxservers.xyz/) *[Website]*
 
 <h4 align="center">⁺ You've reached the bottom of the list! ⁺</h4>
 
 <h3 align="center">
-  <a href="https://open.spotify.com/track/5v1yAVGillOAN3yqJ6pmPL">
-    <img src="https://i.scdn.co/image/ab67616d0000b273a2b4b9962756bbbbab374cc5" width="256" alt="Listen on Spotify">
+  <a href="https://open.spotify.com/track/61fROeJfnI3OtNQYMpN1gT">
+    <img src="https://i.scdn.co/image/ab67616d0000b2731882add8fd275c04e322027d" width="256" alt="Listen on Spotify">
   </a>
 </h3>
 
 
-<h3 align="center">Promotion - Y$, Future</h3>
+<h3 align="center">The Weekend - SZA</h3>
 
 
 <h1 align="center">
-  <a href="https://open.spotify.com/track/5v1yAVGillOAN3yqJ6pmPL">
+  <a href="https://open.spotify.com/track/61fROeJfnI3OtNQYMpN1gT">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
   </a>
 </h1>
