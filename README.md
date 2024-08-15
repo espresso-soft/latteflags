@@ -16,9 +16,9 @@
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 #### Version: `8.4.24` `CLEAN`
-* **131 Currently Listed**
+* **132 Currently Listed**
 * **Physics & Visual (Abusive) are now exclusive.**
-* `Enable Better Haptics` `Remove Haptics Option` `Custom Accessory Positions`
+* `THE DOISE` `Enable Better Haptics` `Remove Haptics Option` `Custom Accessory Positions`
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -361,6 +361,11 @@ High
 ```
 
 <h1 align="center">Quality of Life</h1>
+
+### THE DOISE
+<h6>
+<img src=https://static.wikia.nocookie.net/pizzatower/images/8/8b/Doise_is_defenetly_slepping.gif/revision/latest?cb=20240313090441></img></h6>
+
 
 ### Disable Captures Keybind
 ```json
