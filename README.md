@@ -6,20 +6,15 @@
 
 <h1 align="center">rbxflags</h1>
 
-<h3 align="center">
-  <a href="https://bloxflip.com/a/bloxstrap">
-    <img src="https://bloxflip.com/logotype.svg" width="200">
-  </a>
-</h3> 
-
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 
-#### Version: `8.14.24` `CLEAN`
-* **131 Currently Listed**
+#### Version: `8.17.24`
+* **142 Currently Listed**
 * **Updated Links**
-* **Physics & Visual (Abusive) are now exclusive.**
+* **Game Specific Category**
+* **~~Physics & Visual (Abusive) are now exclusive.~~ Boosts/Purchases based listing for abusives**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -58,6 +53,7 @@
 * **[Audio](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
 * **[Physics](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
 * **[Abusive Visuals](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
+* **[Abusive Game Presets](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#abusive-game-specific-presets)**
 * **[lol](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#lol)**
 * **[Debug](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#debug)**
 * **[Links](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#links)**
@@ -883,11 +879,88 @@ High
 
 <h1 align="center">Physics (Abusive)</h1>
 
-### No longer available as part of this list. Exclusively Available on our Discord Server
+### Boost/Purchases Status: 23/94*
+###### (Boosts Count = Abusive Flags Listed) (94÷2 = 47 is the total of all abusive FastFlags listed)
+#### Everything exclusively Available on our Discord Server
+
+### Remap R6 to R15 Rigs/Weird Movement
+```json
+{
+    "FFlagRemapAnimationR6ToR15Rig": "True"
+}
+```
+### Weird Leg Movement
+```json
+{
+    "DFFlagAnimatorPostProcessIK": "True"
+}
+```
+### Adjust Hip Height Clamps
+###### https://www.roblox.com/bundles/63/Mage-Animation-Package
+```json
+{
+    "DFIntHipHeightClamp": "-48"
+}
+```
+### Drunk
+```json
+{
+    "FFlagSimAdaptiveTimesteppingDefault2": "True",
+    "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999",
+    "DFFlagSimHumanoidTimestepModelUpdate": "True"
+}
+```
+### Clientsided Invisible
+```json
+{
+    "FIntParallelDynamicPartsFastClusterBatchSize": "-1"
+}
+```
+### Change DataSender Rate
+###### a.k.a does not let you load games
+```json
+{
+    "DFIntDataSenderRate": "-1"
+}
+```
+### Tool Desync
+```json
+{
+    "DFIntSimBlockLargeLocalToolWeldManipulationsThreshold": "-1"
+}
+```
+### Disable Touch Events
+```json
+{
+    "DFIntTouchSenderMaxBandwidthBps": "-1"
+}
+```
+### Fake Lag
+```json
+{
+    "DFIntS2PhysicsSenderRate": "1"
+}
+```
+### Invisible 1
+###### **Stops the physics on your character froms sending to the server so your character doesn't move for the server. You can move on your client.**
+```json
+{
+    "DFIntS2PhysicsSenderRate": "-30"
+}
+```
 
 <h1 align="center">Abusive Visuals</h1>
 
-### No longer available as part of this list. Exclusively Available on our Discord Server
+### Boost Status: 23/47*
+###### (Boosts Count = Abusive Flags Listed)
+#### Everything exclusively Available on our Discord Server
+
+#### We can't put anything here yet.
+
+<h1 align="center">Abusive Game Specific Presets</h1>
+
+### We currently can not provide any at this moment. We are still testing 1 before publish.
+#### You can contribute by making a pull request.
 
 <h1 align="center">lol</h1>
 
