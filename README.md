@@ -879,13 +879,83 @@ High
 
 <h1 align="center">Physics (Abusive)</h1>
 
-### Boost Status: 23/56*
+### Boost Status: 23/47*
 ###### (Boosts Count = Abusive Flags Listed)
 #### Everything exclusively Available on our Discord Server
 
+### Remap R6 to R15 Rigs/Weird Movement
+```json
+{
+    "FFlagRemapAnimationR6ToR15Rig": "True"
+}
+```
+### Weird Leg Movement
+```json
+{
+    "DFFlagAnimatorPostProcessIK": "True"
+}
+```
+### Adjust Hip Height Clamps
+###### https://www.roblox.com/bundles/63/Mage-Animation-Package
+```json
+{
+    "DFIntHipHeightClamp": "-48"
+}
+```
+### Drunk
+```json
+{
+    "FFlagSimAdaptiveTimesteppingDefault2": "True",
+    "DFIntSimAdaptiveHumanoidPDControllerSubstepMultiplier": "-999999",
+    "DFFlagSimHumanoidTimestepModelUpdate": "True"
+}
+```
+### Clientsided Invisible
+```json
+{
+    "FIntParallelDynamicPartsFastClusterBatchSize": "-1"
+}
+```
+### Change DataSender Rate
+###### a.k.a does not let you load games
+```json
+{
+    "DFIntDataSenderRate": "-1"
+}
+```
+### Tool Desync
+```json
+{
+    "DFIntSimBlockLargeLocalToolWeldManipulationsThreshold": "-1"
+}
+```
+### Disable Touch Events
+```json
+{
+    "DFIntTouchSenderMaxBandwidthBps": "-1"
+}
+```
+### Fake Lag
+```json
+{
+    "DFIntS2PhysicsSenderRate": "1"
+}
+```
+### Invisible 1
+###### **Stops the physics on your character froms sending to the server so your character doesn't move for the server. You can move on your client.**
+```json
+{
+    "DFIntS2PhysicsSenderRate": "-30"
+}
+```
 
 <h1 align="center">Abusive Visuals</h1>
 
+### Boost Status: 23/47*
+###### (Boosts Count = Abusive Flags Listed)
+#### Everything exclusively Available on our Discord Server
+
+#### We can't put anything here yet.
 
 <h1 align="center">Abusive Game Specific Presets</h1>
 
