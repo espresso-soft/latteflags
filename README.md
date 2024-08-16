@@ -11,10 +11,10 @@
 
 
 #### Version: `8.17.24`
-* **178 Currently Listed**
+* **142 Currently Listed**
 * **Updated Links**
 * **Game Specific Category**
-* **~~Physics & Visual (Abusive) are now exclusive.~~ Reverted**
+* **~~Physics & Visual (Abusive) are now exclusive.~~ Boosts/Purchases based listing for abusives**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -879,8 +879,8 @@ High
 
 <h1 align="center">Physics (Abusive)</h1>
 
-### Boost Status: 23/47*
-###### (Boosts Count = Abusive Flags Listed)
+### Boost/Purchases Status: 23/94*
+###### (Boosts Count = Abusive Flags Listed) (94÷2 = 47 is the total of all abusive FastFlags listed)
 #### Everything exclusively Available on our Discord Server
 
 ### Remap R6 to R15 Rigs/Weird Movement
