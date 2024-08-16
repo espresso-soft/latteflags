@@ -6,20 +6,15 @@
 
 <h1 align="center">rbxflags</h1>
 
-<h3 align="center">
-  <a href="https://bloxflip.com/a/bloxstrap">
-    <img src="https://bloxflip.com/logotype.svg" width="200">
-  </a>
-</h3> 
-
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 
-#### Version: `8.14.24` `CLEAN`
-* **131 Currently Listed**
+#### Version: `8.17.24`
+* **178 Currently Listed**
 * **Updated Links**
-* **Physics & Visual (Abusive) are now exclusive.**
+* **Game Specific Category**
+* **~~Physics & Visual (Abusive) are now exclusive.~~ Reverted**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
