@@ -53,6 +53,7 @@
 * **[Audio](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
 * **[Physics](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
 * **[Abusive Visuals](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
+* **[Abusive Game Presets](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#abusive-game-specific-presets)**
 * **[lol](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#lol)**
 * **[Debug](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#debug)**
 * **[Links](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#links)**
@@ -878,11 +879,18 @@ High
 
 <h1 align="center">Physics (Abusive)</h1>
 
-### No longer available as part of this list. Exclusively Available on our Discord Server
+### Boost Status: 23/56*
+###### (Boosts Count = Abusive Flags Listed)
+#### Everything exclusively Available on our Discord Server
+
 
 <h1 align="center">Abusive Visuals</h1>
 
-### No longer available as part of this list. Exclusively Available on our Discord Server
+
+<h1 align="center">Abusive Game Specific Presets</h1>
+
+### We currently can not provide any at this moment. We are still testing 1 before publish.
+#### You can contribute by making a pull request.
 
 <h1 align="center">lol</h1>
 
