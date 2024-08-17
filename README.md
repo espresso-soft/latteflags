@@ -12,10 +12,11 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `8.18.24`
-* **180 Currently Listed**
+#### Version: `8.18.24` `XTra`
+* **183 Currently Listed**
 * **Updated Links**
 * **Game Specific Category**
+* `Don't Touch The Wall! 2` `Enable First Time User Experience for Chrome UI` `no idea what this is`
 - [ ] Assign new maintainers
 - [ ] Flag Cleanup 2 (We remove all patched FastFlags)
 - [x] Make everything we have public
@@ -790,6 +791,12 @@ High
     "FFlagAccessoryAdjustmentEnabled3": "True"
 }
 ```
+### Enable First Time User Experience for Chrome UI
+```json
+{
+    "FFlagEnableChromeFTUX": "True"
+}
+```
 ### Disable Haptics Option
 ```json
 {
@@ -1264,12 +1271,27 @@ High
     "FStringTencentAuthPath": "null"
 }
 ```
-### Don't Touch The Wall!
+### Don't Touch The Wall! 1
 ```json
 {
     "DFIntDebugSimPrimalNewtonIts": "-2147483647",
     "DFIntDebugSimPrimalToleranceInv": "-2147483647",
     "FFlagDebugSimDefaultPrimalSolver": "True"
+}
+```
+# Dont Touch The Wall! 2
+```json
+{
+    "DFIntDebugSimPrimalPreconditionerMinExp": "20",
+    "DFIntDebugSimPrimalWarmstartVelocity": "-101",
+    "DFIntDebugSimPrimalPreconditioner": "1000",
+    "DFIntDebugSimPrimalWarmstartForce": "1",
+    "DFIntDebugSimPrimalNewtonIts": "4000",
+    "DFFlagSimHumanoidTimestepModelUpdate": "True",
+    "FFlagSimAdaptiveTimesteppingDefault2": "True",
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalToleranceInv": "6",
+    "DFIntDebugSimPrimalLineSearch": "1"
 }
 ```
 ### omg i cant believe roblox is that dumb to do this...
@@ -1395,6 +1417,18 @@ High
 
 <h4 align="center">We are not accepting performance Fast Flags that aren't listed or known.</h4>
 
+### no idea what this is
+###### im in a 4x4 ye i got my wrist up
+```json
+{
+  "FFlagDebugSimDefaultPrimalSolver": "True",
+  "DFIntDebugSimPrimalLineSearch": "0",
+  "DFIntDebugSimPrimalWarmstartVelocity": "100",
+  "FFlagSimAdaptiveTimesteppingDefault2": "True",
+  "DFIntDebugSimPrimalWarmstartForce": "1",
+  "DFFlagSimHumanoidTimestepModelUpdate": "True"
+}
+```
 ### absolutely kill your game quality with fflags known to me
 ##### @dynamitebumblemouth
 ```json
