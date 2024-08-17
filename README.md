@@ -19,6 +19,13 @@
 * **Game Specific Category**
 * **~~Physics & Visual (Abusive) are now exclusive.~~ Boosts/Purchases based listing for abusives**
 
+#### Version Plans: `8.??.24`
+- [ ] Assign new maintainers
+- [ ] Flag Cleanup 2 (We remove all patched FastFlags)
+- [x] Make everything we have public
+- [x] 180 FastFlags Listed
+- [x] Have atleast 1 FastFlag for Game Categories Section
+
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
 2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Add New` >>  `Import Json`.**
