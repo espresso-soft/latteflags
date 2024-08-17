@@ -13,13 +13,14 @@
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 
-#### Version: `8.17.24`
-* **142 Currently Listed**
+#### Version: `8.18.24`
+* **180 Currently Listed**
 * **Updated Links**
 * **Game Specific Category**
-* **~~Physics & Visual (Abusive) are now exclusive.~~ Boosts/Purchases based listing for abusives**
-
-#### Version Plans: `8.??.24`
+- [ ] Assign new maintainers
+- [ ] Flag Cleanup 2 (We remove all patched FastFlags)
+- [x] Make everything we have public
+- [x] Have atleast 1 Working Fast Flag for Game Categories Section before we actually publish.#### Version Plans: `8.??.24`
 - [ ] Assign new maintainers
 - [ ] Flag Cleanup 2 (We remove all patched FastFlags)
 - [x] Make everything we have public
