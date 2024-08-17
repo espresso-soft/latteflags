@@ -1433,17 +1433,17 @@ High
 <h4 align="center">⁺ You've reached the bottom of the list! ⁺</h4>
 
 <h3 align="center">
-  <a href="https://open.spotify.com/track/61fROeJfnI3OtNQYMpN1gT">
-    <img src="https://i.scdn.co/image/ab67616d0000b2731882add8fd275c04e322027d" width="256" alt="Listen on Spotify">
+  <a href="https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738be07181aa935225a6f25d56" width="256" alt="Listen on Spotify">
   </a>
 </h3>
 
 
-<h3 align="center">The Weekend - SZA</h3>
+<h3 align="center">You Was Right - Lil Uzi Vert</h3>
 
 
 <h1 align="center">
-  <a href="https://open.spotify.com/track/61fROeJfnI3OtNQYMpN1gT">
+  <a href="https://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
   </a>
 </h1>
