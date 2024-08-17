@@ -12,13 +12,15 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `8.18.24` `XTra`
+#### Version: `8.18.24` `Xtra`
 * **183 Currently Listed**
 * **Updated Links**
 * **Game Specific Category**
 * `Don't Touch The Wall! 2` `Enable First Time User Experience for Chrome UI` `no idea what this is`
 - [ ] Assign new maintainers
 - [ ] Flag Cleanup 2 (We remove all patched FastFlags)
+- [x] Add extra FastFlags that we thought wouldn't be needed to be here
+- [ ] Add Bloxstrap Presets (Probably not gonna)
 - [x] Make everything we have public
 - [x] Have atleast 1 Working Fast Flag for Game Categories Section before we actually publish.
 
