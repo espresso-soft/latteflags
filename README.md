@@ -895,7 +895,7 @@ High
 
 <h1 align="center">Physics (Abusive)</h1>
 
-#### Support me for finding some of these FastFlags by buying https://www.roblox.com/game-pass/895489152/ or boosting our server!
+#### Support me for finding some of these FastFlags (With credits on @burgerboxer) by buying https://www.roblox.com/game-pass/895489152/ or boosting our server!
 
 ### Tool Desync
 ```json
