@@ -9,18 +9,18 @@
 
 <h1 align="center">rbxflags</h1>
 
+<h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
+
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `8.18.24` `Xtra`
-* **183 Currently Listed**
+#### Version: `8.21.24` `Xtra`
+* **188 Currently Listed**
 * **Updated Links**
 * **Game Specific Category**
-* `Don't Touch The Wall! 2` `Enable First Time User Experience for Chrome UI` `no idea what this is`
-- [ ] Assign new maintainers
-- [ ] Flag Cleanup 2 (We remove all patched FastFlags)
+- [x] Assign new maintainers
+- [x] Flag Cleanup 2 (We remove all patched FastFlags)
 - [x] Add extra FastFlags that we thought wouldn't be needed to be here
-- [ ] Add Bloxstrap Presets (Probably not gonna)
 - [x] Make everything we have public
 - [x] Have atleast 1 Working Fast Flag for Game Categories Section before we actually publish.
 
@@ -893,9 +893,7 @@ High
 
 <h1 align="center">Physics (Abusive)</h1>
 
-#### Everything exclusively Available on our Discord Server
-
-<!-- This is not rendered yet, Don't forget to remove this.
+#### Support me for finding some of these FastFlags by buying https://www.roblox.com/game-pass/895489152/ or boosting our server!
 
 ### Tool Desync
 ```json
@@ -1178,10 +1176,6 @@ High
 
 <h1 align="center">Abusive Visuals</h1>
 
-#### Everything exclusively Available on our Discord Server
-
-<!-- This is not rendered yet, Don't forget to remove this.
-
 ### Semi Fullbright
 ```json
 {
@@ -1237,15 +1231,9 @@ High
 }
 ```
 
--->
-
 <h1 align="center">Abusive Game Specific Presets</h1>
 
-### We currently can not provide any at this moment. We are still testing 1 before publish.
 #### You can contribute by making a pull request.
-
-
-<!-- This is not rendered yet, Don't forget to remove this.
 
 ## Fling Things and People
 ### Send people to hell 😈😈
@@ -1263,7 +1251,6 @@ High
     "DFIntDebugSimPrimalToleranceInv": "2"
 }
 ```
--->
 
 <h1 align="center">lol</h1>
 
