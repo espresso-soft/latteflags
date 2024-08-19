@@ -14,10 +14,11 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `8.21.24` `Xtra`
+#### Version: `8.21.24` `Full Edition`
 * **188 Currently Listed**
 * **Updated Links**
 * **Game Specific Category**
+* **`???` `Send people to heaven` `Send people to hell V2` `Send people to hell V1` `Spin`**
 - [x] Assign new maintainers
 - [x] Flag Cleanup 2 (We remove all patched FastFlags)
 - [x] Add extra FastFlags that we thought wouldn't be needed to be here
@@ -1230,6 +1231,19 @@ High
     "DFIntCullFactorPixelThresholdShadowMapLowQuality": "10000"
 }
 ```
+### Spin
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "FIntDebugSimPrimalGSLumpAlpha": "-2147483647",
+    "DFIntDebugSimPrimalPreconditioner": "1100",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "1000",
+    "DFIntDebugSimPrimalNewtonIts": "2",
+    "DFIntDebugSimPrimalWarmstartVelocity": "102",
+    "DFIntDebugSimPrimalWarmstartForce": "-800",
+    "DFIntDebugSimPrimalToleranceInv": "1"
+}
+```
 
 <h1 align="center">Abusive Game Specific Presets</h1>
 
@@ -1249,6 +1263,32 @@ High
     "DFIntDebugSimPrimalPreconditionerMinExp": "1000",
     "DFIntDebugSimPrimalNewtonIts": "2",
     "DFIntDebugSimPrimalToleranceInv": "2"
+}
+```
+### Send people to hell V2
+###### Modify warmstart to change speed
+```json
+{
+    "DFIntDebugSimPrimalNewtonIts": "2",
+    "DFIntDebugSimPrimalPreconditioner": "1100",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "1000",
+    "DFIntDebugSimPrimalToleranceInv": "1",
+    "DFIntDebugSimPrimalWarmstartForce": "-800",
+    "DFIntDebugSimPrimalWarmstartVelocity": "102",
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "FIntDebugSimPrimalGSLumpAlpha": "-2147483647"
+}
+```
+### Send people to heaven
+```json
+{
+    "DFIntDebugSimPrimalNewtonIts": "1",
+    "DFIntDebugSimPrimalPreconditioner": "15",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "10",
+    "DFIntDebugSimPrimalToleranceInv": "1",
+    "DFIntDebugSimPrimalWarmstartForce": "-150",
+    "DFIntDebugSimPrimalWarmstartVelocity": "100",
+    "FFlagDebugSimDefaultPrimalSolver": "True",
 }
 ```
 
