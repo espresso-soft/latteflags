@@ -14,11 +14,11 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `8.21.24` `Full Edition`
-* **181 Currently Listed**
+#### Version: `8.21.24` `Full Edition` `XTra`
+* **18` Currently Listed**
 * **Updated Links**
 * **Game Specific Category**
-* **`???` `Send people to heaven` `Send people to hell V2` `Send people to hell V1` `Spin`**
+* **`???` `Send people to heaven` `Send people to hell V2` `Send people to hell V1` `Spin 1` `Spin 2**
 * **`Fix Reduced Motion Stuck` >> `Break Reduced Motion V4` This has been rolled out like a long time ago we forgot to remove it**
 - [x] Assign new maintainers
 - [x] Flag Cleanup 2 (We remove all patched FastFlags)
@@ -1183,6 +1183,35 @@ High
 }
 ```
 
+### Spin 1
+###### @bloodraven
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "FIntDebugSimPrimalGSLumpAlpha": "-2147483647",
+    "DFIntDebugSimPrimalPreconditioner": "1100",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "1000",
+    "DFIntDebugSimPrimalNewtonIts": "2",
+    "DFIntDebugSimPrimalWarmstartVelocity": "102",
+    "DFIntDebugSimPrimalWarmstartForce": "-800",
+    "DFIntDebugSimPrimalToleranceInv": "1"
+}
+```
+### Spin 2
+###### spin + fly
+###### [video 1](https://streamable.com/c5rhfw) [video 2](https://streamable.com/c70sc8)
+###### kezcn?
+```json
+{
+
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalLineSearch": "50",
+    "DFIntDebugSimPrimalWarmstartVelocity": "103",
+    "DFIntDebugSimPrimalStiffness": "300",
+    "DFIntBulletContactBreakOrthogonalThresholdPercent": "10000"
+}
+```
+
 <h1 align="center">Abusive Visuals</h1>
 
 ### Semi Fullbright
@@ -1237,19 +1266,6 @@ High
     "DFIntCullFactorPixelThresholdMainViewLowQuality": "10000",
     "DFIntCullFactorPixelThresholdShadowMapHighQuality": "10000",
     "DFIntCullFactorPixelThresholdShadowMapLowQuality": "10000"
-}
-```
-### Spin
-```json
-{
-    "FFlagDebugSimDefaultPrimalSolver": "True",
-    "FIntDebugSimPrimalGSLumpAlpha": "-2147483647",
-    "DFIntDebugSimPrimalPreconditioner": "1100",
-    "DFIntDebugSimPrimalPreconditionerMinExp": "1000",
-    "DFIntDebugSimPrimalNewtonIts": "2",
-    "DFIntDebugSimPrimalWarmstartVelocity": "102",
-    "DFIntDebugSimPrimalWarmstartForce": "-800",
-    "DFIntDebugSimPrimalToleranceInv": "1"
 }
 ```
 
