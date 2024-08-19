@@ -19,6 +19,7 @@
 * **Updated Links**
 * **Game Specific Category**
 * **`???` `Send people to heaven` `Send people to hell V2` `Send people to hell V1` `Spin`**
+* **`Fix Reduced Motion Stuck` >> `Break Reduced Motion V4` This has been rolled out like a long time ago we forgot to remove it**
 - [x] Assign new maintainers
 - [x] Flag Cleanup 2 (We remove all patched FastFlags)
 - [x] Add extra FastFlags that we thought wouldn't be needed to be here
@@ -533,12 +534,12 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
-### Fix Reduced Motion Stuck
+### Break Reduced Motion V4
 ###### @kezcn
 ![image](https://github.com/user-attachments/assets/cfdc9732-084e-4c09-bc43-8039a3bf0d89)
 ```json
 {
-    "FFlagFixReducedMotionStuckIGM2": "True"
+    "FFlagFixReducedMotionStuckIGM2": "False"
 }
 ```
 ### Revert "Charts" back to Discovery
