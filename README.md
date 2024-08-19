@@ -15,7 +15,7 @@
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 #### Version: `8.21.24` `Full Edition`
-* **188 Currently Listed**
+* **180 Currently Listed**
 * **Updated Links**
 * **Game Specific Category**
 * **`???` `Send people to heaven` `Send people to hell V2` `Send people to hell V1` `Spin`**
