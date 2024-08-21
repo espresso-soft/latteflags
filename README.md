@@ -15,10 +15,10 @@
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
 #### Version: `8.21.24` `Full Edition` `XTra`
-* **18` Currently Listed**
+* **183 Currently Listed**
 * **Updated Links**
 * **Game Specific Category**
-* **`???` `Send people to heaven` `Send people to hell V2` `Send people to hell V1` `Spin 1` `Spin 2**
+* **`???` `Send people to heaven` `Send people to hell V2` `Send people to hell V1` `Spin 1` `Spin 2` `Buggy Speed`**
 * **`Fix Reduced Motion Stuck` >> `Break Reduced Motion V4` This has been rolled out like a long time ago we forgot to remove it**
 - [x] Assign new maintainers
 - [x] Flag Cleanup 2 (We remove all patched FastFlags)
@@ -1173,7 +1173,7 @@ High
     "DFIntBulletContactBreakOrthogonalThresholdPercent": "10000"
 }
 ```
-### ???
+### GRAH GRAH
 ```json
 {
     "DFIntDebugSimPrimalLineSearch": "1",
@@ -1209,6 +1209,22 @@ High
     "DFIntDebugSimPrimalWarmstartVelocity": "103",
     "DFIntDebugSimPrimalStiffness": "300",
     "DFIntBulletContactBreakOrthogonalThresholdPercent": "10000"
+}
+```
+### Speed (Not backwards but more buggy)
+```
+{
+    "DFIntDebugSimPrimalWarmstartForce": "-285",
+    "DFIntDebugSimPrimalWarmstartVelocity": "750",
+    "FIntDebugSimPrimalGSLumpAlpha": "-2147483647",
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalPreconditioner": "100",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "1000",
+    "DFIntDebugSimPrimalNewtonIts": "1",
+    "DFIntDebugSimPrimalToleranceInv": "10",
+    "DFFlagSimHumanoidTimestepModelUpdate": "True",
+    "FFlagSimAdaptiveTimesteppingDefault2": "True",
+    "DFIntDebugSimPrimalLineSearch": "100"
 }
 ```
 
