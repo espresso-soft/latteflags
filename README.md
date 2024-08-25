@@ -14,17 +14,13 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `8.21.24` `Full Edition` `XTra`
-* **183 Currently Listed**
-* **Updated Links**
-* **Game Specific Category**
-* **`???` `Send people to heaven` `Send people to hell V2` `Send people to hell V1` `Spin 1` `Spin 2` `Buggy Speed`**
-* **`Fix Reduced Motion Stuck` >> `Break Reduced Motion V4` This has been rolled out like a long time ago we forgot to remove it**
+#### Version: `8.26.24` `what`
+* **186 Currently Listed**
+* **`Increased Asset Preloading Count` `Reduced Avatar Item Particle in FP` `V2 Menu`
+- [ ] Rework Style
 - [x] Assign new maintainers
-- [x] Flag Cleanup 2 (We remove all patched FastFlags)
-- [x] Add extra FastFlags that we thought wouldn't be needed to be here
+- [x] Flag Cleanup 2
 - [x] Make everything we have public
-- [x] Have atleast 1 Working Fast Flag for Game Categories Section before we actually publish.
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -375,6 +371,12 @@ High
     "FFlagEnableCapturesHotkeyExperiment_v4": "False"
 }
 ```
+### Reduced Avatar Item Particle in FP
+```json
+{
+    "FFlagUserHideCharacterParticlesInFirstPerson": true
+}
+```
 ### FPS Unlocker in Roblox Menu Settings
 ```json
 {
@@ -484,6 +486,15 @@ High
     "FFlagEnableQuickGameLaunch": "True"
 }
 ```
+### Increased Asset Preloading Count
+###### Increases the maximum limit of preloaded assets from 100 to infinite, allowing games you’ve already played to load much faster by instantly accessing previously loaded assets. For this to be effective, the game must have been fully loaded at least once, preferably with the entire map cached. If a game has a "Skip Loading" button, it's recommended to use it, as these games typically include a countdown timer that, after reaching zero, merely confirms that all assets are loaded.
+###### @spectroscopic
+```
+{
+    "DFIntNumAssetsMaxToPreload": 9999999,
+    "DFIntAssetPreloading": 9999999
+}
+```
 ### Disable In-Game Purchases
 ```json
 {
@@ -564,6 +575,12 @@ High
     "FFlagEnableMenuModernizationABTest": "False",
     "FFlagEnableMenuModernizationABTest2": "False",
     "FFlagEnableV3MenuABTest3": "False"
+}
+```
+### V2 Menu
+```json
+{
+    "FIntNewInGameMenuPercentRollout3": "1000"
 }
 ```
 ### Custom Disconnect Message
