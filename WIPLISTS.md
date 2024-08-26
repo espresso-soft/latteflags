@@ -1,1 +1,12 @@
-
+### Alerts Style Revamp
+- [x] Rendering
+- [x] Lightning Technologies
+- [x] Graphical Settings
+- [ ] QoL
+- [ ] UI
+- [ ] UI X
+- [ ] Physics
+- [ ] Abusive Visuals
+- [ ] lol
+- [ ] Debug
+- [x] Links
