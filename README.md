@@ -14,7 +14,7 @@
 > [!CAUTION]
 > Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
 
-#### Version: `8.26.24` `what`
+#### Version: `8.26.24` `1 Year Anniversary`
 * **186 Currently Listed**
 * **`Increased Asset Preloading Count` `Reduced Avatar Item Particle in FP` `V2 Menu`
 - [ ] Rework Style
@@ -71,13 +71,16 @@
 <h1 align="center">Rendering API</h1>
 
 ### Metal
-###### MacOS Only
+> [!IMPORTANT]
+> **MacOS Only**
 ```json
 {
     "FFlagDebugGraphicsPreferMetal": "True"
 }
 ```
 ### Vulkan
+> [!CAUTION]
+> **Visual Bugs & Crashes**
 ```json
 {
     "FFlagDebugGraphicsDisableDirect3D11": "True",
@@ -184,7 +187,8 @@
 }
 ```
 ### Low Graphics Quality w/ Max Render Distance/FRM Quality Levels
-###### Explanation: 1-6 Are low graphics, Above 6 are high graphics. Like the 1-21 graphics slider
+> [!TIP]
+> **1-6 Are low graphics, Above 6 are high graphics. Like the 1-21 graphics slider**
 ```json
 {
     "DFIntDebugFRMQualityLevelOverride": "1"
@@ -217,7 +221,8 @@ High
 }
 ```
 ### Low Render Distance
-###### [FRM](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#frm-levels)
+> [!TIP]
+> **[View FRM Levels](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#frm-levels)**
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
@@ -237,7 +242,11 @@ High
 }
 ```
 ### Makes avatars shiny 
-###### [everything goes black on <3] ***[DFIntDebugFRMQualityLevelOverride is there to set your graphics to 10, You can change it to anything above 3: [Click here to view](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#frm-levels) ]***
+> [!TIP]
+> **Everything goes black on below <3**
+> [!NOTE] **DFIntDebugFRMQualityLevelOverride is there to set your graphics to 3 bars**
+> [!TIP]
+> **You can change it to anything above 3**
 ```json
 {
     "DFIntRenderClampRoughnessMax": "-640000000",
@@ -257,7 +266,8 @@ High
 }
 ```
 ### Gray Sky
-###### Only applies to games with the default skybox
+> [!IMPORTANT]
+> **Only applies to games with the default skybox**
 ```json
 {
     "FFlagDebugSkyGray": "True"
@@ -279,7 +289,8 @@ High
 }
 ```
 ### Enable GPULightCulling
-###### Combine with [Lighting Attenuation](https://FastFlags/FastFlags-Collective/?tab=readme-ov-file#lighting-attenuation) for better vision
+> [!TIP]
+> **Combine with [Lighting Attenuation](https://FastFlags/FastFlags-Collective/?tab=readme-ov-file#lighting-attenuation) for better vision**
 ```json
 {
     "FFlagFastGPULightCulling3": "True"
@@ -292,29 +303,31 @@ High
 }
 ```
 ### Frame Buffer
-###### Explnation: 0 makes white screen 1-3 makes other players have laggy movement, 4 is stable has better performance than 10 and less input lag
+> [!TIP]
+> **0 makes white screen 1-3 makes other players have laggy movement, 4 is stable has better performance than 10 and less input lag**
 ```json
 {
     "DFIntMaxFrameBufferSize": "4"
 }
 ```
 ### Low Quallity Terrain Textures
-###### 4 for less quality 16, 32, 64 for higher quality
+> [!TIP]
+> **4 for less quality 16, 32, 64 for higher quality**
 ```json
 {
     "FIntTerrainArraySliceSize": "4"
 }
 ```
-### High Quality Textures 
-###### *[1-3]*
+### Force Texture Quality 
+> [!TIP]
+> **Set any value from 0-3**
 ```json
 {
     "DFFlagTextureQualityOverrideEnabled": "True",
     "DFIntTextureQualityOverride": "3"
 }
 ```
-### Lower Quality Textures 
-###### *[1-3]*
+### Lower Quality Textures
 ```json
 {
     "DFIntPerformanceControlTextureQualityBestUtility": "-1"
@@ -327,7 +340,8 @@ High
 }
 ```
 ### Texture Manager
-###### -1 Removes almost everything, 1-4 Blurry, 5-7 low quality also removes studs, 8 Removes almost everything (this is better)
+> [!TIP]
+> -1 Removes almost everything, 1-4 Blurry, 5-7 low quality also removes studs, 8 Removes almost everything (this is better)
 ```json
 {
     "FIntDebugTextureManagerSkipMips": "-1"
@@ -342,21 +356,26 @@ High
 }
 ```
 ### Force MSAA 
-###### *[0, 1, 2, 4, 8]*
+> [!IMPORTANT]
+> **Values: 0, 1, 2, 4, 8**
+> [!CAUTION]
+> **Values over 4> will cause viewport bugs**
 ```json
 {
     "FIntDebugForceMSAASamples": "4"
 }
 ```
 ### ShadowMap Bias 
-###### ***[Future & ShadowMap]***
+> [!IMPORTANT]
+> **Future & ShadowMap only**
 ```json
 {
     "FIntRenderShadowmapBias": "75"
 }
 ```
 ### Limits number of animations being played
-###### 0 removes most player animations, 1-5 removes the walk animation after jumping
+> [!TIP]
+> **0 removes most player animations, 1-5 removes the walk animation after jumping**
 ```json
 {
     "DFIntMaxActiveAnimationTracks": "0"
@@ -385,7 +404,6 @@ High
 }
 ```
 ### Unlimited FPS Unlocker
-###### From: https://discord.gg/nKjV3mGq6R
 ```json
 {
     "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
