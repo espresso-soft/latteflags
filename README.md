@@ -16,11 +16,8 @@
 
 #### Version: `8.26.24` `1 Year Anniversary`
 * **186 Currently Listed**
-* **`Increased Asset Preloading Count` `Reduced Avatar Item Particle in FP` `V2 Menu`
-- [ ] Rework Style
-- [x] Assign new maintainers
-- [x] Flag Cleanup 2
-- [x] Make everything we have public
+* **`Increased Asset Preloading Count` `Reduced Avatar Item Particle in FP` `V2 Menu`**
+* **[Upcoming Updates Progress](a/WIPLISTS.md)**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
