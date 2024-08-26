@@ -415,7 +415,8 @@ High
 }
 ```
 ### Hide guis
-###### ***Instructions: Replace "ID" with any group ID that you are in.***
+> [!IMPORTANT]
+> **Replace "ID" with any group ID that you are in.**
 | Key combination   | Action                                                                    |
 | ----------------- | ------------------------------------------------------------------------- |
 | Ctrl + Shift + B  | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc)                |
@@ -428,7 +429,6 @@ High
 }
 ```
 ### Remove layared clothing related for searching in lua app catalog
-###### From: https://discord.gg/nKjV3mGq6R
 ```json
 {
     "FStringAXCategories": "ClassicShirts.ClassicTShirts.ClassicPants"
@@ -465,7 +465,25 @@ High
 }
 ```
 ### Surf the web inside of Roblox
-###### Click the Beta badge or the 13+ badge to open the webview browser.
+> [!IMPORTANT]
+> **Click the Beta badge or the 13+ badge to open the webview browser.**
+
+> [!TIP]
+> **Identify the Current MTU**
+> - **Windows**: Open Command Prompt and type `netsh interface ipv4 show subinterfaces`.
+> - **Linux**: Use `ifconfig` or `ip link show` to find the current MTU of your network interface.
+> [!TIP]
+> **Determine the Optimal MTU**
+> - **Ping Test**: Use the `ping` command with the `-f` flag (to avoid fragmentation) and the `-l` (or `-s` on Linux) flag to set the packet size.
+> - **Example for Windows**:
+>   ```bash
+>   ping roblox.com -f -l 1472
+>   ```
+> - **Example for Linux**:
+>   ```bash
+>   ping -s 1472 -M do roblox.com
+>   ```
+> - Start with a packet size of 1472 bytes, then reduce by 10-12 bytes if needed until you find the largest size that doesn't fragment. Add 28 bytes to this number to get the optimal MTU.
 ```json
 {
     "FFlagTopBarUseNewBadge": "True",
@@ -480,14 +498,16 @@ High
 }
 ```
 ### No Internet Disconnect 
-###### *[You will still be kicked but the message wont show.]*
+> [!IMPORTANT]
+> **You will still be kicked but the message wont show.**
 ```json
 {
     "DFFlagDebugDisableTimeoutDisconnect": "True"
 }
 ```
 ### Adjust Default Timeout Time
-###### 1 second = 1000
+> [!TIP]
+> 1 second = 1000
 ###### @dis_spencer
 ```json
 {
@@ -495,14 +515,22 @@ High
 }
 ```
 ### Quick Game Launch 
-###### *[BUGGY]*
+> [!CAUTION]
+> **This can cause some bugs**
 ```json
 {
     "FFlagEnableQuickGameLaunch": "True"
 }
 ```
 ### Increased Asset Preloading Count
-###### Increases the maximum limit of preloaded assets from 100 to infinite, allowing games you’ve already played to load much faster by instantly accessing previously loaded assets. For this to be effective, the game must have been fully loaded at least once, preferably with the entire map cached. If a game has a "Skip Loading" button, it's recommended to use it, as these games typically include a countdown timer that, after reaching zero, merely confirms that all assets are loaded.
+> [!NOTE]
+> **Increasing the maximum limit of preloaded assets from 100 to infinite allows games you've already played to load much faster by instantly accessing previously loaded assets.**
+
+> [!IMPORTANT]
+> **For this to be effective, the game must have been fully loaded at least once, preferably with the entire map cached.**
+
+> [!TIP]
+> **If a game has a "Skip Loading" button, it's recommended to use it. These games typically include a countdown timer that, after reaching zero, merely confirms that all assets are loaded.**
 ###### @spectroscopic
 ```
 {
@@ -523,7 +551,6 @@ High
 }
 ```
 ### Disable Dynamic Heads Animations
-###### https://roblox.fandom.com/wiki/Dynamic_Head
 ```json
 {
     "DFIntAnimationLodFacsDistanceMin": "0",
@@ -538,14 +565,16 @@ High
 }
 ```
 ### opt-out Experience Language
-###### Removes the Experience Language option in settings
+> [!NOTE]
+> **Removes the Experience Language option in settings**
 ```json
 {
     "FIntV1MenuLanguageSelectionFeaturePerMillageRollout": "0"
 }
 ```
 ### Lets you change the zoom out limit
-###### Only applies to games that has not changed the default zoom limit
+> [!IMPORTANT]
+> **Only applies to games that has not changed the default zoom limit**
 ```json
 {
     "FIntCameraMaxZoomDistance": "9999"
