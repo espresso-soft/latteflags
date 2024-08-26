@@ -420,6 +420,7 @@ High
 ### Hide guis
 > [!IMPORTANT]
 > **Replace "ID" with any group ID that you are in.**
+
 | Key combination   | Action                                                                    |
 | ----------------- | ------------------------------------------------------------------------- |
 | Ctrl + Shift + B  | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc)                |
@@ -478,7 +479,6 @@ High
 }
 ```
 ### MTU
-
 > [!TIP]
 > **Identify the Current MTU**
 > - **Windows**: Open Command Prompt and type `netsh interface ipv4 show subinterfaces`.
@@ -536,7 +536,7 @@ High
 > [!TIP]
 > **If a game has a "Skip Loading" button, it's recommended to use it. These games typically include a countdown timer that, after reaching zero, merely confirms that all assets are loaded.**
 ###### @spectroscopic
-```
+```json
 {
     "DFIntNumAssetsMaxToPreload": 9999999,
     "DFIntAssetPreloading": 9999999
