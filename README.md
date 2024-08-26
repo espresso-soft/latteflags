@@ -1563,7 +1563,7 @@ High
 ```
 ### Self Explanatory 4
 > [!NOTE]
-> Disable Drag Detectors
+> **Disable Drag Detectors**
 ```json
 {
     "FFlagDragDetectors1": "False"
@@ -1571,7 +1571,7 @@ High
 ```
 ### Self Explanatory 5
 > [!NOTE]
- Disable CTM Climbing
+> **Disable CTM Climbing**
 ```json
 {
     "FFlagUserClickToMoveSupportAgentCanClimb2": "False"
@@ -1579,7 +1579,7 @@ High
 ```
 ### Self Explanatory 6
 > [!NOTE]
-> Disable Feedback Button in ESC
+> **Disable Feedback Button in ESC**
 ```json
 {
     "FFlagDisableFeedbackSoothsayerCheck": "False"
