@@ -7,12 +7,12 @@
 - [x] Lightning Technologies
 - [x] Graphical Settings
 - [x] QoL
-- [ ] UI
-- [ ] UI X
-- [ ] Physics
-- [ ] Abusive Visuals
-- [ ] lol
-- [ ] Debug
+- [x] UI
+- [x] UI X
+- [x] Physics
+- [x] Abusive Visuals
+- [x] lol
+- [x] Debug
 - [x] Links
 ## Other Stuff
-- [ ] Assign new maintainers
+- [x] Assign new maintainers
