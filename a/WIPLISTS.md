@@ -6,7 +6,7 @@
 - [x] Rendering
 - [x] Lightning Technologies
 - [x] Graphical Settings
-- [ ] QoL
+- [x] QoL
 - [ ] UI
 - [ ] UI X
 - [ ] Physics
