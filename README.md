@@ -17,6 +17,7 @@
 #### Version: `8.26.24` `1 Year Anniversary`
 * **188 Currently Listed**
 * **`Self Explanatory 7`** **`Removes translated supported message on join`** **`Allows you to customize which languages are available for the chat translation feature`**
+* **Updated `Custom Accessory Positions` to work as of `8.26.24`
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -880,7 +881,8 @@ High
     "FFlagAXAccessoryAdjustmentIXPEnabled": "True",
     "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "True",
     "FFlagAXAvatarFetchResultCamelCase": "True",
-    "FFlagAccessoryAdjustmentEnabled3": "True"
+    "FFlagAccessoryAdjustmentEnabled3": "True",
+    "FFlagAccessoryAdjustmentEnabled4": "True"
 }
 ```
 ### Enable First Time User Experience for Chrome UI
