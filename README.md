@@ -241,7 +241,9 @@ High
 ### Makes avatars shiny 
 > [!TIP]
 > **Everything goes black on below <3**
+
 > [!NOTE] **DFIntDebugFRMQualityLevelOverride is there to set your graphics to 3 bars**
+
 > [!TIP]
 > **You can change it to anything above 3**
 ```json
@@ -355,6 +357,7 @@ High
 ### Force MSAA 
 > [!IMPORTANT]
 > **Values: 0, 1, 2, 4, 8**
+
 > [!CAUTION]
 > **Values over 4> will cause viewport bugs**
 ```json
@@ -467,10 +470,20 @@ High
 ### Surf the web inside of Roblox
 > [!IMPORTANT]
 > **Click the Beta badge or the 13+ badge to open the webview browser.**
+```json
+{
+    "FFlagTopBarUseNewBadge": "True",
+    "FStringTopBarBadgeLearnMoreLink": "https://google.com/",
+    "FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/"
+}
+```
+### MTU
+
 > [!TIP]
 > **Identify the Current MTU**
 > - **Windows**: Open Command Prompt and type `netsh interface ipv4 show subinterfaces`.
 > - **Linux**: Use `ifconfig` or `ip link show` to find the current MTU of your network interface.
+
 > [!TIP]
 > **Determine the Optimal MTU**
 > - **Ping Test**: Use the `ping` command with the `-f` flag (to avoid fragmentation) and the `-l` (or `-s` on Linux) flag to set the packet size.
@@ -483,14 +496,6 @@ High
 >   ping -s 1472 -M do roblox.com
 >   ```
 > - Start with a packet size of 1472 bytes, then reduce by 10-12 bytes if needed until you find the largest size that doesn't fragment. Add 28 bytes to this number to get the optimal MTU.
-```json
-{
-    "FFlagTopBarUseNewBadge": "True",
-    "FStringTopBarBadgeLearnMoreLink": "https://google.com/",
-    "FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/"
-}
-```
-### MTU 
 ```json
 {
     "DFIntConnectionMTUSize": "MTU_HERE"
@@ -524,8 +529,10 @@ High
 ### Increased Asset Preloading Count
 > [!NOTE]
 > **Increasing the maximum limit of preloaded assets from 100 to infinite allows games you've already played to load much faster by instantly accessing previously loaded assets.**
+
 > [!IMPORTANT]
 > **For this to be effective, the game must have been fully loaded at least once, preferably with the entire map cached.**
+
 > [!TIP]
 > **If a game has a "Skip Loading" button, it's recommended to use it. These games typically include a countdown timer that, after reaching zero, merely confirms that all assets are loaded.**
 ###### @spectroscopic
@@ -907,6 +914,7 @@ High
 
 > [!IMPORTANT]
 > **Studio Only**
+
 > [!NOTE]
 > **I tried `Ragdoll` to see if anything would happen lol this is how i found this (found this long time ago)**
 ###### @burgerboxer
@@ -1026,7 +1034,9 @@ High
 ### Max Raycast Distance
 > [!NOTE]
 > **Raycasting is the use of intersection tests to solve problems in Roblox. The most common use of raycasting is to determine the first object intersected by a ray. This is done by casting a virtual ray from a certain point in a direction and determining the first surface it intersected with.**
-###### Break legs collision from 2 to -inf, kinda break camera on values over 3 noclip cam on 3
+
+> [!TIP]
+> **Break legs collision from 2 to -inf, kinda break camera on values over 3 noclip cam on 3**
 ```json
 {
     "DFIntRaycastMaxDistance": "3"
@@ -1040,7 +1050,7 @@ High
 ```
 ### Change DataSender Rate
 > [!NOTE]
-> a.k.a does not let you load games
+> **A.k.a does not let you load games**
 ```json
 {
     "DFIntDataSenderRate": "-1"
@@ -1135,6 +1145,7 @@ High
 ### Hip Height
 > [!NOTE]
 > **Very controllable bounce, only works with negative values**
+
 > [!TIP]
 > **0 allows you to hover**
 ```json
@@ -1151,6 +1162,7 @@ High
 ### Network Ownership
 > [!NOTE]
 > better [network ownership](https://create.roblox.com/docs/physics/network-ownership) of parts
+
 > [!CAUTION] This might get you banned in some games with anticheats (Limbobbia)
 ```json
 {
@@ -1163,6 +1175,7 @@ High
 > [!NOTE]
 > `'FFlagDebugSimDefaultPrimalSolver' : True`  
 > This flag enables the new simulation engine or whatever it is.
+
 > [!CAUTION]
 > `'DFIntDebugSimPrimalLineSearch' : 1`  
 > This setting is a poor man's gravity/flight. The default value is 100:
@@ -1231,11 +1244,12 @@ High
 ### Backwards SpeedHax
 > [!WARNING]
 > **Bugginess and speed depend on the value of `DFIntDebugSimPrimalWarmstartForce`. Recommended values are `775` and the value I put.**
+
 > [!TIP]
 > **For `DFIntDebugSimPrimalWarmstartVelocity`, it’s recommended to use a value of `150`. However, it might be difficult to control.**
+
 > [!NOTE]
 > **I may not have found this first, but I discovered this by myself.**
-
 ```json
 {
   "DFIntDebugSimPrimalNewtonIts": "1",
