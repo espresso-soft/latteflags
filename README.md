@@ -15,8 +15,8 @@
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 #### Version: `8.26.24` `1 Year Anniversary`
-* **186 Currently Listed**
-* **`Increased Asset Preloading Count` `Reduced Avatar Item Particle in FP` `V2 Menu`**
+* **188 Currently Listed**
+* **`Self Explanatory 7`** **`Removes translated supported message on join`** **`Allows you to customize which languages are available for the chat translation feature`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -384,6 +384,25 @@ High
 
 <h1 align="center">Quality of Life</h1>
 
+### Removes translated supported message on join
+> [!NOTE]
+> `"Roblox automatically translates supported languages in chat."`
+```json
+{
+    "FFlagChatTranslationEnableSystemMessage": false
+}
+```
+
+### Allows you to customize which languages are available for the chat translation feature
+
+> [!IMPORTANT]
+> English cannot be removed.
+###### @thefrenchguy4
+```json
+{
+    "FStringChatTranslationEnabledLocales": "es_es,fr_fr,pt_br,de_de,it_it,ja_jp,ko_kr,id_id,tr_tr,zh_cn,zh_tw,th_th,pl_pl,vi_vn,ru_ru,"
+}
+```
 ### Disable Captures Keybind
 ```json
 {
@@ -393,7 +412,7 @@ High
 ### Reduced Avatar Item Particle in FP
 ```json
 {
-    "FFlagUserHideCharacterParticlesInFirstPerson": true
+    "FFlagUserHideCharacterParticlesInFirstPerson": "True"
 }
 ```
 ### FPS Unlocker in Roblox Menu Settings
@@ -538,8 +557,8 @@ High
 ###### @spectroscopic
 ```json
 {
-    "DFIntNumAssetsMaxToPreload": 9999999,
-    "DFIntAssetPreloading": 9999999
+    "DFIntNumAssetsMaxToPreload": "9999999",
+    "DFIntAssetPreloading": "9999999"
 }
 ```
 ### Disable In-Game Purchases
@@ -1533,6 +1552,7 @@ High
 }
 ```
 ### Prevents Remote Events from running
+###### @spectroscopic
 ```json
 {
     "DFIntRemoteEventSingleInvocationSizeLimit": "1"
@@ -1597,6 +1617,13 @@ High
 ```json
 {
     "FFlagDisableFeedbackSoothsayerCheck": "False"
+}
+```
+### Self Explanatory 7
+###### @thefrenchguy4
+```
+{
+    "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "False"
 }
 ```
 
