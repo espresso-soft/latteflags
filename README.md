@@ -12,12 +12,12 @@
 <h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
 
 > [!CAUTION]
-> Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.
+> **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 #### Version: `8.26.24` `1 Year Anniversary`
 * **186 Currently Listed**
 * **`Increased Asset Preloading Count` `Reduced Avatar Item Particle in FP` `V2 Menu`**
-* **[Upcoming Updates Progress](a/WIPLISTS.md)**
+* **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -1068,7 +1068,7 @@ High
 ```
 ### Invisible 2
 > [!NOTE]
-> **Locks your character's position on the server to (0, 0, 0), having the side effect of turning you invisible. This only affects the server and other clients, not you. server-sided things that rely on your position, like clicking to get tools, will not function. In some games these can be abusable. Here is a list of them: [Link](https://docs.google.com/document/d/1_kQr-tkc97lcg7ZvFfJdt8UzaziIfwuJPrzR6sTOLHo/)**
+> **Locks your character's position on the server to (0, 0, 0), having the side effect of turning you invisible. This only affects the server and other clients, not you. server-sided things that rely on your position, like clicking to get tools, will not function. In some games these can be abusable. Here is a list of them: [Link](assets/lists/experiences/specific.md)**
 ```json
 {
     "DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "10"
@@ -1563,7 +1563,7 @@ High
 ```
 ### Self Explanatory 4
 > [!NOTE]
-> Disable Drag Detectors
+> **Disable Drag Detectors**
 ```json
 {
     "FFlagDragDetectors1": "False"
@@ -1571,7 +1571,7 @@ High
 ```
 ### Self Explanatory 5
 > [!NOTE]
- Disable CTM Climbing
+> **Disable CTM Climbing**
 ```json
 {
     "FFlagUserClickToMoveSupportAgentCanClimb2": "False"
@@ -1579,7 +1579,7 @@ High
 ```
 ### Self Explanatory 6
 > [!NOTE]
-> Disable Feedback Button in ESC
+> **Disable Feedback Button in ESC**
 ```json
 {
     "FFlagDisableFeedbackSoothsayerCheck": "False"
