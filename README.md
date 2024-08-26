@@ -1725,7 +1725,6 @@ High
     <td>A variable used to store a sequence of characters.</td>
   </tr>
 </table>
-
 <table>
   <tr>
     <th>Prefix</th>
