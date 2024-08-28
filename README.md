@@ -1748,9 +1748,3 @@ High
   </a>
 </h3>
 <h4 align="center">© 2024 luafv All Rights Reserved.</h4>
-<h5 align="center">
-  Powered by 
-  <a href="https://github.com" target="_blank">
-    <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub Mark" style="height: 1em; vertical-align: middle;">
-  </a>
-</h5>
