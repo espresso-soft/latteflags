@@ -1748,3 +1748,9 @@ High
   </a>
 </h3>
 <h4 align="center">© 2024 luafv All Rights Reserved.</h4>
+<h5 align="center">
+  Powered by 
+  <a href="https://www.valvesoftware.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Valve_logo.svg/1000px-Valve_logo.svg.png" alt="Valve Logo" style="height: 1em; vertical-align: middle;">
+  </a>
+</h5>
