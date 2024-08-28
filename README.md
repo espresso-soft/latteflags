@@ -395,14 +395,13 @@ High
 ### Removes translated supported message on join
 > [!NOTE]
 > `"Roblox automatically translates supported languages in chat."`
+###### @toofastforboo
 ```json
 {
     "FFlagChatTranslationEnableSystemMessage": false
 }
 ```
-
 ### Allows you to customize which languages are available for the chat translation feature
-
 > [!IMPORTANT]
 > English cannot be removed.
 ###### @thefrenchguy4
@@ -619,6 +618,20 @@ High
     "FFlagHandleAltEnterFullscreenManually": "False"
 }
 ```
+### Enable Better Haptics
+###### @uvoltan
+```json
+{
+    "FFlagEnableBetterHapticsResultHandling": "True"
+}
+```
+### New Camera Mode
+###### ###### @spectroscopic
+```json
+{
+    "FFlagNewCameraControls": "True"
+}
+```
 
 <h1 align="center">User Interface/Visuals</h1>
 
@@ -717,12 +730,6 @@ High
 ```json
 {
     "FFlagChatTranslationSettingEnabled3": "False"
-}
-```
-### New Camera Mode
-```json
-{
-    "FFlagNewCameraControls": "True"
 }
 ```
 ### Custom MicroProfile Scale
@@ -878,6 +885,13 @@ High
     "FFlagDebugEnableNewWebView2DevTool": "True"
 }
 ```
+### Disable Haptics Option
+###### @thefrenchguy4
+```json
+{
+    "FFlagAddHapticsToggle": "False"
+}
+```
 
 <h1 align="center">User Interface/Visuals Experimental</h1>
 
@@ -893,21 +907,10 @@ High
 }
 ```
 ### Enable First Time User Experience for Chrome UI
+###### @thefrenchguy4
 ```json
 {
     "FFlagEnableChromeFTUX": "True"
-}
-```
-### Disable Haptics Option
-```json
-{
-    "FFlagAddHapticsToggle": "False"
-}
-```
-### Enable Better Haptics
-```json
-{
-    "FFlagEnableBetterHapticsResultHandling": "True"
 }
 ```
 ### Chrome UI TopBar
@@ -972,6 +975,7 @@ High
 }
 ```
 ### Audio Occlusion
+###### @uvoltan
 ```json
 {
     "FFlagSoundsUsePhysicalVelocity": "True"
@@ -1107,6 +1111,7 @@ High
 ### Invisible 2
 > [!NOTE]
 > **Locks your character's position on the server to (0, 0, 0), having the side effect of turning you invisible. This only affects the server and other clients, not you. server-sided things that rely on your position, like clicking to get tools, will not function. In some games these can be abusable. Here is a list of them: [Link](assets/lists/experiences/specific.md)**
+###### @jesus 2/@fat 65/@0100152000022000/sky
 ```json
 {
     "DFIntGameNetPVHeaderTranslationZeroCutoffExponent": "10"
@@ -1218,6 +1223,7 @@ High
 }
 ```
 ### Void Unanchored Parts
+###### @burgerboxer? & @???
 ```json
 {
     "FFlagDebugSimDefaultPrimalSolver": "True",
@@ -1225,21 +1231,23 @@ High
 }
 ```
 ### Low Gravity 2
+###### @burgerboxer
 > [!CAUTION]
 > This is more buggy
 ```json
 {
-  "FFlagDebugSimDefaultPrimalSolver": "True",
-  "DFIntDebugSimPrimalPreconditioner": "100",
-  "DFIntDebugSimPrimalPreconditionerMinExp": "100",
-  "DFIntDebugSimPrimalNewtonIts": "1",
-  "FFlagDebugSimDefaultPrimalSolver": "True",
-  "DFIntDebugSimPrimalWarmstartVelocity": "-150",
-  "DFIntDebugSimPrimalWarmstartForce": "-775",
-  "DFIntDebugSimPrimalToleranceInv": "1"
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalPreconditioner": "100",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "100",
+    "DFIntDebugSimPrimalNewtonIts": "1",
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalWarmstartVelocity": "-150",
+    "DFIntDebugSimPrimalWarmstartForce": "-775",
+    "DFIntDebugSimPrimalToleranceInv": "1"
 }
 ```
 ### Low Gravity 2 Control on Parts Improvement
+###### @bloodraven
 ```json
 {
     "FFlagDebugSimDefaultPrimalSolver": "True",
@@ -1252,12 +1260,10 @@ High
 }
 ```
 ### Tool Fly
+###### @bloodraven
 ```json
 {
-    "DFIntMinimalSimRadiusBuffer": "2147000000",
-    "DFIntMinClientSimulationRadius": "2147000000",
     "DFFlagSimHumanoidTimestepModelUpdate": "True",
-    "DFIntMaxClientSimulationRadius": "2147000000",
     "FFlagDebugSimDefaultPrimalSolver": "True",
     "FFlagSimAdaptiveTimesteppingDefault2": "True",
     "DFIntNonSolidFloorPercentForceApplication": "-12000",
@@ -1278,15 +1284,16 @@ High
 
 > [!NOTE]
 > **I may not have found this first, but I discovered this by myself.**
+###### @burgerboxer & @bloodraven
 ```json
 {
-  "DFIntDebugSimPrimalNewtonIts": "1",
-  "DFIntDebugSimPrimalPreconditioner": "69",
-  "DFIntDebugSimPrimalPreconditionerMinExp": "69",
-  "DFIntDebugSimPrimalToleranceInv": "1",
-  "DFIntDebugSimPrimalWarmstartForce": "-885",
-  "DFIntDebugSimPrimalWarmstartVelocity": "-350",
-  "FFlagDebugSimDefaultPrimalSolver": "True"
+    "DFIntDebugSimPrimalNewtonIts": "1",
+    "DFIntDebugSimPrimalPreconditioner": "69",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "69",
+    "DFIntDebugSimPrimalToleranceInv": "1",
+    "DFIntDebugSimPrimalWarmstartForce": "-885",
+    "DFIntDebugSimPrimalWarmstartVelocity": "-350",
+    "FFlagDebugSimDefaultPrimalSolver": "True"
 }
 ```
 ### Vehicle Speed 1
@@ -1351,6 +1358,7 @@ High
 ### Speed 2
 > [!NOTE]
 > **Not backwards but more buggy**
+###### @burgerboxer & @bloodraven
 ```
 {
     "DFIntDebugSimPrimalWarmstartForce": "-285",
