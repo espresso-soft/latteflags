@@ -179,6 +179,7 @@
 }
 ```
 ### Disable Shadows
+###### @uvoltan
 ```json
 {
     "DFIntCullFactorPixelThresholdShadowMapHighQuality": "2147483647",
@@ -192,6 +193,7 @@
 }
 ```
 ### Low Graphics Quality w/ Max Render Distance/FRM Quality Levels
+###### @spectroscopic
 > [!TIP]
 > **1-6 Are low graphics, Above 6 are high graphics. Like the 1-21 graphics slider**
 ```json
@@ -228,6 +230,7 @@ High
 ### Low Render Distance
 > [!TIP]
 > **[View FRM Levels](https://github.com/luafv/rbxflags/tree/master?tab=readme-ov-file#frm-levels)**
+###### @cam1494
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
@@ -281,6 +284,7 @@ High
 }
 ```
 ### Force LOD on Meshes
+###### @beanacceleration
 ```json
 {
     "DFIntCSGLevelOfDetailSwitchingDistance": "0",
@@ -290,6 +294,7 @@ High
 }
 ```
 ### Lighting Attenuation
+###### @beanacceleration
 ```json
 {
     "FFlagNewLightAttenuation": "True"
@@ -465,12 +470,14 @@ High
 }
 ```
 ### Disable Fullscreen Title Bar
+###### @pizzaboxer
 ```json
 {
     "FIntFullscreenTitleBarTriggerDelayMillis": "3600000"
 }
 ```
 ### Stuttery Animation Fix
+###### @jesus 2/@fat 65/@0100152000022000/sky
 ```json
 {
     "DFIntTimestepArbiterThresholdCFLThou": "300"
@@ -483,6 +490,7 @@ High
 }
 ```
 ### Disable Telemetry 
+###### @bravonatcho
 ```json
 {
     "FFlagDebugDisableTelemetryEphemeralCounter": "True",
@@ -649,7 +657,8 @@ High
     "FFlagLuaAppChartsPageRenameIXP": "False"
 }
 ```
-### Disable Sidebar
+### Disable Sidebar Labels
+###### @cam1494
 ```json
 {
     "FFlagEnableNavBarLabels3": "False"
@@ -681,6 +690,13 @@ High
 }
 ```
 ### Display FPS
+```json
+{
+    "FFlagDebugDisplayFPS": "True"
+}
+```
+### Display FPS
+###### @cam1494
 ```json
 {
     "FFlagDebugDisplayFPS": "True"
@@ -757,6 +773,7 @@ High
 }
 ```
 ### Darker Dark Theme
+###### @cam1494
 ```json
 {
     "FFlagLuaAppUseUIBloxColorPalettes1": "True",
@@ -764,6 +781,7 @@ High
 }
 ```
 ### No Transparency V4 Menu **(2023)**
+###### @cam1494
 ```json
 {
     "FStringInGameMenuModernizationStickyBarForcedUserIds": "UserID"
@@ -812,6 +830,7 @@ High
 }
 ```
 ### Break Top Bar Menu
+###### @atweak
 ```json
 {
     "FStringNewInGameMenuForceds": "UserID",
@@ -819,6 +838,7 @@ High
 }
 ```
 ### Break Collectible Icon
+###### @atweak
 ```json
 {
     "FFlagDisplayCollectiblesIcon": "False"
@@ -853,6 +873,7 @@ High
 }
 ```
 ### VR Controller transparency
+###### @jesus 2/@fat 65/@0100152000022000/sky
 ```json
 {
     "FIntVRTouchControllerTransparency": "0"
@@ -862,6 +883,13 @@ High
 ```json
 {
     "FFlagViewCollisionFadeToBlackInVR": "False"
+}
+```
+### Remove VR Toggle
+###### @spectroscopic
+```json
+{
+    "FFlagAlwaysShowVRToggleV3": "False"
 }
 ```
 ### Limit Videos Playing
@@ -969,6 +997,7 @@ High
 ### Sounds use physical velocity and become distorted
 > [!NOTE]
 > **<2017 Audio**
+###### @jesus 2/@fat 65/@0100152000022000/sky
 ```json
 {
     "FFlagSoundsUsePhysicalVelocity": "True"
@@ -996,6 +1025,7 @@ High
 }
 ```
 ### No sounds
+###### @cam1494
 ```json
 {
     "FFlagDebugRomarkMockingAudioDevices": "True"
