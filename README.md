@@ -14,10 +14,10 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Version: `8.28.24` `1 Year Anniversary`
-* **190 Currently Listed**
-* **`Self Explanatory 7`** **`Removes translated supported message on join`** **`Allows you to customize which languages are available for the chat translation feature`** **`Increased Particles in Low graphics quality`**
-* **Updated `Custom Accessory Positions` to work as of `8.26.24`**
+#### Version: `8.26.24` `1 Year Anniversary`
+* **188 Currently Listed**
+* **`Self Explanatory 7`** **`Removes translated supported message on join`** **`Allows you to customize which languages are available for the chat translation feature`**
+* **Updated `Custom Accessory Positions` to work as of `8.26.24`
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -128,13 +128,6 @@
 
 <h1 align="center">Graphical Settings</h1>
 
-### Increased Particles on low graphics
-###### @teeenoob
-```json
-{
-    "FFlagDebugDeterministicParticles" : "True"
-}
-```
 ### Makes stuff slightly brighter
 ```json
 {
@@ -1640,6 +1633,17 @@ High
 
 <h4 align="center">We are not accepting performance Fast Flags that aren't listed or known.</h4>
 
+### no idea what this is
+```json
+{
+  "FFlagDebugSimDefaultPrimalSolver": "True",
+  "DFIntDebugSimPrimalLineSearch": "0",
+  "DFIntDebugSimPrimalWarmstartVelocity": "100",
+  "FFlagSimAdaptiveTimesteppingDefault2": "True",
+  "DFIntDebugSimPrimalWarmstartForce": "1",
+  "DFFlagSimHumanoidTimestepModelUpdate": "True"
+}
+```
 ### absolutely kill your game quality with fflags known to me
 ##### @dynamitebumblemouth
 ```json
