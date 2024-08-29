@@ -21,6 +21,7 @@
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 - [ ] credits w confirmation
+- [ ] add fflags we prob missed
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -1201,6 +1202,7 @@ High
 }
 ```
 ### Freeze
+###### @burgerboxer
 ```json
 {
     "FFlagDebugSimDefaultPrimalSolver": "True",
