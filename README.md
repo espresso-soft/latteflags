@@ -28,7 +28,7 @@
 
 <img src="/assets/tutorial260.gif" width="750"/>
 
-## Normal Roblox Bootstrapper  How to Use:
+## Normal Roblox Bootstrapper How to Use:
 ###### You can also do Roblox Studio
 1. **Navigate to your Roblox Installation directory. Typically found at `%localappdata%\Roblox\Versions\` or `C:\Program Files (x86)\Roblox\Versions`.**
 2. **Identify the folder `version-xxxxxxxxxxxxxxxx` ~~containing `RobloxPlayerBeta.exe`~~ You can do this for Roblox Studio too.**
@@ -38,6 +38,19 @@
 ###### Do note that after roblox updates you have to do this process again
 
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
+
+## Android Roblox How to Use: (Not Recommended)
+#### Why is it not recommended? Roblox is adding an anti-tamper to Android
+###### W.I.P
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+###### once your Roblox build expires you have to do this process again
 
 ## How to Use _PlaceFilter
 1. **Add `_PlaceFilter` after the Fast Flag name.**
