@@ -20,6 +20,8 @@
 * **Updated `Custom Accessory Positions` to work as of `8.26.24`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
+- [ ] credits w confirmation
+
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
 2. **Navigate to `Fast Flags` >> `Fast Flags Editor` >> `Add New` >>  `Import Json`.**
