@@ -2,13 +2,13 @@
   <img src="https://c.tenor.com/lMiG1jLB7aIAAAAC/tenor.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<h1 align="center">#FlagsCol FAKE #NVRMAINTAIN</h1>
+<h1 align="center">#FlagsCol#FAKE##NVRMAINTAIN</h1>
 
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Version: `9.1.24` `WAH!`
-* **192 Currently Listed**
+#### Version: `9.1.24` `CLEAN`
+* **142 Currently Listed**
 * **`Self Explanatory 7`** **`Removes translated supported message on join`** **`Allows you to customize which languages are available for the chat translation feature`** **`Increased Particles in Low graphics quality`**
 * **Updated `Custom Accessory Positions` to work as of `8.26.24`**
 * **`Blue Theme`** **`5 Decimal Sensitivity Precision`**
