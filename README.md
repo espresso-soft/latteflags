@@ -270,7 +270,8 @@ High
 > [!TIP]
 > **Everything goes black on below <3**
 
-> [!NOTE] **DFIntDebugFRMQualityLevelOverride is there to set your graphics to 3 bars**
+> [!NOTE]
+> **DFIntDebugFRMQualityLevelOverride is there to set your graphics to 3 bars**
 
 > [!TIP]
 > **You can change it to anything above 3**
@@ -1223,7 +1224,8 @@ High
 > [!NOTE]
 > better [network ownership](https://create.roblox.com/docs/physics/network-ownership) of parts
 
-> [!CAUTION] This might get you banned in some games with anticheats (Limbobbia)
+> [!CAUTION]
+> **This might get you banned in some games with anticheats (Limbobbia)**
 ```json
 {
     "DFIntMinClientSimulationRadius": "2147000000",
@@ -1258,7 +1260,7 @@ High
 ```
 ### Low Gravity 2
 > [!CAUTION]
-> This is more buggy
+> **This is more buggy**
 ```json
 {
   "FFlagDebugSimDefaultPrimalSolver": "True",
@@ -1363,21 +1365,6 @@ High
     "DFIntDebugSimPrimalWarmstartVelocity": "102",
     "DFIntDebugSimPrimalWarmstartForce": "-800",
     "DFIntDebugSimPrimalToleranceInv": "1"
-}
-```
-### Spin 2
-> [!NOTE]
-> Spin + fly
-###### [video 1](https://streamable.com/c5rhfw) [video 2](https://streamable.com/c70sc8)
-###### @kezcn
-```json
-{
-
-    "FFlagDebugSimDefaultPrimalSolver": "True",
-    "DFIntDebugSimPrimalLineSearch": "50",
-    "DFIntDebugSimPrimalWarmstartVelocity": "103",
-    "DFIntDebugSimPrimalStiffness": "300",
-    "DFIntBulletContactBreakOrthogonalThresholdPercent": "10000"
 }
 ```
 ### Speed 2
