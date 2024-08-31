@@ -1,7 +1,5 @@
-<h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
-
 <h3 align="center">
-  <img src="assets/newgens.gif" width="256" alt="NEWGENS...">
+  <img src="https://c.tenor.com/lMiG1jLB7aIAAAAC/tenor.gif" width="256" alt="Playboi Carti">
 </h3>
 
 <h1 align="center">#FlagsCol FAKE #NVRMAINTAIN</h1>
