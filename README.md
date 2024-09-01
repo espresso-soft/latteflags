@@ -1,3 +1,43 @@
+<h3 align="center">
+  <img src="https://c.tenor.com/lMiG1jLB7aIAAAAC/tenor.gif" width="256" alt="Playboi Carti">
+</h3>
+
+<h1 align="center">#RBXFLAGS#UNAVAILABLE#SOON</h1>
+
+<h3 align="center">https://discord.gg/fastflags</h3>
+
+<p align="center">
+Due to recent developments, we regret to inform you that we are no longer able to provide the contents of the list that was previously accessible through our platform. This decision was not made lightly and comes as a result of a combination of legal and security challenges that we have encountered over the past few weeks.
+</p>
+
+<p align="center">
+First and foremost, our platform recently received a cease and desist (C&D) order from Roblox Corporation. This legal action, which is commonly employed by companies to protect their intellectual property, mandates that we immediately halt the distribution of any materials that may infringe upon Roblox’s rights. We have always aimed to operate within the boundaries of the law and respect the rights of other entities, and this C&D order has made it clear that continuing to provide the list would violate those principles.
+</p>
+
+<p align="center">
+Furthermore, our situation has been further complicated by an unexpected incident involving our platform's owner, who is based in China. Unfortunately, our owner was recently subjected to a raid by local authorities. The raid was reportedly carried out under the pretext of enforcing local laws related to internet content and security, which are notoriously strict and often difficult to navigate. This raid has severely impacted our ability to continue operating as we once did. The consequences of this raid are not yet fully known, but it has undoubtedly placed our entire operation in jeopardy.
+</p>
+
+<p align="center">
+As a result of these combined factors, we are left with no choice but to discontinue providing the contents of the list. This is not just a matter of legal compliance, but also a matter of ensuring the safety and security of our team members and the broader community that relies on our platform. We understand that this news may be disappointing to many of our users who have come to rely on the information we provided. However, we must prioritize the well-being of our team and adhere to the legal requirements that have been imposed on us.
+</p>
+
+<p align="center">
+We are currently exploring our options for the future. While we are unable to offer the list in its previous form, we are considering alternative ways to continue providing value to our community. This might involve creating new types of content that do not infringe on any intellectual property rights or collaborating with other entities that share our commitment to transparency and community support. We remain committed to our mission, even if that mission must evolve in response to the challenges we face.
+</p>
+
+<p align="center">
+We deeply appreciate the support and understanding of our users during this difficult time. We will continue to communicate any updates as they become available, and we encourage you to stay tuned for further developments. In the meantime, we urge you to be cautious of any third-party sites or individuals claiming to have access to the list, as they may not be legitimate and could potentially put you at risk.
+</p>
+
+<p align="center">
+Thank you for your continued trust in our platform, and we hope to find a way forward that allows us to continue serving our community in a legal, ethical, and secure manner.
+</p>
+
+<h4 align="center">© 2024 luafv</h4>
+
+  
+<!--
 > [!NOTE]
 > If you find our repository useful don't forget to star!
 
