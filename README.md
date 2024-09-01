@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/lMiG1jLB7aIAAAAC/tenor.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<h1 align="center">#RBXFLAGS#UNAVAILABLE#SOON</h1>
+<h1 align="center">#RBXFLAGS#UNAVAILABLE</h1>
 
 <h3 align="center">https://discord.gg/fastflags</h3>
 
