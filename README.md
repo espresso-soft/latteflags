@@ -1,10 +1,15 @@
+> [!NOTE]
+> If you find our repository useful don't forget to star!
+
 <h3 align="center">
   <img src="https://c.tenor.com/lMiG1jLB7aIAAAAC/tenor.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<h1 align="center">#RBXFLAGS#UNAVAILABLE</h1>
+<h1 align="center">#RBXFLAGS</h1>
 
 <h3 align="center">https://discord.gg/fastflags</h3>
+
+<!--
 
 <p align="center">
 Due to recent developments, we regret to inform you that we are no longer able to provide the contents of the list that was previously accessible through our platform. This decision was not made lightly and comes as a result of a combination of legal and security challenges that we have encountered over the past few weeks.
@@ -36,11 +41,6 @@ Thank you for your continued trust in our platform, and we hope to find a way fo
 
 <h4 align="center">© 2024 luafv</h4>
 
-  
-<!--
-> [!NOTE]
-> If you find our repository useful don't forget to star!
-
 <h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
 
 <h3 align="center">
@@ -48,14 +48,14 @@ Thank you for your continued trust in our platform, and we hope to find a way fo
 </h3>
 
 <h1 align="center">rbxflags</h1>
-
+-->
 <h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
 
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Version: `9.1.24` `WAH!`
-* **192 Currently Listed**
+#### Version: `9.2.24` `not my problem!`
+* **146 Currently Listed**
 * **`Self Explanatory 7`** **`Removes translated supported message on join`** **`Allows you to customize which languages are available for the chat translation feature`** **`Increased Particles in Low graphics quality`**
 * **Updated `Custom Accessory Positions` to work as of `8.26.24`**
 * **`Blue Theme`** **`5 Decimal Sensitivity Precision`**
@@ -79,7 +79,7 @@ Thank you for your continued trust in our platform, and we hope to find a way fo
 ###### Do note that after roblox updates you have to do this process again
 
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
-
+<!--
 ## Android Roblox How to Use: (Not Recommended)
 #### Why is it not recommended? Roblox is adding an anti-tamper to Android
 ###### W.I.P
@@ -98,7 +98,7 @@ Thank you for your continued trust in our platform, and we hope to find a way fo
 1.
 2.
 3.
-
+-->
 ## How to Use _PlaceFilter
 1. **Add `_PlaceFilter` after the Fast Flag name.**
 2. **Add a semicolon after the Value (`;`). Examples: `True;`, `1;`.**
@@ -1071,8 +1071,29 @@ High
 }
 ```
 
-<h1 align="center">Physics (Abusive)</h1>
+<h1 align="center">Abusives</h1>
 
+<h3 align="center"><a href="https://discord.com/invite/HNe7fzR9xg">Access the Full List via a Trusted Third Party</a></h3>
+
+<div align="center">
+
+Due to recent developments, we regret to inform you that we are no longer able to provide certain parts of the list that were previously accessible through our platform. This decision has been made in response to a combination of legal and security challenges that we have encountered over the past few weeks.
+
+One of the primary reasons for this decision is that our platform recently received a cease and desist (C&D) order from Roblox Corporation. This legal action mandates that we immediately stop distributing specific materials that may infringe upon Roblox’s intellectual property rights. While we have always aimed to operate within the boundaries of the law and respect the rights of other entities, the C&D order has made it clear that continuing to offer certain items from the list would violate those principles. We must comply with this order to avoid further legal repercussions and ensure the continued operation of our platform.
+
+Additionally, our situation has been further complicated by an unexpected incident involving our platform's owner, who is based in China. Recently, our owner was subjected to a raid by local authorities. This raid was reportedly carried out under the pretext of enforcing strict local laws related to internet content and security. As a result, our ability to manage and distribute certain parts of the list has been severely impacted. Although the full consequences of this raid are still unfolding, it has created significant operational challenges for us.
+
+As a result of these factors, we are left with no choice but to discontinue providing specific parts of the list. We understand that this news may be disappointing to many of our users who have come to rely on the comprehensive information we provided. However, we must prioritize the safety and security of our team and comply with the legal requirements imposed on us.
+
+Despite these challenges, we are committed to continuing our mission to the extent that we can. While certain parts of the list are no longer available, the rest of the content remains accessible, and we are exploring alternative ways to provide value to our community without violating any legal restrictions. We are also considering creating new types of content that align with our mission and are compliant with intellectual property laws.
+
+We deeply appreciate the support and understanding of our users during this difficult time. We will continue to communicate any updates as they become available, and we encourage you to stay tuned for further developments. In the meantime, please be cautious of any third-party sites or individuals claiming to offer the full list, as they may not be legitimate and could potentially put you at risk.
+
+Thank you for your continued trust in our platform. We are determined to navigate these challenges and continue serving our community in a legal, ethical, and secure manner.
+
+</div>
+
+<!--
 > [!NOTE]
 > Support me for finding some of these FastFlags (With credits on @burgerboxer) by buying https://www.roblox.com/game-pass/895489152/ or boosting our server!
 
@@ -1532,7 +1553,7 @@ High
     "FFlagDebugSimDefaultPrimalSolver": "True",
 }
 ```
-
+-->
 <h1 align="center">lol</h1>
 
 ### Stop the Chinese from spying on you
