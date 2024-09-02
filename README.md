@@ -23,8 +23,8 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Versioqn: `9.2.24` `not my problem!`
-* **146+54 Currently Listed**
+#### Versioqn: `??.??.24` `Secret`
+* **200 Currently Listed**
 * **`Self Explanatory 7`** **`Removes translated supported message on join`** **`Allows you to customize which languages are available for the chat translation feature`** **`Increased Particles in Low graphics quality`**
 * **Updated `Custom Accessory Positions` to work as of `8.26.24`**
 * **`Blue Theme`** **`5 Decimal Sensitivity Precision`**
@@ -1033,9 +1033,6 @@ High
 
 <h1 align="center">Physics (Abusive)</h1>
 
-<h3 align="center"><a href="https://discord.com/invite/HNe7fzR9xg">Access the Full List via a Trusted Third Party</a></h3>
-
-<!--
 > [!NOTE]
 > Support me for finding some of these FastFlags (With credits on @burgerboxer) by buying https://www.roblox.com/game-pass/895489152/ or boosting our server!
 
@@ -1388,12 +1385,9 @@ High
     "DFIntDebugSimPrimalLineSearch": "100"
 }
 ```
--->
+
 <h1 align="center">Abusive Visuals</h1>
 
-<h3 align="center"><a href="https://discord.com/invite/HNe7fzR9xg">Access the Full List via a Trusted Third Party</a></h3>
-
-<!--
 ### Semi Fullbright
 ```json
 {
@@ -1454,9 +1448,6 @@ High
 
 <h1 align="center">Abusive Game Specific Presets</h1>
 
-<h3 align="center"><a href="https://discord.com/invite/HNe7fzR9xg">Access the Full List via a Trusted Third Party</a></h3>
-
-<!--
 #### You can contribute by making a pull request.
 
 ## Fling Things and People
@@ -1502,7 +1493,6 @@ High
     "FFlagDebugSimDefaultPrimalSolver": "True",
 }
 ```
--->
 
 <h1 align="center">lol</h1>
 
