@@ -24,9 +24,10 @@
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 #### Versioqn: `??.??.24` `Secret`
-* **200 Currently Listed**
+* **201 Currently Listed**
 * **`Self Explanatory 7`** **`Removes translated supported message on join`** **`Allows you to customize which languages are available for the chat translation feature`** **`Increased Particles in Low graphics quality`**
 * **Updated `Custom Accessory Positions` to work as of `8.26.24`**
+* **Enable Genres**
 * **`Blue Theme`** **`5 Decimal Sensitivity Precision`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
@@ -914,6 +915,12 @@ High
 
 <h1 align="center">User Interface/Visuals Experimental</h1>
 
+### Enable Genres
+```json
+{
+    "FFlagLuaAppGenreUnderConstruction": "False"
+}
+```
 ### Custom Accessory Positions
 ```
 {
