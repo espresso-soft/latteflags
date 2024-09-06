@@ -142,7 +142,7 @@
 
 <h3 align="center">
   <a href="https://playboicarti.com">
-    <img src="https://github.com/user-attachments/assets/81d80677-8cc2-44c4-a739-19c59bc29b5c "256" alt="This never droppin">
+    <img src="https://github.com/user-attachments/assets/81d80677-8cc2-44c4-a739-19c59bc29b5c" width="256" alt="This never droppin">
   </a>
 </h3>
 
