@@ -650,7 +650,7 @@ High
 ### old luaapp chat button
 ```json
 {
-    "FStringNewChatTabExperimentLayerValue": "ILoveMinors"
+    "FStringNewChatTabExperimentLayerValue": "2024MUSIC"
 }
 ```
 ### Disable Toast Notifications
