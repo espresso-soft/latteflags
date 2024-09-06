@@ -27,7 +27,7 @@
 * **201 Currently Listed**
 * **`Self Explanatory 7`** **`Removes translated supported message on join`** **`Allows you to customize which languages are available for the chat translation feature`** **`Increased Particles in Low graphics quality`**
 * **Updated `Custom Accessory Positions` to work as of `8.26.24`**
-* **Enable Genres**
+* **`Enable Genres`** **`Rename Communications to Voice Enabled`** **`old luapp chat button`** **Disable Toast Notifications**
 * **`Blue Theme`** **`5 Decimal Sensitivity Precision`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
@@ -650,6 +650,24 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
+### old luaapp chat button
+```json
+{
+    "FStringNewChatTabExperimentLayerValue": "2024MUSIC"
+}
+```
+### Disable Toast Notifications
+```json
+{
+    "FFlagToastNotificationsProtocolEnabled2": "False"
+}
+```
+### Rename Communications to Voice Enabled
+```json
+{
+    "FFlagGameDetailsDecoupledCommunication": "False"
+}
+```
 ### Break Reduced Motion V4
 ###### @kezcn
 ![image](https://github.com/user-attachments/assets/cfdc9732-084e-4c09-bc43-8039a3bf0d89)
