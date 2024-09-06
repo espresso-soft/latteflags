@@ -24,8 +24,8 @@
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 #### Versioqn: `9.13.24` `I AM MUSIC`
-* **147+54 Currently Listed**
-* **`Enable Genres`**
+* **150+54 Currently Listed**
+* **`Enable Genres`** **`Rename Communications to Voice Enabled`** **`old luapp chat button`** **Disable Toast Notifications**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -647,6 +647,24 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
+### old luaapp chat button
+```json
+{
+    "FStringNewChatTabExperimentLayerValue": "ILoveMinors"
+}
+```
+### Disable Toast Notifications
+```json
+{
+    "FFlagToastNotificationsProtocolEnabled2": "False"
+}
+```
+### Rename Communications to Voice Enabled
+```json
+{
+    "FFlagGameDetailsDecoupledCommunication": "False"
+}
+```
 ### Break Reduced Motion V4
 ###### @kezcn
 ![image](https://github.com/user-attachments/assets/cfdc9732-084e-4c09-bc43-8039a3bf0d89)
