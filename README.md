@@ -141,18 +141,14 @@
 <h4 align="center">⁺ You've reached the bottom of the list! ⁺</h4>
 
 <h3 align="center">
-  <a href="https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq">
-    <img src="https://github.com/collectivists/rbxflags/assets/166893422/27e45931-0f07-455e-af22-8fce8cf04e85" width="256" alt="Listen on Spotify">
+  <a href="https://playboicarti.com">
+    <img src="https://github.com/user-attachments/assets/81d80677-8cc2-44c4-a739-19c59bc29b5c "256" alt="This never droppin">
   </a>
 </h3>
 
-<h3 align="center">ss - Ken Carson</h3>
+<h3 align="center">All Red - Playboi Carti</h3>
 
-<h1 align="center">
-  <a href="https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
-  </a>
-</h1>
+<h1 align="center">NEVER DROPPING</h1>
 
 <p align="center"><a href="https://raw.githubusercontent.com/MaximumADHD/Roblox-Client-Tracker/roblox/FVariables.txt">FVariables.txt</a></p>
 
