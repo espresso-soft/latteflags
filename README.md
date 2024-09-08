@@ -24,8 +24,9 @@
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 #### Versioqn: `9.13.24` `I AM MUSIC`
-* **150+54 Currently Listed**
+* **154+54 Currently Listed**
 * **`Enable Genres`** **`Rename Communications to Voice Enabled`** **`old luapp chat button`** **Disable Toast Notifications**
+* **`Remove Parental Controls Tab`** **`Legacy Search`** **`Disable Profile Picture Customization Tab`** **`Render Occlusion Culling`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -80,7 +81,6 @@
 <h4><b>Wish it was different than what it was</b></h4>
 
 </div>
-
 
 <h5 align="center">•</h5>
 
@@ -146,6 +146,14 @@
 
 <h1 align="center">Graphical Settings</h1>
 
+### Render Occlusion Culling
+###### [@CloneTrooper1019](https://x.com/MaximumADHD/status/1832331711486865769)
+```json
+{
+    "DFFlagUseVisBugChecks": "True",
+    "FFlagEnableVisBugChecks27": "True"
+}
+```
 ### Increased Particles on low graphics
 ###### @teeenoob
 ```json
@@ -647,6 +655,24 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
+### Remove Parental Controls Tab
+```json
+{
+    "FFlagLuaAppsEnableParentalControlsTab": "False"
+}
+```
+### Legacy Search
+```json
+{
+    "FFlagAXSearchLandingPageIXPEnabled4": "False"
+}
+```
+### Disable Profile Picture Customization
+```json
+{
+"FFlagAXDefaultAvatarToShopEnabled3": "False"
+}
+```
 ### old luaapp chat button
 ```json
 {
