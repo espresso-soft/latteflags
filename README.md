@@ -22,13 +22,13 @@
 
 
 <h4 align="center">Join our Roblox group</h4>
-<h5 align="center">https://www.roblox.com/groups/34911020/FIVE55#!</h5>
+<h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
 
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Versioqn: `9.13.24` `I AM MUSIC`
-* **154+54 Currently Listed**
+#### Versioqn: `9.13.24` `SHUTEMUP`
+* **200 Currently Listed**
 * **`Enable Genres`** **`Rename Communications to Voice Enabled`** **`old luapp chat button`** **Disable Toast Notifications**
 * **`Remove Parental Controls Tab`** **`Legacy Search`** **`Disable Profile Picture Customization Tab`** **`Render Occlusion Culling`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
@@ -79,10 +79,12 @@
 
 <div align="center">
 
-<h4><b>I've been up, baby</b></h4>
-<h4><b>Heavy reminiscin'</b></h4>
-<h4><b>Heavy on the missing you</b></h4>
-<h4><b>Wish it was different than what it was</b></h4>
+<b>
+I've been up, baby<br>
+Heavy reminiscin'<br>
+Heavy on the missing you<br>
+Wish it was different than what it was
+</b>
 
 </div>
 
@@ -1086,9 +1088,6 @@ High
 
 <h1 align="center">Physics (Abusive)</h1>
 
-<h3 align="center"><a href="https://discord.com/invite/HNe7fzR9xg">Access the Full List via a Trusted Third Party</a></h3>
-
-<!--
 > [!NOTE]
 > Support me for finding some of these FastFlags (With credits on @burgerboxer) by buying https://www.roblox.com/game-pass/895489152/ or boosting our server!
 
@@ -1441,12 +1440,9 @@ High
     "DFIntDebugSimPrimalLineSearch": "100"
 }
 ```
--->
+
 <h1 align="center">Abusive Visuals</h1>
 
-<h3 align="center"><a href="https://discord.com/invite/HNe7fzR9xg">Access the Full List via a Trusted Third Party</a></h3>
-
-<!--
 ### Semi Fullbright
 ```json
 {
@@ -1503,13 +1499,9 @@ High
     "DFIntCullFactorPixelThresholdShadowMapLowQuality": "10000"
 }
 ```
--->
 
 <h1 align="center">Abusive Game Specific Presets</h1>
 
-<h3 align="center"><a href="https://discord.com/invite/HNe7fzR9xg">Access the Full List via a Trusted Third Party</a></h3>
-
-<!--
 #### You can contribute by making a pull request.
 
 ## Fling Things and People
@@ -1555,7 +1547,6 @@ High
     "FFlagDebugSimDefaultPrimalSolver": "True",
 }
 ```
--->
 
 <h1 align="center">lol</h1>
 
