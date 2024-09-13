@@ -2,10 +2,10 @@
 > If you find our repository useful don't forget to star!
 
 <h3 align="center">
-  <img src="https://i.scdn.co/image/ab67616d0000b27373e7e87fdd649b0e6dde2ca9" width="256" alt="Playboi Carti">
+  <img src="assets/pbc.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<h1 align="center">#RBXFLAGS</h1>
+<h1 align="center">#RBXFLAG$</h1>
 
 <!--
 <h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
