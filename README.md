@@ -2,7 +2,7 @@
 > If you find our repository useful don't forget to star!
 
 <h3 align="center">
-  <img src="https://c.tenor.com/lMiG1jLB7aIAAAAC/tenor.gif" width="256" alt="Playboi Carti">
+  <img src="https://i.scdn.co/image/ab67616d0000b27373e7e87fdd649b0e6dde2ca9" width="256" alt="Playboi Carti">
 </h3>
 
 <h1 align="center">#RBXFLAGS</h1>
@@ -31,6 +31,7 @@
 * **200 Currently Listed**
 * **`Enable Genres`** **`Rename Communications to Voice Enabled`** **`old luapp chat button`** **Disable Toast Notifications**
 * **`Remove Parental Controls Tab`** **`Legacy Search`** **`Disable Profile Picture Customization Tab`** **`Render Occlusion Culling`**
+* **List Return**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -1752,17 +1753,17 @@ High
 <h4 align="center">⁺ You've reached the bottom of the list! ⁺</h4>
 
 <h3 align="center">
-  <a href="https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r">
-    <img src="https://shop.travisscott.com/cdn/shop/files/DaysRealBlue_1500x.jpg" width="256" alt="Listen on Spotify">
+  <a href="https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA">
+    <img src="https://i.scdn.co/image/ab67616d0000b27373e7e87fdd649b0e6dde2ca9" width="256" alt="Listen on Spotify">
   </a>
 </h3>
 
 
-<h3 align="center">Drugs You Should Try It - Travis Scott</h3>
+<h3 align="center">ALL RED - Playboi Carti</h3>
 
 
 <h1 align="center">
-  <a href="https://open.spotify.com/track/4b7vk8SRcYgnxpk0JOIS7r">
+  <a href="https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
   </a>
 </h1>
