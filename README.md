@@ -1,4 +1,3 @@
-<!--
 > [!NOTE]
 > If you find our repository useful don't forget to star!
 
@@ -14,6 +13,10 @@
 <h4 align="center">Join our Roblox group</h4>
 <h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
 
+<h4 align="center">Repository Discussions</h4>
+<h5 align="center">https://github.com/luafv/rbxflags/discussions</h5>
+
+
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
@@ -21,6 +24,9 @@
 * **200 Currently Listed**
 * **`Enable Genres`** **`Rename Communications to Voice Enabled`** **`old luapp chat button`** **Disable Toast Notifications**
 * **`Remove Parental Controls Tab`** **`Legacy Search`** **`Disable Profile Picture Customization Tab`** **`Render Occlusion Culling`**
+* **`Remove long recommended section in homepage`**
+
+## View list at https://github.com/luafv/rbxflags
 * **List Return**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
@@ -432,13 +438,18 @@ High
 ```
 
 ### Allows you to customize which languages are available for the chat translation feature
-
 > [!IMPORTANT]
 > English cannot be removed.
 ###### @thefrenchguy4
 ```json
 {
     "FStringChatTranslationEnabledLocales": "es_es,fr_fr,pt_br,de_de,it_it,ja_jp,ko_kr,id_id,tr_tr,zh_cn,zh_tw,th_th,pl_pl,vi_vn,ru_ru,"
+}
+```
+### Remove long recommended section in homepage
+```json
+{
+    "FIntGameGridFlexFeedItemTileNumPerFeed": "0"
 }
 ```
 ### Disable Captures Keybind
