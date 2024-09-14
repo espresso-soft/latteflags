@@ -970,8 +970,8 @@ High
 }
 ```
 
-### Custom Accessory Positions
-```
+### Custom Accessory Positions <sup>Working in game</sup>
+```json
 {
     "FFlagAXAccessoryAdjustment": "True",
     "FFlagAXAccessoryAdjustmentIXPEnabled": "True",
@@ -1617,7 +1617,7 @@ High
 }
 ```
 > [!TIP]
-> 
+> e.g
 ```json
 {
     "FStringDebugShowFlagState": "DFIntTaskSchedulerTargetFps, ChannelName"
@@ -1816,10 +1816,11 @@ High
     <td>A fastvariable that can change at run-time, and<br/>automatically updates every 5 minutes.</td>
   </tr>
 </table>
+<div align="center">
+  
+  [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/luafv/rbxflags/blob/main/LICENSE)
+  [![Version](https://img.shields.io/github/v/release/luafv/rbxflags?color=7a39fb)](https://github.com/luafv/rbxflags/releases/latest)
+  [![Discord](https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/HNe7fzR9xg)
+
 </div>
-<h3 align="center">
-  <a href="https://discord.gg/HNe7fzR9xgF">
-    <img src="https://c.tenor.com/fWO4Tmw3BeYAAAAC/tenor.gif" width="465">
-  </a>
-</h3>
 <h4 align="center">© 2024 luafv All Rights Reserved.</h4>
