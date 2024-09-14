@@ -1,3 +1,4 @@
+<!--
 > [!NOTE]
 > If you find our repository useful don't forget to star!
 
@@ -7,19 +8,8 @@
 
 <h1 align="center">#RBXFLAG$</h1>
 
-<!--
-<h4 align="center"><a href="https://github.com/luafv/rbxflags/tree/clean">clean version</a> ✧ <a href="https://discord.gg/HNe7fzR9xg">discord</a> ✧ <a href="https://github.com/luafv/rbxperf">performance list</a> </h4>
-
-<h3 align="center">
-  <img src="assets/newgens.gif" width="256" alt="NEWGENS...">
-</h3>
-
-<h1 align="center">rbxflags</h1>
--->
-
 <h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
-
 
 <h4 align="center">Join our Roblox group</h4>
 <h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
