@@ -20,14 +20,9 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Versioqn: `9.13.24` `SHUTEMUP`
+#### Versioqn: `9.21.24` `WHO AM I LIVING FOR?`
 * **200 Currently Listed**
-* **`Enable Genres`** **`Rename Communications to Voice Enabled`** **`old luapp chat button`** **Disable Toast Notifications**
-* **`Remove Parental Controls Tab`** **`Legacy Search`** **`Disable Profile Picture Customization Tab`** **`Render Occlusion Culling`**
-* **`Remove long recommended section in homepage`**
-
-## View list at https://github.com/luafv/rbxflags
-* **List Return**
+* **Fix `V1`** **Fix `Blue Theme`** **`Old Chrome UI Topbar`** **`Left Healthbar for Chrome UI Topbar`** **`THICK Healthbar`** **`🍔`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -663,6 +658,18 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
+### 🍔
+```json
+{
+    "FFlagEnableHamburgerIcon": "True"
+}
+```
+### THICK Healthbar
+```
+{
+    "FFlagUpdateHealthBar": "True"
+}
+```
 ### Remove Parental Controls Tab
 ```json
 {
@@ -728,7 +735,8 @@ High
     "FFlagEnableMenuControlsABTest": "False",
     "FFlagEnableMenuModernizationABTest": "False",
     "FFlagEnableMenuModernizationABTest2": "False",
-    "FFlagEnableV3MenuABTest3": "False"
+    "FFlagEnableV3MenuABTest3": "False",
+    "FFlagFixReportButtonCutOff": "False"
 }
 ```
 ### V2 Menu
@@ -836,7 +844,7 @@ High
 ### Blue Theme
 ```json
 {
-    "FFlagLuaAppEnableFoundationColors": "True"
+    "FFlagLuaAppEnableFoundationColors2": "True"
 }
 ```
 ### No Transparency V4 Menu **(2023)**
@@ -998,6 +1006,24 @@ High
 ```json
 {
     "FFlagEnableBetterHapticsResultHandling": "True"
+}
+```
+### Old Chrome UI Topbar
+```json
+{
+    "FFlagEnableHamburgerIcon": "False",
+    "FFlagEnableUnibarV4IA": "False",
+    "FFlagEnableAlwaysOpenUnibar2": "False",
+    "FFlagEnableUnibarSneakPeak": "False",
+    "FFlagUseNewUnibarIcon": "False",
+    "FFlagEnableChromePinIntegrations2": "True"
+}
+```
+### Left Healthbar on Chrome UI Topbar
+```
+{
+    "FFlagEnableUnibarMaxDefaultOpen": "True",
+    "FFlagUpdateHealthBar": "False"
 }
 ```
 ### Chrome UI TopBar
