@@ -17,6 +17,10 @@
 <h5 align="center">https://github.com/luafv/rbxflags/discussions</h5>
 
 
+<h4 align="center">PROMOTE OUR CLEAN LIST TO NORMAL USERS</h4>
+<h5 align="center">https://github.com/fastvariable/nvrmaintain</h5>
+
+
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
