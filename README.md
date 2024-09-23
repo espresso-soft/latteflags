@@ -1,13 +1,3 @@
-<h3 align="center">
-  <img src="assets/pbc.gif" width="256" alt="Playboi Carti">
-</h3>
-
-<h1 align="center">#RBXFLAG$</h1>
-
-<h4 align="center">Exclusively Available by a third party</h4>
-<h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
-
-<!--
 > [!NOTE]
 > If you find our repository useful don't forget to star!
 
