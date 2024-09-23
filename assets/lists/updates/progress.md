@@ -2,7 +2,7 @@
 ### FastFlags
 - [x] Flag Cleanup 2
 - [x] Make everything we have public
-- [ ] Make everything paid
+- [x] Make everything paid
 ### Alerts Style Revamp
 - [x] Rendering
 - [x] Lightning Technologies
