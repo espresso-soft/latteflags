@@ -24,9 +24,9 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Versioqn: `9.21.24` `WHO AM I LIVING FOR?`
-* **200 Currently Listed**
-* **Fix `V1`** **Fix `Blue Theme`** **`Old Chrome UI Topbar`** **`Left Healthbar for Chrome UI Topbar`** **`THICK Healthbar`** **`🍔`**
+#### Versioqn: `09.24.24` `WHO AM I LIVING FOR?`
+* **201 Currently Listed**
+* **Fix `Blue Theme` again**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -848,7 +848,7 @@ High
 ### Blue Theme
 ```json
 {
-    "FFlagLuaAppEnableFoundationColors2": "True"
+    "FFlagLuaAppEnableFoundationColors3": "True"
 }
 ```
 ### No Transparency V4 Menu **(2023)**
