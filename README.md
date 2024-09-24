@@ -26,7 +26,7 @@
 
 #### Versioqn: `09.24.24` `WHO AM I LIVING FOR?`
 * **201 Currently Listed**
-* **Fix `Blue Theme` again**
+* **Fix `Blue Theme` again** 
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
