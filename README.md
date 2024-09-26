@@ -5,9 +5,7 @@
   <img src="assets/timeless.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<h1 align="center">#RBXFLAG$#UNAVAILABLE</h1>
-
-<!--
+<h1 align="center">#RBXFLAG$</h1>
 
 <h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
@@ -21,14 +19,12 @@
 <h4 align="center">PROMOTE OUR CLEAN LIST TO NORMAL USERS</h4>
 <h5 align="center">https://github.com/fastvariable/nvrmaintain</h5>
 
--->
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 #### Version: `09.27.24` `TIMELESS`
 * **202 Currently Listed**
 * **`Disable VC`**
-<!-- 
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -423,6 +419,16 @@ High
 
 <h1 align="center">Quality of Life</h1>
 
+### Disable VC
+> [!NOTE]
+> Setting this to `True` will not do anything
+> [!TIP]
+> Use PlaceFilter for specific games, Use a new Bloxstrap build from GitHub Actions in Bloxstrap Repository to be able to use PlaceFilter
+```json
+{
+    "DFFlagVoiceChat4": "False"
+}
+```
 ### 5 Decimal Sensitivity Precision
 ```json
 {
@@ -1649,8 +1655,7 @@ High
     "FStringDebugShowFlagState": "FLAG_HERE"
 }
 ```
-> [!TIP]
-> e.g
+#### e.g
 ```json
 {
     "FStringDebugShowFlagState": "DFIntTaskSchedulerTargetFps, ChannelName"
