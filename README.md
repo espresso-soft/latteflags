@@ -2,10 +2,12 @@
 > If you find our repository useful don't forget to star!
 
 <h3 align="center">
-  <img src="assets/pbc.gif" width="256" alt="Playboi Carti">
+  <img src="assets/timeless.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<h1 align="center">#RBXFLAG$</h1>
+<h1 align="center">#RBXFLAG$#UNAVAILABLE</h1>
+
+<!--
 
 <h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
@@ -16,17 +18,17 @@
 <h4 align="center">Repository Discussions</h4>
 <h5 align="center">https://github.com/luafv/rbxflags/discussions</h5>
 
-
 <h4 align="center">PROMOTE OUR CLEAN LIST TO NORMAL USERS</h4>
 <h5 align="center">https://github.com/fastvariable/nvrmaintain</h5>
 
-
+-->
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Versioqn: `09.24.24` `WHO AM I LIVING FOR?`
-* **201 Currently Listed**
-* **Fix `Blue Theme` again** 
+#### Version: `09.27.24` `TIMELESS`
+* **202 Currently Listed**
+* **`Disable VC`**
+<!-- 
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
