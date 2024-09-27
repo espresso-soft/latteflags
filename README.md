@@ -5,7 +5,7 @@
   <img src="assets/timeless.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<h1 align="center">i feel like killing myself</h1>
+<h1 align="center">#RBXFLAG$</h1>
 
 <h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
