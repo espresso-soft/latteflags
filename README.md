@@ -14,7 +14,7 @@
 <h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
 
 <h4 align="center">Repository Discussions</h4>
-<h5 align="center">https://github.com/Espresso Softworks/rbxflags/discussions</h5>
+<h5 align="center">https://github.com/espresso-soft/rbxflags/discussions</h5>
 
 <h4 align="center">PROMOTE OUR CLEAN LIST TO NORMAL USERS</h4>
 <h5 align="center">https://github.com/fastvariable/nvrmaintain</h5>
@@ -60,19 +60,19 @@
 ###### This is no method is no longer available on Bloxstrap because pizzaboxer a stupid Int Bool stupid ass check
 
 # List Navigation
-* **[Rendering](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#rendering)**
-* **[Lightning Technologies](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
-* **[Graphical](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* **[Audio](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
-* **[Physics](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
-* **[Abusive Game Presets](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#abusive-game-specific-presets)**
-* **[lol](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#lol)**
-* **[Debug](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#debug)**
-* **[Links](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#links)**
+* **[Rendering](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#rendering)**
+* **[Lightning Technologies](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file##lightning-technologies)**
+* **[Graphical](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#graphical-settings)**
+* **[Quality of Life](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
+* **[UI](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
+* **[UI X](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
+* **[Audio](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
+* **[Physics](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
+* **[Abusive Visuals](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
+* **[Abusive Game Presets](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#abusive-game-specific-presets)**
+* **[lol](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#lol)**
+* **[Debug](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#debug)**
+* **[Links](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#links)**
 
 <img src="assets/bitdancer.png" width="888"/>
 
@@ -260,7 +260,7 @@ High
 ```
 ### Low Render Distance
 > [!TIP]
-> **[View FRM Levels](https://github.com/Espresso Softworks/rbxflags/tree/master?tab=readme-ov-file#frm-levels)**
+> **[View FRM Levels](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#frm-levels)**
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
@@ -1804,7 +1804,7 @@ High
 ### [NVIDIA Shaders Guide](https://github.com/catb0x/Roblox-Shaders-Guide) *[Github Repo Link]*
 ### [EnableAnselForRoblox](https://github.com/DED0026/EnableAnselForRoblox) *[Github Repo Link]*
 ### [Bloxshade](https://github.com/Extravi/Bloxshade) *[Github Repo Link]*
-### [rbxperf](https://github.com/Espresso Softworks/rbxperf) *[Github Repo Link]*
+### [rbxperf](https://github.com/espresso-soft/rbxperf) *[Github Repo Link]*
 ### [Bindable Lag Switch](https://github.com/Hermivore8151/Bindable-LagSwitch) *[Github Repo Link]*
 ### [MEGA FLAG LIST](https://discord.com/channels/1099468797410283540/1139962301991104582/1170417533355036712) *[Bloxstrap Server]*
 ### [rbxservers.xyz](https://rbxservers.xyz/) *[Website]*
@@ -1877,8 +1877,8 @@ High
 </table>
 <div align="center">
   
-  [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/Espresso Softworks/rbxflags/blob/main/LICENSE)
-  [![Version](https://img.shields.io/github/v/release/Espresso Softworks/rbxflags?color=7a39fb)](https://github.com/Espresso Softworks/rbxflags/releases/latest)
+  [![License](https://img.shields.io/github/license/pizzaboxer/bloxstrap)](https://github.com/espresso-soft/rbxflags/blob/main/LICENSE)
+  [![Version](https://img.shields.io/github/v/release/espresso-soft/rbxflags?color=7a39fb)](https://github.com/espresso-soft/rbxflags/releases/latest)
   [![Discord](https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/HNe7fzR9xg)
 
 </div>
