@@ -24,8 +24,13 @@
 
 #### Version: `09.27.24` `TIMELESS`
 * **203 Currently Listed**
-* **`Disable VC`** **Update `Render Occlusion` **Update `Legacy Chrome UI Topbar`** **Update `Legacy Chrome UI Extras`** **`Enable Events Tab/Change Events Tab URL`**
-*  **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
+* **`Disable VC`**
+* **Update `Render Occlusion`**
+* **Update `Legacy Chrome UI Topbar`**
+* **Update `Legacy Chrome UI Extras`**
+* **`Enable Events Tab/Change Events Tab URL`**
+* **`old luaapp chat button` extra**
+* **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -699,13 +704,18 @@ High
 ### Disable Profile Picture Customization
 ```json
 {
-"FFlagAXDefaultAvatarToShopEnabled3": "False"
+     "FFlagAXDefaultAvatarToShopEnabled3": "False"
 }
 ```
 ### old luaapp chat button
 ```json
 {
     "FStringNewChatTabExperimentLayerValue": "2024MUSIC"
+}
+```
+```
+{
+    "FFlagEnableNewChatTabExperiment5": "False"
 }
 ```
 ### Disable Toast Notifications
