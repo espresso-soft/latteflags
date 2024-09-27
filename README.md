@@ -5,7 +5,7 @@
   <img src="assets/timeless.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<h1 align="center">#RBXFLAG$</h1>
+<h1 align="center">i feel like killing myself</h1>
 
 <h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
@@ -1812,17 +1812,17 @@ High
 <h4 align="center">⁺ You've reached the bottom of the list! ⁺</h4>
 
 <h3 align="center">
-  <a href="https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA">
-    <img src="https://i.scdn.co/image/ab67616d0000b27373e7e87fdd649b0e6dde2ca9" width="256" alt="Listen on Spotify">
+  <a href="https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL">
+    <img src="https://i.scdn.co/image/ab67616d0000b27310daba582005ee9d0f29b6ce" width="256" alt="Listen on Spotify">
   </a>
 </h3>
 
 
-<h3 align="center">TIMELESS - The Weeknd, Playboi Carti</h3>
+<h3 align="center">Timeless - The Weeknd, Playboi Carti</h3>
 
 
 <h1 align="center">
-  <a href="https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA">
+  <a href="https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" width="100">
   </a>
 </h1>
