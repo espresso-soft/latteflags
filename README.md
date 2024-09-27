@@ -23,9 +23,9 @@
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 #### Version: `09.27.24` `TIMELESS`
-* **202 Currently Listed**
-* **`Disable VC`**
-* **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
+* **203 Currently Listed**
+* **`Disable VC`** **Update `Render Occlusion` **Update `Legacy Chrome UI Topbar`** **Update `Legacy Chrome UI Extras`** **`Enable Events Tab/Change Events Tab URL`**
+*  **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
 1. **Open the [Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap).**
@@ -151,7 +151,9 @@ Wish it was different than what it was
 ```json
 {
     "DFFlagUseVisBugChecks": "True",
-    "FFlagEnableVisBugChecks27": "True"
+    "FFlagEnableVisBugChecks27": "True",
+    "FFlagVisBugChecksThreadYield": "True",
+    "FIntEnableVisBugChecksHundredthPercent27": "100"
 }
 ```
 ### Increased Particles on low graphics
@@ -981,6 +983,13 @@ High
     "FFlagDebugEnableNewWebView2DevTool": "True"
 }
 ```
+### Enable Events Tab/Change Events Tab URL
+```json
+{
+    "FFlagPlatformEventEnabled2": "True",
+    "FStringPlatformEventUrl": "AnyLinkHere"
+}
+```
 
 <h1 align="center">User Interface/Visuals Experimental</h1>
 
@@ -1026,16 +1035,18 @@ High
     "FFlagEnableHamburgerIcon": "False",
     "FFlagEnableUnibarV4IA": "False",
     "FFlagEnableAlwaysOpenUnibar2": "False",
-    "FFlagEnableUnibarSneakPeak": "False",
     "FFlagUseNewUnibarIcon": "False",
-    "FFlagEnableChromePinIntegrations2": "True"
+    "FFlagUseSelfieViewFlatIcon": "False",
+    "FFlagUnibarRespawn": "False",
+    "FFlagEnableChromePinIntegrations2": "False"
 }
 ```
-### Left Healthbar on Chrome UI Topbar
-```
+### Extra + Left Healthbar on Chrome UI Topbar
+```json
 {
     "FFlagEnableUnibarMaxDefaultOpen": "True",
-    "FFlagUpdateHealthBar": "False"
+    "FFlagUpdateHealthBar": "False",
+    "FFlagUseNewPinIcon": "False"
 }
 ```
 ### Chrome UI TopBar
