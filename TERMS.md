@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="assets/pbc.gif" width="256" alt="Playboi Carti">
+  <img src="assets/lattestrap.gif" width="256" alt="Playboi Carti">
 </h3>
 
 <h1 align="center">#RBXFLAG$</h1>
@@ -30,6 +30,6 @@ As stated in this repository's Terms and Conditions, by using the information in
 By accessing this repository, you agree that you have read and agree with this repository's Terms and Conditions. If you do not agree, cease accessing this rentry immediately.
 
 <h3 align="center">
-  <img src="assets/ffcollective.jpg" width="128" alt="Espresso Softworks">
+  <img src="assets/espresso_soft.jpeg" width="128" alt="Espresso Softworks">
 </h3>
 <h4 align="center">© 2024 Espresso Softworks All Rights Reserved.</h4>
