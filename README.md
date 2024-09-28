@@ -49,9 +49,21 @@
 5. **Save and you're good to go!**
 ###### Do note that after roblox updates you have to do this process again
 
-[Watch a Video Tutorial](https://streamable.com/rk5an6)
 
-## How to Use _PlaceFilter
+## Android Rootless Roblox (MT Manager) How to Use:
+> [!CAUTION]
+> Roblox is implementing anti-tamper measures on mobile. Proceed at your own risk.
+
+1. **Download a Roblox APK** file from a trusted source. 
+2. **Open MT Manager** and navigate to the **Roblox APK** file.
+3. Tap on the APK and select **View**. `/assets` >> `main.1.com.roblox.client.obb` and click on it then **Archive Viewer**.
+4. Create a new folder named **`ClientSettings`**.
+5. Place your **`ClientAppSettings.json`** file inside the `ClientSettings` folder. (You can use ChatGPT to help format JSON files for clarity if needed)
+6. Tap on the back button (`..`) to exit the archive. It will prompt you to update the file `main.1.com.roblox.client.obb`—click **OK**.
+7. Long-press the **Roblox APK** file, choose **Sign File**, and click **OK** with default settings.
+8. **Install the modified APK.**
+###### This process must be repeated whenever a new Roblox build is released, as the modifications will not carry over to new updates.
+
 1. **Add `_PlaceFilter` after the Fast Flag name.**
 2. **Add a semicolon after the Value (`;`). Examples: `True;`, `1;`.**
 3. **Include a Place ID after the semicolon. Examples: `True;4483381587`, `1;4483381587`.**
