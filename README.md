@@ -49,7 +49,6 @@
 5. **Save and you're good to go!**
 ###### Do note that after roblox updates you have to do this process again
 
-
 ## Android Rootless Roblox (MT Manager) How to Use:
 > [!CAUTION]
 > Roblox is implementing anti-tamper measures on mobile. Proceed at your own risk.
@@ -64,6 +63,7 @@
 8. **Install the modified APK.**
 ###### This process must be repeated whenever a new Roblox build is released, as the modifications will not carry over to new updates.
 
+## How to Use _PlaceFilter
 1. **Add `_PlaceFilter` after the Fast Flag name.**
 2. **Add a semicolon after the Value (`;`). Examples: `True;`, `1;`.**
 3. **Include a Place ID after the semicolon. Examples: `True;4483381587`, `1;4483381587`.**
