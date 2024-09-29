@@ -23,11 +23,12 @@
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 #### Version: `09.30.24` `TIMELESS`
-* **203 Currently Listed**
+* **204 Currently Listed**
 * **Remove `Blue Theme`**
 * **Remove `Enable Genres`**
 * **`Mini Webview`**
 * **`Change Age Rating Learn More Link`**
+* **`No Bloom/Clouds`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -163,6 +164,14 @@ Wish it was different than what it was
 
 <h1 align="center">Graphical Settings</h1>
 
+### No Bloom/Clouds
+###### @burgerboxer
+```json
+{
+    "FFlagRenderNoLowFrmBloom": "False"
+}
+```
+Found by me <@1272494435690610800> <@832597017976504330>
 ### Render Occlusion Culling
 ###### [@CloneTrooper1019](https://x.com/MaximumADHD/status/1832331711486865769)
 ```json
