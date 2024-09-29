@@ -102,6 +102,16 @@ Wish it was different than what it was
 
 <h5 align="center">•</h5>
 
+
+### Enable Freecam
+> [!NOTE]
+> **Shift + P**
+```json
+{
+    "DFFlagDebugSimulateHangAtStartup": "True"
+}
+```
+
 <h1 align="center">Rendering API</h1>
 
 ### Metal
