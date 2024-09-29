@@ -171,7 +171,6 @@ Wish it was different than what it was
     "FFlagRenderNoLowFrmBloom": "False"
 }
 ```
-Found by me <@1272494435690610800> <@832597017976504330>
 ### Render Occlusion Culling
 ###### [@CloneTrooper1019](https://x.com/MaximumADHD/status/1832331711486865769)
 ```json
