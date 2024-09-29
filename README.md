@@ -22,14 +22,12 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Version: `09.27.24` `TIMELESS`
+#### Version: `09.30.24` `TIMELESS`
 * **203 Currently Listed**
-* **`Disable VC`**
-* **Update `Render Occlusion`**
-* **Update `Legacy Chrome UI Topbar`**
-* **Update `Legacy Chrome UI Extras`**
-* **`Enable Events Tab/Change Events Tab URL`**
-* **`old luaapp chat button` extra**
+* **Remove `Blue Theme`**
+* **Remove `Enable Genres`**
+* **`Mini Webview`**
+* **`Change Age Rating Learn More Link`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -429,6 +427,7 @@ High
 ### Disable VC
 > [!NOTE]
 > Setting this to `True` will not do anything
+
 > [!TIP]
 > Use PlaceFilter for specific games, Use a new Bloxstrap build from GitHub Actions in Bloxstrap Repository to be able to use PlaceFilter
 ```json
@@ -674,13 +673,22 @@ High
     "FFlagHandleAltEnterFullscreenManually": "False"
 }
 ```
+* **`Change Age Rating Learn More Link`**
 
 <h1 align="center">User Interface/Visuals</h1>
 
 ### 🍔
+> [!NOTE]
+> **Chrome UI only**
 ```json
 {
     "FFlagEnableHamburgerIcon": "True"
+}
+```
+### Mini Webview
+```json
+{
+    "FStringExperienceGuidelinesExplainedPageUrl": "https://playboicarti.com"
 }
 ```
 ### THICK Healthbar
@@ -865,12 +873,6 @@ High
     "FFlagUIBloxUseNewThemeColorPalettes": "True"
 }
 ```
-### Blue Theme
-```json
-{
-    "FFlagLuaAppEnableFoundationColors3": "True"
-}
-```
 ### No Transparency V4 Menu **(2023)**
 ```json
 {
@@ -1002,13 +1004,6 @@ High
 ```
 
 <h1 align="center">User Interface/Visuals Experimental</h1>
-
-### Enable Genres
-```json
-{
-    "FFlagLuaAppGenreUnderConstruction": "False"
-}
-```
 
 ### Custom Accessory Positions <sup>Working in game</sup>
 ```json
@@ -1486,7 +1481,7 @@ High
 ### Speed 2
 > [!NOTE]
 > **Not backwards but more buggy**
-```
+```json
 {
     "DFIntDebugSimPrimalWarmstartForce": "-285",
     "DFIntDebugSimPrimalWarmstartVelocity": "750",
