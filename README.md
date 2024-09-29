@@ -674,6 +674,11 @@ High
 }
 ```
 * **`Change Age Rating Learn More Link`**
+```json
+{
+    "FStringExperienceGuidelinesExplainedPageUrl": "https://playboicarti.com"
+}
+```
 
 <h1 align="center">User Interface/Visuals</h1>
 
@@ -688,7 +693,7 @@ High
 ### Mini Webview
 ```json
 {
-    "FStringExperienceGuidelinesExplainedPageUrl": "https://playboicarti.com"
+    "FFlagWebViewProtocol": "False"
 }
 ```
 ### THICK Healthbar
