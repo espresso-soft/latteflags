@@ -7,8 +7,14 @@
 
 <h1 align="center">#RBXFLAG$</h1>
 
-<h4 align="center">Join our Discord Server for early access FastFlags before we publish</h4>
+<h4 align="center">Join our Discord Server to contribute & expand our list (We need you)</h4>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
+
+<h3 align="center">
+  <img src="https://media.discordapp.net/attachments/1272692993211498548/1290182172526903388/im_a_loser.jpg?ex=66fb8748&is=66fa35c8&hm=14a1da71b1da4fc319d0e778bcef515ede730ceddf2583d84740fa9442526447&" width="256" alt="how to be a loser in 2024">
+</h3>
+
+🤓🤓
 
 <h4 align="center">Join our Roblox group</h4>
 <h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
