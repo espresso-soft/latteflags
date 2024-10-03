@@ -28,13 +28,12 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Version: `09.30.24` `TIMELESS`
-* **204 Currently Listed**
-* **Remove `Blue Theme`**
-* **Remove `Enable Genres`**
-* **`Mini Webview`**
-* **`Change Age Rating Learn More Link`**
-* **`No Bloom/Clouds`**
+#### Version: `10.03.24` `2024 MUSIC`
+* **208 Currently Listed**
+* **`DFFlagDebugSimulateHangAtShutdown`**
+* **`DFFlagDebugSimulateHangAtStartup`**
+* **`Noclip + Low Gravity + Fly Combo`**
+* **`Show All Error Strings`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -711,7 +710,7 @@ High
     "FFlagHandleAltEnterFullscreenManually": "False"
 }
 ```
-* **`Change Age Rating Learn More Link`**
+### Change Age Rating Learn More Link
 ```json
 {
     "FStringExperienceGuidelinesExplainedPageUrl": "https://playboicarti.com"
@@ -735,7 +734,7 @@ High
 }
 ```
 ### THICK Healthbar
-```
+```json
 {
     "FFlagUpdateHealthBar": "True"
 }
@@ -801,16 +800,9 @@ High
     "FFlagEnableNavBarLabels3": "False"
 }
 ```
-### V1 Menu
+### V1 Menu Fix
 ```json
 {
-    "FFlagDisableNewIGMinDUA": "True",
-    "FFlagEnableInGameMenuControls": "False",
-    "FFlagEnableInGameMenuModernization": "False",
-    "FFlagEnableMenuControlsABTest": "False",
-    "FFlagEnableMenuModernizationABTest": "False",
-    "FFlagEnableMenuModernizationABTest2": "False",
-    "FFlagEnableV3MenuABTest3": "False",
     "FFlagFixReportButtonCutOff": "False"
 }
 ```
@@ -1739,6 +1731,12 @@ High
     "DFIntRemoteEventSingleInvocationSizeLimit": "1"
 }
 ```
+### Show All Error Strings
+```json
+{
+    "FFlagDebugEnableErrorStringTesting": "True"
+}
+```
 ### logs stuff in dev console
 ```json
 {
@@ -1807,11 +1805,32 @@ High
     "FFlagRenamePassesAndGearToSubscriptionsAndPasses": "False"
 }
 ```
-
+### Self Explanatory 8
+```json
+{
+    "DFFlagDebugSimulateHangAtStartup": "True"
+}
+```
+### Self Explanatory 9
+```json
+{
+    "DFFlagDebugSimulateHangAtShutdown": "True"
+}
+```
 <h1 align="center">Community Presets</h1>
 
 <h4 align="center">We are not accepting performance Fast Flags that aren't listed or known.</h4>
 
+### Noclip + Low Gravity + Fly (Weird Movement)
+```json
+{
+{
+    "DFIntDebugSimPrimalLineSearch": "1",
+    "DFIntDebugSimPrimalWarmstartForce": "160",
+    "DFIntDebugSimPrimalWarmstartVelocity": "102",
+    "FFlagDebugSimDefaultPrimalSolver": "True"
+}
+```
 ### absolutely kill your game quality with fflags known to me
 ##### @dynamitebumblemouth
 ```json
