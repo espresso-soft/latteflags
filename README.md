@@ -1824,7 +1824,6 @@ High
 ### Noclip + Low Gravity + Fly (Weird Movement)
 ```json
 {
-{
     "DFIntDebugSimPrimalLineSearch": "1",
     "DFIntDebugSimPrimalWarmstartForce": "160",
     "DFIntDebugSimPrimalWarmstartVelocity": "102",
