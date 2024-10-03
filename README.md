@@ -34,6 +34,7 @@
 * **`DFFlagDebugSimulateHangAtStartup`**
 * **`Noclip + Low Gravity + Fly Combo`**
 * **`Show All Error Strings`**
+* **`real god mode fr`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -106,16 +107,6 @@ Wish it was different than what it was
 </div>
 
 <h5 align="center">•</h5>
-
-
-### Enable Freecam
-> [!NOTE]
-> **Shift + P**
-```json
-{
-    "DFFlagDebugSimulateHangAtStartup": "True"
-}
-```
 
 <h1 align="center">Rendering API</h1>
 
@@ -1529,6 +1520,15 @@ High
     "DFFlagSimHumanoidTimestepModelUpdate": "True",
     "FFlagSimAdaptiveTimesteppingDefault2": "True",
     "DFIntDebugSimPrimalLineSearch": "100"
+}
+```
+### real god mode fr
+###### fake @pyhlou
+> [!TIP]
+> Disconnect your internet before joining a game and turn it on again
+```json
+{
+    "DFIntGameNetOptimizeParallelPhysicsSendAssemblyBatch": "0"
 }
 ```
 
