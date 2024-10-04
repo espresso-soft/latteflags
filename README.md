@@ -28,13 +28,9 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Version: `10.03.24` `2024 MUSIC`
-* **208 Currently Listed**
-* **`DFFlagDebugSimulateHangAtShutdown`**
-* **`DFFlagDebugSimulateHangAtStartup`**
-* **`Noclip + Low Gravity + Fly Combo`**
-* **`Show All Error Strings`**
-* **`real god mode fr`**
+#### Version: `10.04.24` `2024 MUSIC`
+* **209 Currently Listed**
+* **`FFlagLuaAppEnableFoundationColors3`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## Bloxstrap How to Use:
@@ -710,6 +706,12 @@ High
 
 <h1 align="center">User Interface/Visuals</h1>
 
+### Blue Theme
+```json
+{
+    "FFlagLuaAppEnableFoundationColors3": "True"
+}
+```
 ### 🍔
 > [!NOTE]
 > **Chrome UI only**
