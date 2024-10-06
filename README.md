@@ -28,14 +28,15 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Version: `10.03.24` `2024 MUSIC`
+#### Version: `10.07.24` `2024 MUSIC`
 * **208 Currently Listed**
-* **`DFFlagDebugSimulateHangAtShutdown`**
-* **`DFFlagDebugSimulateHangAtStartup`**
-* **`Noclip + Low Gravity + Fly Combo`**
-* **`Show All Error Strings`**
-* **`real god mode fr`**
+* **Noclip 4**
+* **Freeze 2**
+* **Grail Statuses**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
+
+## List Meanings
+**✨ - sOmethin rare hArd to get > like a holy treAsure its dat one thIng you gotta hAve could be a shoe a cAr or a piece of arT + everybody wAnts it but only a fEw get it = it’s dat uLtimate find ya feel me?**
 
 ## Bloxstrap How to Use:
 1. **Open** the **[Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap)**.
@@ -1219,7 +1220,7 @@ High
     "DFFlagSimHumanoidTimestepModelUpdate": "True"
 }
 ```
-### No Animations
+### No Animations ✨
 > [!NOTE]
 > **Stops the game from trying to replicate your animations in the server. You dont have animations in the server but you do for your client**
 ```json
@@ -1267,7 +1268,7 @@ High
     "DFIntTouchSenderMaxBandwidthBps": "-1"
 }
 ```
-### Fake Lag
+### Fake Lag ✨
 ```json
 {
     "DFIntS2PhysicsSenderRate": "1"
@@ -1281,7 +1282,7 @@ High
     "DFIntS2PhysicsSenderRate": "-30"
 }
 ```
-### Invisible 2
+### Invisible 2 ✨
 > [!NOTE]
 > **Locks your character's position on the server to (0, 0, 0), having the side effect of turning you invisible. This only affects the server and other clients, not you. server-sided things that rely on your position, like clicking to get tools, will not function. In some games these can be abusable. Here is a list of them: [Link](assets/lists/experiences/specific.md)**
 ```json
@@ -1304,7 +1305,7 @@ High
     "FIntParallelDynamicPartsFastClusterBatchSize": "-1"
 }
 ```
-### Warp & Slowmotion
+### Warp & Slowmotion ✨
 ```json
 {
     "DFIntMaxMissedWorldStepsRemembered": "1"
@@ -1331,7 +1332,7 @@ High
     "DFIntSimBroadPhasePairCountMax": "50"
 }
 ```
-### Noclip 3
+### Noclip 3 ✨
 ###### @burgerboxer & @dis_spencer
 ```json
 {
@@ -1340,14 +1341,30 @@ High
     "DFIntDebugSimPrimalStiffness": "0"
 }
 ```
-### Freeze
+### Noclip 4
+###### @burgerboxer
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalNewtonIts": "1"
+}
+```
+### Freeze 1
 ```json
 {
     "FFlagDebugSimDefaultPrimalSolver": "True",
     "DFIntDebugSimPrimalLineSearch": "0"
 }
 ```
-### Hip Height
+### Freeze 2
+###### @burgerboxer
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalNewtonIts": "0"
+}
+```
+### Hip Height ✨
 > [!NOTE]
 > **Very controllable bounce, only works with negative values**
 
@@ -1358,7 +1375,7 @@ High
     "DFIntMaxAltitudePDStickHipHeightPercent": "-200"
 }
 ```
-### Wallglide
+### Wallglide ✨
 ```json
 {
     "DFIntUnstickForceAttackInTenths": "-4"
@@ -1377,7 +1394,7 @@ High
     "DFIntMaxClientSimulationRadius": "2147000000"
 }
 ```
-### Low Gravity 1
+### Low Gravity 1 ✨
 > [!NOTE]
 > `'FFlagDebugSimDefaultPrimalSolver' : True`  
 > This flag enables the new simulation engine or whatever it is.
@@ -1476,7 +1493,7 @@ High
     "DFIntDebugSimPrimalLineSearch": "41"
 }
 ```
-### Vehicle Speed 2
+### Vehicle Speed 2 ✨
 > [!TIP]
 > **Adjust `DFIntDebugSimPrimalWarmstartVelocity` or `DFIntBulletContactBreakOrthogonalThresholdPercent` and find the best values for you**
 ```json
@@ -1576,7 +1593,7 @@ High
     "DFFlagDebugDrawBvhNodes": "True"
 }
 ```
-### Buggy ZPlane Camera
+### Buggy ZPlane Camera ✨
 ```json
 {
     "FIntCameraFarZPlane": "1"
@@ -1588,7 +1605,7 @@ High
     "FFlagDebugHumanoidRendering": "True"
 }
 ```
-### Xray
+### Xray ✨
 ```json
 {
     "DFIntCullFactorPixelThresholdMainViewHighQuality": "10000",
