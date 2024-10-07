@@ -5,8 +5,6 @@
   <img src="assets/timeless.gif" width="256" alt="Playboi Carti">
 </h3>
 
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 <h1 align="center">#RBXFLAG$</h1>
 
 <h4 align="center">Join our Discord Server to contribute & expand our list (We need you)</h4>
@@ -16,12 +14,11 @@
   <img src="https://media.discordapp.net/attachments/1272692993211498548/1290182172526903388/im_a_loser.jpg?ex=66fb8748&is=66fa35c8&hm=14a1da71b1da4fc319d0e778bcef515ede730ceddf2583d84740fa9442526447&" width="256" alt="how to be a loser in 2024">
 </h3>
 
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 🤓🤓
 
 <h4 align="center">Join our Roblox group</h4>
-<h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5
+<h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
+
 <h4 align="center">Repository Discussions</h4>
 <h5 align="center">https://github.com/espresso-soft/rbxflags/discussions</h5>
 
@@ -31,16 +28,16 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
-#### Version: `10.03.24` `2024 MUSIC`
-* **208 Currently Listed**
-* **`DFFlagDebugSimulateHangAtShutdown`**
-* **`DFFlagDebugSimulateHangAtStartup`**
-* **`Noclip + Low Gravity + Fly Combo`**
-* **`Show All Error Strings`**
-* **`real god mode fr`**
+#### Version: `10.07.24` `2024 MUSIC`
+* **215 Currently Listed**
+* **`Noclip 4`**
+* **`Freeze 2`**
+* **`Grail Statuses`**
+* **Updated Counting**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
+
+## List Meanings
+**✨ - sOmethin rare hArd to get > like a holy treAsure its dat one thIng you gotta hAve could be a shoe a cAr or a piece of arT + everybody wAnts it but only a fEw get it = it’s dat uLtimate find ya feel me?**
 
 ## Bloxstrap How to Use:
 1. **Open** the **[Bloxstrap Menu](https://github.com/pizzaboxer/bloxstrap)**.
@@ -48,20 +45,15 @@
 3. **Paste** in the **JSON**.
 4. **Save** and your good to go!
 
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 <img src="/assets/tutorial260.gif" width="750"/>
 
 ## Normal Roblox Bootstrapper How to Use:
 ###### You can also do Roblox Studio
 1. **Navigate** to your **Roblox Installation directory**. Typically found at `%localappdata%\Roblox\Versions\` or `C:\Program Files (x86)\Roblox\Versions`.**
 2. **Identify** the folder `version-xxxxxxxxxxxxxxxx` ~~containing `RobloxPlayerBeta.exe`~~ **You can do this for Roblox Studio too.**
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
-4. **Create a new folder named `ClientSettings`. Inside this folder, **add** a file `ClientAppSettings.json`.**
-5. **Paste** the **JSON** into `ClientAppSettings.json`. (**You can utilize ChatGPT to format multiple JSONs for clarity if needed**)
-6. **Save** and you're good to go!
+3. **Create a new folder named `ClientSettings`. Inside this folder, **add** a file `ClientAppSettings.json`.**
+4. **Paste** the **JSON** into `ClientAppSettings.json`. (**You can utilize ChatGPT to format multiple JSONs for clarity if needed**)
+5. **Save** and you're good to go!
 ###### Do note that after roblox updates you have to do this process again
 
 [Watch a Video Tutorial](https://streamable.com/rk5an6)
@@ -76,11 +68,8 @@
 4. Create a new folder named **`ClientSettings`**.
 5. Place your **`ClientAppSettings.json`** file inside the `ClientSettings` folder. (You can use ChatGPT to help format JSON files for clarity if needed)
 6. Tap on the back button (`..`) to exit the archive. It will prompt you to update the file `main.1.com.roblox.client.obb`—click **OK**.
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
-8. Long-press the **Roblox APK** file, choose **Sign File**, and click **OK** with default settings.
-9. **Install the modified APK.**
+7. Long-press the **Roblox APK** file, choose **Sign File**, and click **OK** with default settings.
+8. **Install the modified APK.**
 ###### This process must be repeated whenever a new Roblox build is released, as the modifications will not carry over to new updates.
 
 ## How to Use _PlaceFilter
@@ -98,9 +87,6 @@
 * **[Quality of Life](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#quality-of-life)**
 * **[UI](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals)**
 * **[UI X](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* 
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 * **[Audio](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#audio-related)**
 * **[Physics](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#physics-abusive)**
 * **[Abusive Visuals](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#abusive-visuals)**
@@ -134,9 +120,6 @@ Wish it was different than what it was
     "FFlagDebugGraphicsPreferMetal": "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Vulkan
 > [!CAUTION]
 > **Visual Bugs & Crashes**
@@ -153,9 +136,6 @@ Wish it was different than what it was
     "FFlagDebugGraphicsPreferOpenGL": "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Direct X 10
 ```json
 {
@@ -199,9 +179,6 @@ Wish it was different than what it was
     "FFlagRenderNoLowFrmBloom": "False"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Render Occlusion Culling
 ###### [@CloneTrooper1019](https://x.com/MaximumADHD/status/1832331711486865769)
 ```json
@@ -232,9 +209,6 @@ Wish it was different than what it was
     "FFlagRenderDebugCheckThreading2": "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Maximum Threads
 ```json
 {
@@ -247,9 +221,6 @@ Wish it was different than what it was
     "FIntTaskSchedulerThreadMin": "3"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Smoother Terrain
 ```json
 {
@@ -268,9 +239,6 @@ Wish it was different than what it was
     "FIntRenderShadowIntensity": "0"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Disable Shadows
 ```json
 {
@@ -311,9 +279,6 @@ High
 9 = 18
 10 = 21
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### FRM 21 Graphics Quality Slider
 ```json
 {
@@ -345,8 +310,6 @@ High
 ### Makes avatars shiny 
 > [!TIP]
 > **Everything goes black on below <3**
-> 
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
 
 > [!NOTE]
 > **DFIntDebugFRMQualityLevelOverride is there to set your graphics to 3 bars**
@@ -394,9 +357,6 @@ High
     "FFlagNewLightAttenuation": "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Enable GPULightCulling
 > [!TIP]
 > **Combine with [Lighting Attenuation](https://FastFlags/FastFlags-Collective/?tab=readme-ov-file#lighting-attenuation) for better vision**
@@ -419,9 +379,6 @@ High
     "DFIntMaxFrameBufferSize": "4"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Low Quallity Terrain Textures
 > [!TIP]
 > **4 for less quality 16, 32, 64 for higher quality**
@@ -430,9 +387,6 @@ High
     "FIntTerrainArraySliceSize": "4"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Force Texture Quality 
 > [!TIP]
 > **Set any value from 0-3**
@@ -442,9 +396,6 @@ High
     "DFIntTextureQualityOverride": "3"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Lower Quality Textures
 ```json
 {
@@ -465,9 +416,6 @@ High
     "FIntDebugTextureManagerSkipMips": "-1"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Remove Grass
 ```json
 {
@@ -532,8 +480,6 @@ High
 }
 ```
 
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Allows you to customize which languages are available for the chat translation feature
 > [!IMPORTANT]
 > English cannot be removed.
@@ -561,9 +507,6 @@ High
     "FFlagUserHideCharacterParticlesInFirstPerson": "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### FPS Unlocker in Roblox Menu Settings
 ```json
 {
@@ -594,9 +537,6 @@ High
 | Ctrl + Shift + B  | Toggles GUIs in 3D space (BillboardGuis, SurfaceGuis, etc)                |
 | Ctrl + Shift + C  | Toggles game-defined ScreenGuis                                           |
 | Ctrl + Shift + G  | Toggles Roblox CoreGuis                                                   |
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 | Ctrl + Shift + N  | Toggles player names, and other BillboardGuis that show up above a player |
 ```json
 {
@@ -615,9 +555,6 @@ High
     "FIntFullscreenTitleBarTriggerDelayMillis": "3600000"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Stuttery Animation Fix
 ```json
 {
@@ -652,16 +589,11 @@ High
     "FStringVoiceBetaBadgeLearnMoreLink": "https://google.com/"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### MTU
 > [!TIP]
 > **Identify the Current MTU**
 > - **Windows**: Open Command Prompt and type `netsh interface ipv4 show subinterfaces`.
 > - **Linux**: Use `ifconfig` or `ip link show` to find the current MTU of your network interface.
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
 
 > [!TIP]
 > **Determine the Optimal MTU**
@@ -721,9 +653,6 @@ High
     "DFIntAssetPreloading": "9999999"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Disable In-Game Purchases
 ```json
 {
@@ -744,9 +673,6 @@ High
     "DFIntAnimationLodFacsVisibilityDenominator": "0"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Automatically unmutes your mic on join (VC)
 ```json
 {
@@ -777,9 +703,6 @@ High
     "FFlagHandleAltEnterFullscreenManually": "False"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Change Age Rating Learn More Link
 ```json
 {
@@ -821,9 +744,6 @@ High
     "FFlagAXSearchLandingPageIXPEnabled4": "False"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Disable Profile Picture Customization
 ```json
 {
@@ -879,9 +799,6 @@ High
     "FFlagFixReportButtonCutOff": "False"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### V2 Menu
 ```json
 {
@@ -947,9 +864,6 @@ High
     "FFlagChatTranslationSettingEnabled3": "False"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### New Camera Mode
 ```json
 {
@@ -980,9 +894,6 @@ High
     "FIntMaxKickMessageLength": "1"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Darker Dark Theme
 ```json
 {
@@ -990,6 +901,13 @@ High
     "FFlagUIBloxUseNewThemeColorPalettes": "True"
 }
 ```
+### Blue Theme
+```json
+{
+    "FFlagLuaAppEnableFoundationColors3": "True"
+}
+```
+
 ### No Transparency V4 Menu **(2023)**
 ```json
 {
@@ -1020,9 +938,6 @@ High
     "FFlagDebugAdornsDisabled":  "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Dont Render UI
 ```json
 {
@@ -1072,9 +987,6 @@ High
     "FFlagAvatarChatServiceEnabled3": "False"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Remove VC Beta Badge
 ```json
 {
@@ -1110,9 +1022,6 @@ High
     "FFlagDSAIllegalContentReporting2": "False"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Desktop App Dev Tools
 > [!IMPORTANT]
 > Only works on web view windows like profiles, Ctrl + Shift + I
@@ -1148,9 +1057,6 @@ High
     "FFlagEnableChromeFTUX": "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Disable Haptics Option
 ```json
 {
@@ -1183,8 +1089,6 @@ High
     "FFlagUseNewPinIcon": "False"
 }
 ```
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Chrome UI TopBar
 ```json
 {
@@ -1238,9 +1142,6 @@ High
     "DFIntVoiceChatRollOffMaxDistance": "80"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Sounds use physical velocity and become distorted
 > [!NOTE]
 > **<2017 Audio**
@@ -1269,9 +1170,6 @@ High
     "DFIntVoiceChatVolumeThousandths": "100000"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### No sounds
 ```json
 {
@@ -1280,8 +1178,6 @@ High
 ```
 
 <h1 align="center">Physics (Abusive)</h1>
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
 
 > [!NOTE]
 > Support me for finding some of these FastFlags (With credits on @burgerboxer) by buying https://www.roblox.com/game-pass/895489152/ or boosting our server!
@@ -1298,9 +1194,6 @@ High
     "FFlagRemapAnimationR6ToR15Rig": "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Weird Leg Movement
 ```json
 {
@@ -1321,9 +1214,6 @@ High
 }
 ```
 ### Drunk
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ```json
 {
     "FFlagSimAdaptiveTimesteppingDefault2": "True",
@@ -1331,7 +1221,7 @@ High
     "DFFlagSimHumanoidTimestepModelUpdate": "True"
 }
 ```
-### No Animations
+### No Animations ✨
 > [!NOTE]
 > **Stops the game from trying to replicate your animations in the server. You dont have animations in the server but you do for your client**
 ```json
@@ -1348,9 +1238,6 @@ High
     "DFIntNonSolidFloorPercentForceApplication": "-5000"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Max Raycast Distance
 > [!NOTE]
 > **Raycasting is the use of intersection tests to solve problems in Roblox. The most common use of raycasting is to determine the first object intersected by a ray. This is done by casting a virtual ray from a certain point in a direction and determining the first surface it intersected with.**
@@ -1376,16 +1263,13 @@ High
     "DFIntDataSenderRate": "-1"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Disable Touch Events
 ```json
 {
     "DFIntTouchSenderMaxBandwidthBps": "-1"
 }
 ```
-### Fake Lag
+### Fake Lag ✨
 ```json
 {
     "DFIntS2PhysicsSenderRate": "1"
@@ -1399,10 +1283,7 @@ High
     "DFIntS2PhysicsSenderRate": "-30"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
-### Invisible 2
+### Invisible 2 ✨
 > [!NOTE]
 > **Locks your character's position on the server to (0, 0, 0), having the side effect of turning you invisible. This only affects the server and other clients, not you. server-sided things that rely on your position, like clicking to get tools, will not function. In some games these can be abusable. Here is a list of them: [Link](assets/lists/experiences/specific.md)**
 ```json
@@ -1425,7 +1306,7 @@ High
     "FIntParallelDynamicPartsFastClusterBatchSize": "-1"
 }
 ```
-### Warp & Slowmotion
+### Warp & Slowmotion ✨
 ```json
 {
     "DFIntMaxMissedWorldStepsRemembered": "1"
@@ -1452,10 +1333,7 @@ High
     "DFIntSimBroadPhasePairCountMax": "50"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
-### Noclip 3
+### Noclip 3 ✨
 ###### @burgerboxer & @dis_spencer
 ```json
 {
@@ -1464,14 +1342,30 @@ High
     "DFIntDebugSimPrimalStiffness": "0"
 }
 ```
-### Freeze
+### Noclip 4
+###### @burgerboxer
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalNewtonIts": "1"
+}
+```
+### Freeze 1
 ```json
 {
     "FFlagDebugSimDefaultPrimalSolver": "True",
     "DFIntDebugSimPrimalLineSearch": "0"
 }
 ```
-### Hip Height
+### Freeze 2
+###### @burgerboxer
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalNewtonIts": "0"
+}
+```
+### Hip Height ✨
 > [!NOTE]
 > **Very controllable bounce, only works with negative values**
 
@@ -1482,15 +1376,12 @@ High
     "DFIntMaxAltitudePDStickHipHeightPercent": "-200"
 }
 ```
-### Wallglide
+### Wallglide ✨
 ```json
 {
     "DFIntUnstickForceAttackInTenths": "-4"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Network Ownership
 > [!NOTE]
 > better [network ownership](https://create.roblox.com/docs/physics/network-ownership) of parts
@@ -1504,7 +1395,7 @@ High
     "DFIntMaxClientSimulationRadius": "2147000000"
 }
 ```
-### Low Gravity 1
+### Low Gravity 1 ✨
 > [!NOTE]
 > `'FFlagDebugSimDefaultPrimalSolver' : True`  
 > This flag enables the new simulation engine or whatever it is.
@@ -1581,8 +1472,6 @@ High
 > [!TIP]
 > **For `DFIntDebugSimPrimalWarmstartVelocity`, it’s recommended to use a value of `150`. However, it might be difficult to control.**
 
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 > [!NOTE]
 > **I may not have found this first, but I discovered this by myself.**
 ```json
@@ -1605,7 +1494,7 @@ High
     "DFIntDebugSimPrimalLineSearch": "41"
 }
 ```
-### Vehicle Speed 2
+### Vehicle Speed 2 ✨
 > [!TIP]
 > **Adjust `DFIntDebugSimPrimalWarmstartVelocity` or `DFIntBulletContactBreakOrthogonalThresholdPercent` and find the best values for you**
 ```json
@@ -1668,8 +1557,6 @@ High
 }
 ```
 
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 <h1 align="center">Abusive Visuals</h1>
 
 ### Semi Fullbright
@@ -1707,10 +1594,7 @@ High
     "DFFlagDebugDrawBvhNodes": "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
-### Buggy ZPlane Camera
+### Buggy ZPlane Camera ✨
 ```json
 {
     "FIntCameraFarZPlane": "1"
@@ -1722,7 +1606,7 @@ High
     "FFlagDebugHumanoidRendering": "True"
 }
 ```
-### Xray
+### Xray ✨
 ```json
 {
     "DFIntCullFactorPixelThresholdMainViewHighQuality": "10000",
@@ -1878,9 +1762,6 @@ High
     "FFlagDebugEnableErrorStringTesting": "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### logs stuff in dev console
 ```json
 {
@@ -1900,9 +1781,6 @@ High
     "DFFlagDebugPrintDataPingBreakDown": "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Self Explanatory 2
 ```json
 {
@@ -1937,9 +1815,6 @@ High
     "FFlagUserClickToMoveSupportAgentCanClimb2": "False"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Self Explanatory 6
 > [!NOTE]
 > **Disable Feedback Button in ESC**
@@ -1961,9 +1836,6 @@ High
     "DFFlagDebugSimulateHangAtStartup": "True"
 }
 ```
-
-<a href="http://real-debrid.com/?id=12311269" title="Real-Debrid"><img src="http://real-debrid.com/static/images/banner/en.png" /></a>
-
 ### Self Explanatory 9
 ```json
 {
