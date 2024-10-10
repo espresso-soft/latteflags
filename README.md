@@ -1266,7 +1266,7 @@ High
 ```
 ### Bounce God
 ##### cameroon56378
-```
+```json
 {
 "DFIntMaxAltitudePDStickHipHeightPercent": "-200",
 "DFIntDebugSimPrimalLineSearch": "1",
