@@ -33,6 +33,7 @@
 * **`Noclip 4`**
 * **`Freeze 2`**
 * **`Grail Statuses`**
+* **`Bounce God`**
 * **Updated Counting**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
@@ -1263,6 +1264,16 @@ High
     "DFIntDataSenderRate": "-1"
 }
 ```
+### Bounce God
+##### cameroon56378
+```
+{
+"DFIntMaxAltitudePDStickHipHeightPercent": "-200",
+"DFIntDebugSimPrimalLineSearch": "1",
+"FFlagDebugSimDefaultPrimalSolver": "True"
+}
+```
+
 ### Disable Touch Events
 ```json
 {
