@@ -28,12 +28,16 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Version: `10.07.24` `2024 MUSIC`
-* **215 Currently Listed**
-* **`Noclip 4`**
-* **`Freeze 2`**
-* **`Grail Statuses`**
-* **Updated Counting**
+#### Version: `10.10.24` `F R E A K`
+* **224 Currently Listed**
+* **`Noclip 5`**
+* **`Noclip 6`**
+* **`Delayed Animations`**
+* **`Bouncy`**
+* **`Increased Grass Motion` `No Grass Motion`**
+* **`Low Gravity`**
+* **`Upside Down while slowly being sent to heaven`**
+* **`Slow Walk + Low Gravity`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## List Meanings
@@ -172,6 +176,17 @@ Wish it was different than what it was
 
 <h1 align="center">Graphical Settings</h1>
 
+### Increased Grass Motion & No Grass Motion
+```json
+{
+    "FIntGrassMovementReducedMotionFactor": 999
+}
+```
+```json
+{
+    "FIntGrassMovementReducedMotionFactor": 0
+}
+```
 ### No Bloom/Clouds
 ###### @burgerboxer
 ```json
@@ -1213,6 +1228,14 @@ High
     "DFFlagSimHumanoidTimestepModelUpdate": "True"
 }
 ```
+### Bouncy
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntMaxAltitudePDStickHipHeightPercent": "-200",
+    "DFIntDebugSimPrimalLineSearch": "1"
+}
+```
 ### Drunk
 ```json
 {
@@ -1227,6 +1250,12 @@ High
 ```json
 {
     "DFIntReplicatorAnimationTrackLimitPerAnimator": "-1"
+}
+```
+### Delayed Animations
+```json
+{
+    "FFlagProcessAnimationLooped": "False"
 }
 ```
 ### Stick unanchored parts to you
@@ -1350,6 +1379,22 @@ High
     "DFIntDebugSimPrimalNewtonIts": "1"
 }
 ```
+### Noclip 5
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "FFlagDebugSimPrimalGSLump": "True",
+    "FIntDebugSimPrimalGSLumpAlpha": "-1111"
+}
+```
+### Noclip 6
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalPreconditioner": "1",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "10"
+}
+```
 ### Freeze 1
 ```json
 {
@@ -1413,26 +1458,18 @@ High
     "DFIntDebugSimPrimalLineSearch": "3"
 }
 ```
-### Void Unanchored Parts
-```json
-{
-    "FFlagDebugSimDefaultPrimalSolver": "True",
-    "DFIntDebugSimPrimalLineSearch": "222"
-}
-```
 ### Low Gravity 2
 > [!CAUTION]
 > **This is more buggy**
 ```json
 {
-  "FFlagDebugSimDefaultPrimalSolver": "True",
-  "DFIntDebugSimPrimalPreconditioner": "100",
-  "DFIntDebugSimPrimalPreconditionerMinExp": "100",
-  "DFIntDebugSimPrimalNewtonIts": "1",
-  "FFlagDebugSimDefaultPrimalSolver": "True",
-  "DFIntDebugSimPrimalWarmstartVelocity": "-150",
-  "DFIntDebugSimPrimalWarmstartForce": "-775",
-  "DFIntDebugSimPrimalToleranceInv": "1"
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalPreconditioner": "100",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "100",
+    "DFIntDebugSimPrimalNewtonIts": "1",
+    "DFIntDebugSimPrimalWarmstartVelocity": "-150",
+    "DFIntDebugSimPrimalWarmstartForce": "-775",
+    "DFIntDebugSimPrimalToleranceInv": "1"
 }
 ```
 ### Low Gravity 2 Control on Parts Improvement
@@ -1445,6 +1482,38 @@ High
     "DFIntDebugSimPrimalToleranceInv": "1",
     "DFIntDebugSimPrimalWarmstartForce": "-150",
     "DFIntDebugSimPrimalWarmstartVelocity": "100"
+}
+```
+### Low Gravity 3
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "FFlagDebugSimPrimalGSLump": "True",
+    "FIntDebugSimPrimalGSLumpAlpha": "-1111"
+}
+```
+### Slow Walk + Low Gravity 
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalLineSearch": "1",
+    "DFIntDebugSimPrimalWarmstartVelocity": "50"
+}
+```
+### Upside Down while slowly being sent to heaven
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalLineSearch": "1",
+    "DFIntDebugSimPrimalWarmstartForce": "1000",
+    "DFIntDebugSimPrimalWarmstartVelocity": "50"
+}
+```
+### Void Unanchored Parts
+```json
+{
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalLineSearch": "222"
 }
 ```
 ### Tool Fly
@@ -1476,13 +1545,15 @@ High
 > **I may not have found this first, but I discovered this by myself.**
 ```json
 {
-  "DFIntDebugSimPrimalNewtonIts": "1",
-  "DFIntDebugSimPrimalPreconditioner": "69",
-  "DFIntDebugSimPrimalPreconditionerMinExp": "69",
-  "DFIntDebugSimPrimalToleranceInv": "1",
-  "DFIntDebugSimPrimalWarmstartForce": "-885",
-  "DFIntDebugSimPrimalWarmstartVelocity": "-350",
-  "FFlagDebugSimDefaultPrimalSolver": "True"
+    "FFlagDebugSimDefaultPrimalSolver": "True",
+    "DFIntDebugSimPrimalNewtonIts": "1",
+    "DFIntDebugSimPrimalPreconditioner": "69",
+    "DFIntDebugSimPrimalPreconditionerMinExp": "69",
+    "DFIntDebugSimPrimalToleranceInv": "1",
+    "DFIntDebugSimPrimalWarmstartForce": "-885",
+    "DFIntDebugSimPrimalWarmstartVelocity": "-350",
+    "FFlagDebugSimPrimalGSLump": "True",
+    "FIntDebugSimPrimalGSLumpAlpha": "-1111"
 }
 ```
 ### Vehicle Speed 1
