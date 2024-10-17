@@ -10,12 +10,6 @@
 <h4 align="center">Join our Discord Server to contribute & expand our list (We need you)</h4>
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
 
-<h3 align="center">
-  <img src="https://media.discordapp.net/attachments/1272692993211498548/1290182172526903388/im_a_loser.jpg?ex=66fb8748&is=66fa35c8&hm=14a1da71b1da4fc319d0e778bcef515ede730ceddf2583d84740fa9442526447&" width="256" alt="how to be a loser in 2024">
-</h3>
-
-🤓🤓
-
 <h4 align="center">Join our Roblox group</h4>
 <h5 align="center">https://www.roblox.com/groups/34911020/FIVE55</h5>
 
@@ -27,6 +21,8 @@
 
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
+
+<h3 align="center">tell pizzaboxer to make good updates</h3>
 
 #### Version: `10.10.24` `F R E A K`
 * **225 Currently Listed**
