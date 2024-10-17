@@ -49,7 +49,7 @@
 
 ## Normal Roblox Bootstrapper How to Use:
 ###### You can also do Roblox Studio
-1. **Navigate** to your **Roblox Installation directory**. Typically found at `%localappdata%\Roblox\Versions\` or `C:\Program Files (x86)\Roblox\Versions`.**
+1. **Navigate** to your **Roblox Installation directory**. Typically found at `%localappdata%\Roblox\Versions\` or `C:\Program Files (x86)\Roblox\Versions`.
 2. **Identify** the folder `version-xxxxxxxxxxxxxxxx` ~~containing `RobloxPlayerBeta.exe`~~ **You can do this for Roblox Studio too.**
 3. **Create a new folder named `ClientSettings`. Inside this folder, **add** a file `ClientAppSettings.json`.**
 4. **Paste** the **JSON** into `ClientAppSettings.json`. (**You can utilize ChatGPT to format multiple JSONs for clarity if needed**)
@@ -77,8 +77,6 @@
 2. **Add** a **semicolon after** the Value (`;`). **Examples**: `True;`, `1;`.**
 3. **Include** a **Place ID after** the **semicolon**. **Examples**: `True;4483381587`, `1;4483381587`.
 4. Your configuration is **complete**!**
-
-###### This is no method is no longer available on Bloxstrap because pizzaboxer a stupid Int Bool stupid ass check
 
 # List Navigation
 * **[Rendering](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#rendering)**
