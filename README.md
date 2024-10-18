@@ -93,8 +93,6 @@
 * **[Debug](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#debug)**
 * **[Links](https://github.com/espresso-soft/rbxflags/tree/master?tab=readme-ov-file#links)**
 
-<img src="assets/bitdancer.png" width="888"/>
-
 <div align="center">
 
 <b>
@@ -168,7 +166,7 @@ Wish it was different than what it was
 }
 ```
 ### Unified Lighting
-```
+```json
 {
     "FFlagRenderUnifiedLighting6": "True"
 }
