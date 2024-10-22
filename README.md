@@ -168,7 +168,8 @@ Wish it was different than what it was
 ### Unified Lighting
 ```json
 {
-    "FFlagRenderUnifiedLighting6": "True"
+    "FFlagRenderUnifiedLighting6": "True",
+    "FFlagUnifiedLightingBetaFeature": "True"
 }
 ```
 
@@ -809,6 +810,7 @@ High
 ### V1 Menu Fix
 ```json
 {
+    "FFlagSettingsHubIndependentBackgroundVisibility": "True",
     "FFlagFixReportButtonCutOff": "False"
 }
 ```
