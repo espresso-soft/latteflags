@@ -25,8 +25,12 @@
 <h3 align="center">tell pizzaboxer to make good updates</h3>
 
 #### Version: `10.10.24` `F R E A K`
-* **196 Currently Listed**
+* **200 Currently Listed**
 * **Removed 28 FastFlags**
+* **`Slide on Terrain/Meshes`**
+* **`Self Explanatory 10`**
+* **`Self Explanatory 11`**
+* **`break everything`**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
 ## List Meanings
@@ -1368,6 +1372,12 @@ High
     "DFIntMaxClientSimulationRadius": "2147000000"
 }
 ```
+### Slide on Terrain/Meshes
+```
+{
+    "DFIntSmoothTerrainPhysicsRayAabbSlop": "-9999"
+}
+```
 
 <h1 align="center">Abusive Visuals</h1>
 
@@ -1419,6 +1429,7 @@ High
 }
 ```
 ### Xray ✨
+###### @tyetonix
 ```json
 {
     "DFIntCullFactorPixelThresholdMainViewHighQuality": "10000",
@@ -1434,6 +1445,22 @@ High
 
 <h1 align="center">lol</h1>
 
+### break everything
+```
+{
+    "DFIntHttpRbxApiClientPerMinuteRequestLimit": "60",
+    "DFIntHttpRbxApiJobFrequencyInSeconds": "60",
+    "DFIntHttpRbxApiMaxBudgetMultiplier": "2",
+    "DFIntHttpRbxApiMaxRetryBudgetPerMinute": "60",
+    "DFIntHttpRbxApiMaxRetryCount": "3",
+    "DFIntHttpRbxApiMaxRetryQueueSize": "1000",
+    "DFIntHttpRbxApiMaxSyncRetries": "3",
+    "DFIntHttpRbxApiPerMinuteRequestLimit": "60",
+    "DFIntHttpRbxApiSameUrlRequestLimit": "30",
+    "DFIntHttpRbxApiServiceDecaySeconds": "300",
+    "DFIntHttpRbxApiMaxThrottledQueue": "500"
+}
+```
 ### Stop the Chinese from spying on you
 ```json
 {
@@ -1585,6 +1612,21 @@ High
 ```json
 {
     "DFFlagDebugSimulateHangAtShutdown": "True"
+}
+```
+### Self Explanatory 10
+> [!NOTE]
+> **LDL Program Stats**
+```json
+{
+    "DFFlagDebugSimLDLProgramPrintBuildStats": "True",
+    "DFFlagDebugSimLDLProgramPrintExecStats": "True"
+}
+```
+### Self Explanatory 11
+```json
+{
+    "FFlagDebugCountSimBodyAllocations": "True"
 }
 ```
 <h1 align="center">Community Presets</h1>
