@@ -1426,7 +1426,7 @@ Switch your channel to zprojectuwpua for a temporary fix!
 ```json
 {
     "FFlagDebugAvatarChatVisualization": "True",
-    "FFlagEnableInGameMenuChromeABTest2": "False"
+    "FFlagEnableInGameMenuChromeABTest4": "False"
 }
 ```
 ### Humanoid Outline
