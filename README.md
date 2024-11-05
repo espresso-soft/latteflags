@@ -564,12 +564,6 @@ High
     "DFIntCanHideGuiGroupId": "ID"
 }
 ```
-### Remove layared clothing related for searching in lua app catalog
-```json
-{
-    "FStringAXCategories": "ClassicShirts.ClassicTShirts.ClassicPants"
-}
-```
 ### Disable Fullscreen Title Bar
 ```json
 {
