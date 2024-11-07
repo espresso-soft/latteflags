@@ -932,7 +932,7 @@ Switch your channel to zprojectuwpua for a temporary fix!
 ### Blue Theme
 ```json
 {
-    "FFlagLuaAppEnableFoundationColors6": "True"
+    "FFlagLuaAppEnableFoundationColors7": "True"
 }
 ```
 ### No Transparency V4 Menu **(2023)**
