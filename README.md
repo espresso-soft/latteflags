@@ -997,6 +997,7 @@ Switch your channel to zprojectuwpua for a temporary fix!
 }
 ```
 ### Disable Bubble Chat
+###### Only works on LegacyChatService (old chat gui).
 ```json
 {
     "FFlagEnableBubbleChatFromChatService": "False"
