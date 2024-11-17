@@ -14,7 +14,7 @@
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 #### Version: `11.17.24` `I AM MUSIC`
-* **211 Currently Listed**
+* **210 Currently Listed (ong cant count anymore)**
 * **`Red Font`**
 * **`New Report Menu`**
 * **Managed by Espresso Security Agents**
@@ -160,7 +160,7 @@ Wish it was different than what it was
 <h1 align="center">Graphical Settings</h1>
 
 ### Disable Highlights 
-```
+```json
 {
     "DFFlagRenderHighlightManagerPrepare": "True"
 }
@@ -1413,14 +1413,14 @@ Switch your channel to zprojectuwpua for a temporary fix!
 ```
 ### Slide on Terrain/Meshes
 ###### @tyetonix
-```
+```json
 {
     "DFIntSmoothTerrainPhysicsRayAabbSlop": "-9999"
 }
 ```
 ### Drive Vehicles Slow
 ###### @tyetonix
-```
+```json
 {
     "DFIntPhysicsImprovedCyclicExecutiveThrottleThresholdTenth": "0"
 }
@@ -1493,7 +1493,7 @@ Switch your channel to zprojectuwpua for a temporary fix!
 <h1 align="center">lol</h1>
 
 ### break everything
-```
+```json
 {
     "DFIntHttpRbxApiClientPerMinuteRequestLimit": "60",
     "DFIntHttpRbxApiJobFrequencyInSeconds": "60",
@@ -1684,7 +1684,7 @@ Switch your channel to zprojectuwpua for a temporary fix!
 }
 ```
 ### Self Explanatory 12
-```
+```json
 {
     "FIntNewDevConsoleMaxLogCount": "2147483647"
 }
