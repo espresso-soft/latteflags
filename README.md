@@ -14,8 +14,9 @@
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
 #### Version: `11.17.24` `I AM MUSIC`
-* **210 Currently Listed (ong cant count anymore)**
+* **211 Currently Listed (ong cant count anymore)**
 * **`Red Font`**
+* **`Autoexplicativo Numero 13`**
 * **`New Report Menu`**
 * **Managed by Espresso Security Agents**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
@@ -1689,6 +1690,13 @@ Switch your channel to zprojectuwpua for a temporary fix!
     "FIntNewDevConsoleMaxLogCount": "2147483647"
 }
 ```
+### Autoexplicativo Numero 13
+```json
+{
+    "FFlagDebugAlwaysDisplayRenderStats": "True"
+}
+```
+
 <h1 align="center">Community Presets</h1>
 
 <h4 align="center">We are not accepting performance Fast Flags that aren't listed or known.</h4>
