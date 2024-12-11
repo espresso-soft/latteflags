@@ -1789,4 +1789,4 @@ Switch your channel to zprojectuwpua for a temporary fix!
   [![Discord](https://img.shields.io/discord/1241247795470536725?logo=discord&logoColor=white&label=discord&color=4d3dff)](https://discord.gg/HNe7fzR9xg)
 
 </div>
-<h4 align="center">© 2024 Espresso Softworks All Rights Reserved.</h4>
+<h4 align="center">© 2025 Espresso Softworks All Rights Reserved.</h4>
