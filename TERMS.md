@@ -32,4 +32,4 @@ By accessing this repository, you agree that you have read and agree with this r
 <h3 align="center">
   <img src="assets/espresso_soft.jpeg" width="128" alt="Espresso Softworks">
 </h3>
-<h4 align="center">© 2024 Espresso Softworks All Rights Reserved.</h4>
+<h4 align="center">© 2025 Espresso Softworks All Rights Reserved.</h4>
