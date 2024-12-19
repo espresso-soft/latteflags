@@ -12,12 +12,18 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Version: `11.17.24` `I AM MUSIC`
-* **212 Currently Listed (ong cant count anymore)**
-* **`Red Font`**
-* **`Autoexplicativo Numero 13`**
-* **`New Report Menu`**
-* **`Slide on Walls`**
+#### Version: `12.27.24` `I AM MUSIC`
+* **218 Currently Listed (ong cant count anymore)**
+* **Remove `Custom Accessory Positions`**
+* **Remove `Chrome UI Topbar`**
+* **`New Experience Menu`**
+* **`Experience Menu Reorder`**
+* **`Reset Character instead of Respawn in Experience Menu`**
+* **`00`**
+* **`Reshuffle Party Icons`**
+* **`Rename Party 2 Roblox Chat`**
+* **`Enable Highlight Outlines on any Rendering API`**
+* **`Self Explanatory 14`**
 * **Managed by Espresso Security Agents**
 * **[Upcoming Updates Progress](assets/lists/updates/progress.md)**
 
@@ -192,6 +198,12 @@ Wish it was different than what it was
 ```json
 {
     "FIntGrassMovementReducedMotionFactor": "0"
+}
+```
+### Enable Highlight Outlines on any Rendering API
+```json
+{
+    "FFlagHighlightOutlinesOnMobile": "True"
 }
 ```
 ### No Bloom/Clouds
@@ -731,6 +743,24 @@ High
     "FStringExperienceGuidelinesExplainedPageUrl": "https://playboicarti.com"
 }
 ```
+### 00
+```json
+{
+    "FFlagAppChatAddConnectUnibarForActiveSquad": "False"
+}
+```
+### Reshuffle Party Icons
+```json
+{
+    "FFlagReshufflePartyIconsInUnibar": "False"
+}
+```
+### Rename Party 2 Roblox Chat
+```json
+{
+    "FFlagAppChatRebrandStringUpdates": "False"
+}
+```
 
 <h1 align="center">User Interface/Visuals</h1>
 
@@ -1089,18 +1119,25 @@ Switch your channel to zprojectuwpua for a temporary fix!
     "FFlagBetterTrackpadScrolling": "True"
 }
 ```
+### Experience Menu Reorder 
+```json
+{
+    "FFlagOverrideInExperienceMenuReorderVariant1": "True"
+}
+```
+### Reset Character instead of Respawn in Experience Menu
+```json
+{
+    "FFlagInExperienceMenuResetButtonTextToRespawn": "False"
+}
+```
 
 <h1 align="center">User Interface/Visuals Experimental</h1>
 
-### Custom Accessory Positions <sup>Working in game</sup>
+### New Experience Menu
 ```json
 {
-    "FFlagAXAccessoryAdjustment": "True",
-    "FFlagAXAccessoryAdjustmentIXPEnabled": "True",
-    "FFlagAXAccessoryAdjustmentIXPEnabledForAll": "True",
-    "FFlagAXAvatarFetchResultCamelCase": "True",
-    "FFlagAccessoryAdjustmentEnabled3": "True",
-    "FFlagAccessoryAdjustmentEnabled4": "True"
+    "FFlagRefactorInExpGameSettings2" "True"
 }
 ```
 ### Enable First Time User Experience for Chrome UI
@@ -1141,14 +1178,6 @@ Switch your channel to zprojectuwpua for a temporary fix!
     "FFlagUseNewPinIcon": "False"
 }
 ```
-### Chrome UI TopBar
-```json
-{
-    "FFlagEnableReportAbuseMenuRoactABTest2": "True",
-    "FFlagEnableInGameMenuChromeABTest2": "True",
-    "FFlagEnableInGameMenuChromeABTest3": "True"
-}
-```
 ### Chrome UI Topbar Removal
 ```json
 {
@@ -1180,6 +1209,15 @@ Switch your channel to zprojectuwpua for a temporary fix!
 ```json
 {
     "DFStringDefaultAvatarDeathType": "Ragdoll"
+}
+```
+### crash__()
+
+> [!IMPORTANT]
+> **Studio Only**
+```json
+{
+    "FFlagDebugCrashEnabled": "False"
 }
 ```
 
@@ -1697,10 +1735,19 @@ Switch your channel to zprojectuwpua for a temporary fix!
     "FIntNewDevConsoleMaxLogCount": "2147483647"
 }
 ```
-### Autoexplicativo Numero 13
+### Self Explanatory 13
 ```json
 {
     "FFlagDebugAlwaysDisplayRenderStats": "True"
+}
+```
+### Self Explanatory 13
+###### set to 0 for the super fps boost trust it works
+> [!NOTE]
+> **Default value is 650, higher value more usage lower value less**
+```json
+{
+    "FIntRenderMaxShadowAtlasUsageBeforeDownscale": "650"
 }
 ```
 
