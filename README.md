@@ -70,19 +70,19 @@
 4. Your configuration is **complete**!**
 
 # List Navigation
-* **[Rendering](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#rendering)**
-* **[Lightning Technologies](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#lightning-technologies)**
-* **[Graphical](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#graphical-settings)**
-* **[Quality of Life](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#quality-of-life)**
-* **[UI](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#user-interfacevisuals)**
-* **[UI X](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#user-interfacevisuals-experimental)**
-* **[Audio](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#audio-related)**
-* **[Physics](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#physics-abusive)**
-* **[Abusive Visuals](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#abusive-visuals)**
-* **[Abusive Game Presets](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#abusive-game-specific-presets)**
-* **[lol](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#lol)**
-* **[Debug](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#debug)**
-* **[Links](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#links)**
+* **[Rendering](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#rendering)**
+* **[Lightning Technologies](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#lightning-technologies)**
+* **[Graphical](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#graphical-settings)**
+* **[Quality of Life](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#quality-of-life)**
+* **[UI](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#user-interfacevisuals)**
+* **[UI X](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#user-interfacevisuals-experimental)**
+* **[Audio](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#audio-related)**
+* **[Physics](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#physics-abusive)**
+* **[Abusive Visuals](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#abusive-visuals)**
+* **[Abusive Game Presets](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#abusive-game-specific-presets)**
+* **[lol](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#lol)**
+* **[Debug](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#debug)**
+* **[Links](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#links)**
 
 <div align="center">
 
@@ -322,7 +322,7 @@ High
 ```
 ### Low Render Distance
 > [!TIP]
-> **[View FRM Levels](https://github.com/espresso-soft/latteflags/tree/mocha?tab=readme-ov-file#frm-levels)**
+> **[View FRM Levels](https://github.com/espresso-soft/latteflags/tree/caffe?tab=readme-ov-file#frm-levels)**
 ```json
 {
     "DFIntDebugRestrictGCDistance": "1"
