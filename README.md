@@ -12,8 +12,8 @@
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
 
-#### Version: `12.27.24` `I AM MUSIC`
-* **218 Currently Listed (ong cant count anymore)**
+#### Version: `01.01.25`
+* **215 Currently Listed**
 * **Remove `Custom Accessory Positions`**
 * **Remove `Chrome UI Topbar`**
 * **`New Experience Menu`**
@@ -1134,6 +1134,12 @@ Switch your channel to zprojectuwpua for a temporary fix!
 
 <h1 align="center">User Interface/Visuals Experimental</h1>
 
+### Multi Try On [App Catalog]
+```json
+{
+   "FFlagAXEnableMultiTryOnUI": "True"
+}
+```
 ### New Experience Menu
 ```json
 {
