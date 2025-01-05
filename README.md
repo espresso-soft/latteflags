@@ -1,13 +1,14 @@
-> [!NOTE]
-> If you find our repository useful don't forget to star!
-
 <h3 align="center">
   <img src="assets/pbc.gif" width="256" alt="Playboi Carti">
 </h3>
 
 <h1 align="center">#RBXFLAG$</h1>
 
+<h5 align="center">https://fastvariable.github.io/espressoweb</h5>
+
 <h5 align="center">https://discord.gg/HNe7fzR9xg</h5>
+
+<!--
 
 > [!CAUTION]
 > **Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, they can cause issues with stability and functionality if you don't know what you're doing.**
