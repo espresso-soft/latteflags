@@ -5,7 +5,7 @@ visibility: hidden
 -->
 <div align="center">
     
-# This project has beben discontinued
+# This project has been discontinued
 
 ### *✧× alternative links to third-party projects like this ×✧*
 
