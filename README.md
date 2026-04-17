@@ -5,13 +5,13 @@ visibility: hidden
 -->
 <div align="center">
     
-# This project has been discontinued
+# This project is being maintained in a different repository
 
-### *✧× alternative links to third-party projects like this ×✧*
+### *✧× links to projects ×✧*
 
-#### ⭐ https://fastflags.space
-##### 🪞 https://fastflags.netlify.app/
+#### ⭐ https://github.com/jayrollingdice/proxy-fastflags
+##### ⭐ https://imgui.cc/
 
 </div>
 
-<h4 align="center">© 2025 Espresso Softworks</h4>
+<h4 align="center">© 2026 Espresso Softworks/imgui.cc</h4>
